@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "CZ",
+  "notes": [
+    {
+      "id": "outlines.cz.mountain-rim",
+      "countries": [
+        "CZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CZ": {
+          "type": "place",
+          "lat": 50.0,
+          "lon": 14.0
+        }
+      },
+      "text": {
+        "en": "A ring of weathered mountain ranges encircles a central lowland plateau."
+      },
+      "label": {
+        "en": "FORTIFIED BASIN"
+      },
+      "body": {
+        "en": "Ancient crustal blocks were thrust upward along regional fault lines, forming a protective mountain rim around the central basin. These boundary ridges intercept moisture and historically formed clear natural ramparts around the interior plains."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bohemian_Massif"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cz.sandstone-towers",
+      "countries": [
+        "CZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CZ": {
+          "type": "place",
+          "lat": 50.6,
+          "lon": 16.1
+        }
+      },
+      "text": {
+        "en": "Centuries of frost and water carved thick sandstone into labyrinth cities."
+      },
+      "label": {
+        "en": "ROCK CITIES"
+      },
+      "body": {
+        "en": "Cretaceous marine sandstones deposited in an inland sea cracked along rectangular joint systems as the land rose. Water, ice, and wind eroded the fractures into deep, cool ravines and slender sandstone towers towering above pine woods."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Adr%C5%A1pach-Teplice_Rocks"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cz.karst-abyss",
+      "countries": [
+        "CZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CZ": {
+          "type": "place",
+          "lat": 49.4,
+          "lon": 16.7
+        }
+      },
+      "text": {
+        "en": "Collapsed subterranean caverns open into a sheer hundred-metre gorge."
+      },
+      "label": {
+        "en": "SUNKEN ABYSS"
+      },
+      "body": {
+        "en": "Devonian limestone beds in the eastern hills dissolved into extensive multi-tiered cave networks. When the roof of a colossal underground chamber collapsed, it opened a sheer-sided vertical chasm with a dark subterranean river at its base."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Macocha_Gorge"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cz.basalt-cones",
+      "countries": [
+        "CZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CZ": {
+          "type": "place",
+          "lat": 50.5,
+          "lon": 14.1
+        }
+      },
+      "text": {
+        "en": "Ancient magma conduits resist erosion to stand as isolated conical hills."
+      },
+      "label": {
+        "en": "VOLCANIC PLUGS"
+      },
+      "body": {
+        "en": "Tertiary rifting fractured the crust and allowed basaltic lava to ascend toward the surface. While softer sedimentary layers wore away over millions of years, the hardened volcanic necks remained, creating distinctive isolated conical peaks."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/%C4%8Cesk%C3%A9_St%C5%99edoho%C5%99%C3%AD"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cz.canyon-outlet",
+      "countries": [
+        "CZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CZ": {
+          "type": "place",
+          "lat": 50.7,
+          "lon": 14.2
+        }
+      },
+      "text": {
+        "en": "The central river slices through a mountain barrier into neighbouring lands."
+      },
+      "label": {
+        "en": "SANDSTONE GORGE"
+      },
+      "body": {
+        "en": "All streams draining the interior basin gather into a single master river. Instead of being blocked by the northern mountain rim, the river cut a dramatic sandstone canyon right through the ridge, carving the basin's only low-level water exit."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Elbe"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cz.triple-divide",
+      "countries": [
+        "CZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CZ": {
+          "type": "place",
+          "lat": 50.1,
+          "lon": 16.8
+        }
+      },
+      "text": {
+        "en": "Runoff from a single mountain peak flows toward three different seas."
+      },
+      "label": {
+        "en": "TRIPLE DIVIDE"
+      },
+      "body": {
+        "en": "Positioned at the hydrographic roof of the continent, the country's central highlands split continental drainage. Precipitation falling on a single mountain ridge feeds headstreams that diverge to the North Sea, the Baltic Sea, and the Black Sea."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/European_watershed"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cz.upland-bogs",
+      "countries": [
+        "CZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CZ": {
+          "type": "place",
+          "lat": 49.0,
+          "lon": 13.5
+        }
+      },
+      "text": {
+        "en": "Ancient upland peat bogs store rainfall and feed pure forest rivers."
+      },
+      "label": {
+        "en": "MOUNTAIN SPONGE"
+      },
+      "body": {
+        "en": "Gentle mountain plateaus along the southwestern border trap snowmelt in dense peat moss blankets. These dark, acidic moorlands regulate seasonal runoff and supply pristine, mineral-poor water to downstream trout streams."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/%C5%A0umava_National_Park"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cz.fishpond-wetlands",
+      "countries": [
+        "CZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CZ": {
+          "type": "place",
+          "lat": 49.0,
+          "lon": 14.8
+        }
+      },
+      "text": {
+        "en": "Interconnected earthen fishponds transform flat clay basins into wetlands."
+      },
+      "label": {
+        "en": "CHAINED PONDS"
+      },
+      "body": {
+        "en": "Constructed during the sixteenth century across swampy lowlands, hundreds of artificial ponds linked by canals and oak-lined dykes regulate seasonal floodwaters. The shallow ponds still support carp aquaculture and rich wetland bird life."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/T%C5%99ebo%C5%88_Basin"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cz.primeval-forests",
+      "countries": [
+        "CZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CZ": {
+          "type": "place",
+          "lat": 48.8,
+          "lon": 13.8
+        }
+      },
+      "text": {
+        "en": "Remnants of virgin mountain forest preserve centuries-old firs and beeches."
+      },
+      "label": {
+        "en": "OLD FORESTS"
+      },
+      "body": {
+        "en": "Protected by steep mountain ridges, pockets of ancient woodland survived without commercial logging. Fallen decomposing logs nurture fungal networks and provide essential nesting hollows for rare boreal owls and woodpeckers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Boub%C3%ADn_Primeval_Forest"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cz.lowland-woods",
+      "countries": [
+        "CZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CZ": {
+          "type": "place",
+          "lat": 48.8,
+          "lon": 16.8
+        }
+      },
+      "text": {
+        "en": "Spring wildflowers bloom carpet-thick before dense oak leaves cast shade."
+      },
+      "label": {
+        "en": "CANOPY SHIFT"
+      },
+      "body": {
+        "en": "In temperate river floodplains, diverse hardwood forests leaf out late in spring. Before the dense canopy closes, abundant sunlight reaches the forest floor, triggering a spectacular brief bloom of wood anemones and wild garlic."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Central_European_mixed_forests"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cz.solitary-stalkers",
+      "countries": [
+        "CZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CZ": {
+          "type": "place",
+          "lat": 49.1,
+          "lon": 13.6
+        }
+      },
+      "text": {
+        "en": "Dense border forests provide vast territories for solitary tufted-eared cats."
+      },
+      "label": {
+        "en": "SECRET PREDATORS"
+      },
+      "body": {
+        "en": "Quiet spruce and beech woods along the southwestern ranges allow large cats to hunt roe deer unseen. Dense boulder fields and fallen trees offer secure daytime dens where mothers raise kittens away from human paths."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eurasian_lynx"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cz.limestone-steppe",
+      "countries": [
+        "CZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CZ": {
+          "type": "place",
+          "lat": 48.8,
+          "lon": 16.6
+        }
+      },
+      "text": {
+        "en": "Sun-baked limestone slopes nurture warm steppe wildflowers."
+      },
+      "label": {
+        "en": "WARM ENCLAVES"
+      },
+      "body": {
+        "en": "Dry, south-facing limestone cliffs in the south heat up quickly in summer. Thin rendzina soils dry out rapidly, preventing trees from establishing and creating islands of steppe grassland filled with rare irises and feather grasses."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/P%C3%A1lava_Protected_Landscape_Area"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

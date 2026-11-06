@@ -1,0 +1,345 @@
+{
+  "version": 1,
+  "country": "TR",
+  "notes": [
+    {
+      "id": "outlines.tr.fault",
+      "countries": [
+        "TR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "TR": {
+          "type": "place",
+          "lat": 40.73,
+          "lon": 31.6
+        }
+      },
+      "text": {
+        "en": "Two plates grind past each other here, so quakes often shake the towns."
+      },
+      "label": {
+        "en": "GRINDING PLATES"
+      },
+      "body": {
+        "en": "A long crack in the crust runs east to west across the north. Plates slide sideways along it and lock, then slip suddenly, and earthquakes follow. Towns near the fault have been rebuilt many times, and building rules now aim to resist the shaking."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/North_Anatolian_Fault"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.tr.rimmedplateau",
+      "countries": [
+        "TR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "TR": {
+          "type": "place",
+          "lat": 38.8,
+          "lon": 33.5
+        }
+      },
+      "text": {
+        "en": "A high interior with mountains on both sides, dry because of them."
+      },
+      "label": {
+        "en": "RIMMED PLATEAU"
+      },
+      "body": {
+        "en": "Mountains close in the high interior along the north and south coasts. They take the rain from moist sea winds, leaving the plateau between them dry and almost treeless, with cold winters and hot summers. Grain and sheep dominate the plains."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anatolian_Plateau",
+        "https://en.wikipedia.org/wiki/Central_Anatolia_Region"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.tr.fairychimneys",
+      "countries": [
+        "TR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "TR": {
+          "type": "place",
+          "lat": 38.65,
+          "lon": 34.83
+        }
+      },
+      "text": {
+        "en": "Volcanic ash hardened into soft rock, and wind and rain carved it into pillars."
+      },
+      "label": {
+        "en": "CAPPED PILLARS"
+      },
+      "body": {
+        "en": "Eruptions blanketed the land with ash that turned into soft rock, capped in places by a layer of harder lava. Rain and frost washed away the soft rock but left columns under the hard caps. The rock is so easy to carve that people dug homes, churches and storerooms into it."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/G%C3%B6reme_National_Park",
+        "https://en.wikipedia.org/wiki/Fairy_chimney"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.tr.karstmountains",
+      "countries": [
+        "TR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "TR": {
+          "type": "place",
+          "lat": 37.3,
+          "lon": 34.6
+        }
+      },
+      "text": {
+        "en": "Limestone mountains riddled with caves and sinkholes."
+      },
+      "label": {
+        "en": "HOLLOW MOUNTAINS"
+      },
+      "body": {
+        "en": "A high, steep range of limestone runs along the south. Rainwater dissolves the rock, so it is full of caves, sinkholes and streams that run underground, and many rivers emerge from springs. Few streams run on the surface, and snow in the highlands feeds the springs below."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taurus_Mountains",
+        "https://en.wikipedia.org/wiki/Karst"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.tr.sodalake",
+      "countries": [
+        "TR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "TR": {
+          "type": "place",
+          "lat": 38.6,
+          "lon": 42.9
+        }
+      },
+      "text": {
+        "en": "A lake with no outlet, dammed by a volcano, so salts build up."
+      },
+      "label": {
+        "en": "CLOSED SODA LAKE"
+      },
+      "body": {
+        "en": "Lava from a nearby volcano blocked the valley and trapped the water in a basin, which has no way out. Rivers bring in minerals, and evaporation leaves them behind, so the lake is salty and strongly alkaline. Just one fish species lives in it, and it swims up freshwater streams to spawn."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Van",
+        "https://en.wikipedia.org/wiki/Pearl_mullet"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.tr.saltlake",
+      "countries": [
+        "TR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "TR": {
+          "type": "place",
+          "lat": 38.75,
+          "lon": 33.35
+        }
+      },
+      "text": {
+        "en": "A shallow salt lake in a closed basin that shrinks in summer."
+      },
+      "label": {
+        "en": "VANISHING SHALLOWS"
+      },
+      "body": {
+        "en": "Water flows into this flat basin but cannot flow out. In the dry season the shallow lake nearly all evaporates, leaving a white crust of salt, and much of the country's salt is taken from it. In spring flamingos arrive to breed on the shallows."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Tuz"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.tr.headwaters",
+      "countries": [
+        "TR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "TR": {
+          "type": "place",
+          "lat": 39.0,
+          "lon": 39.8
+        }
+      },
+      "text": {
+        "en": "Snow on the eastern highlands feeds two rivers that cross the deserts."
+      },
+      "label": {
+        "en": "RIVER SOURCES"
+      },
+      "body": {
+        "en": "Winter snow piles up on the high eastern mountains and melts in spring. The water gathers into two great rivers that flow south into dry lands, where almost no rain falls. People downstream depend on that meltwater, and dams in the mountains now control much of it."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Euphrates",
+        "https://en.wikipedia.org/wiki/Tigris"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.tr.travertine",
+      "countries": [
+        "TR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "TR": {
+          "type": "place",
+          "lat": 37.92,
+          "lon": 29.12
+        }
+      },
+      "text": {
+        "en": "Hot spring water leaves behind stone steps as it cools."
+      },
+      "label": {
+        "en": "WHITE TERRACES"
+      },
+      "body": {
+        "en": "Hot water rising from deep underground is rich in dissolved limestone. As it flows over the slope it cools and releases carbon dioxide, so the limestone is left behind as hard white travertine. Over time that builds terraced pools, which keep growing while the water flows."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pamukkale",
+        "https://en.wikipedia.org/wiki/Travertine"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.tr.blacksearain",
+      "countries": [
+        "TR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "TR": {
+          "type": "place",
+          "lat": 40.7,
+          "lon": 40.9
+        }
+      },
+      "text": {
+        "en": "Damp winds from the sea feed a rare temperate rainforest on the slopes."
+      },
+      "label": {
+        "en": "COASTAL RAINFOREST"
+      },
+      "body": {
+        "en": "Moist air from the sea hits the steep northern mountains, rises and drops rain nearly all year. This sustains thick, damp forest with old relics of species that survived the ice ages. Tea and hazelnuts grow on the lower slopes, and in places the hills are too steep to farm."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Euxine%E2%80%93Colchic_broadleaf_forests",
+        "https://en.wikipedia.org/wiki/Euxine-Colchic_deciduous_forests"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.tr.endemism",
+      "countries": [
+        "TR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "TR": {
+          "type": "place",
+          "lat": 38.5,
+          "lon": 35.5
+        }
+      },
+      "text": {
+        "en": "A third of the plant species here grow nowhere else."
+      },
+      "label": {
+        "en": "PLANT CROSSROADS"
+      },
+      "body": {
+        "en": "The land sits between three climate zones and is cut by mountains, valleys and basins, so plants have many separate habitats to adapt to. During the ice ages it was also a refuge where species survived. As a result, thousands of plant species are found only here, including many wild relatives of crops."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Biodiversity_of_Turkey",
+        "https://en.wikipedia.org/wiki/Endemism"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.tr.wheathome",
+      "countries": [
+        "TR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "TR": {
+          "type": "place",
+          "lat": 37.7,
+          "lon": 39.8
+        }
+      },
+      "text": {
+        "en": "Wild grasses here gave us the first cultivated wheat."
+      },
+      "label": {
+        "en": "WHEAT'S HOMELAND"
+      },
+      "body": {
+        "en": "Wild einkorn wheat still grows on these volcanic hillsides, and genetic studies point to this area as where it was first domesticated, about ten thousand years ago. The hills were wet enough in winter for wild cereals and warm enough to ripen them. Farming began where the plants grew, and spread outward from there."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Einkorn_wheat",
+        "https://en.wikipedia.org/wiki/Karacada%C4%9F"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "ID",
+  "notes": [
+    {
+      "id": "outlines.id.volcanic-arc",
+      "countries": [
+        "ID"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ID": {
+          "type": "place",
+          "lat": -7.5,
+          "lon": 110.4
+        }
+      },
+      "text": {
+        "en": "Colliding oceanic plates feed over a hundred actively erupting volcanoes."
+      },
+      "label": {
+        "en": "FIRE ARC"
+      },
+      "body": {
+        "en": "Where the Indo-Australian plate plunges beneath the Sunda plate, intense friction melts descending ocean crust. Magma ascends along fractures to form an explosive chain of volcanoes whose nutrient-rich ash produces extraordinarily fertile agricultural soil."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ring_of_Fire"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.id.supervolcano-caldera",
+      "countries": [
+        "ID"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ID": {
+          "type": "place",
+          "lat": 2.6,
+          "lon": 98.9
+        }
+      },
+      "text": {
+        "en": "A colossal prehistoric super-eruption collapsed into an enormous lake."
+      },
+      "label": {
+        "en": "MASSIVE CALDERA"
+      },
+      "body": {
+        "en": "Around seventy-four thousand years ago, one of the greatest volcanic explosions in Earth's history blew thousands of cubic kilometres of ash into the stratosphere. The emptied magma chamber collapsed into a hundred-kilometre-long caldera now filled by deep water."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Toba"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.id.tropical-glaciers",
+      "countries": [
+        "ID"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ID": {
+          "type": "place",
+          "lat": -4.1,
+          "lon": 137.2
+        }
+      },
+      "text": {
+        "en": "Rare equatorial ice fields cap rugged limestone peaks near the equator."
+      },
+      "label": {
+        "en": "EQUATORIAL ICE"
+      },
+      "body": {
+        "en": "Violent collision between continental and oceanic plates hoisted ancient seabed limestone thousands of metres into the freezing upper atmosphere. Despite sitting near the equator, these towering peaks support rare, rapidly shrinking tropical glaciers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Puncak_Jaya"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.id.cone-karst",
+      "countries": [
+        "ID"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ID": {
+          "type": "place",
+          "lat": -5.0,
+          "lon": 119.7
+        }
+      },
+      "text": {
+        "en": "Tropical rain dissolved ancient reef limestone into towering vertical cones."
+      },
+      "label": {
+        "en": "KARST SPIRES"
+      },
+      "body": {
+        "en": "Warm, acidic tropical downpours eroded elevated coral reefs into thousands of steep-sided limestone towers. Honeycombed with subterranean river caves and sinkholes, the cliffs protect ancient painted rock shelters and rare cliff swallows."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maros-Pangkep_Karst"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.id.ocean-conveyor",
+      "countries": [
+        "ID"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ID": {
+          "type": "place",
+          "lat": -8.5,
+          "lon": 115.4
+        }
+      },
+      "text": {
+        "en": "Warm Pacific waters rush through deep island straits into the Indian Ocean."
+      },
+      "label": {
+        "en": "DEEP CURRENT"
+      },
+      "body": {
+        "en": "A higher water level in the western Pacific drives an immense oceanic conveyor through narrow passages between the islands. This high-velocity current moves millions of cubic metres of warm tropical water per second, regulating regional climate and global currents."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Indonesian_Throughflow"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.id.coral-epicentre",
+      "countries": [
+        "ID"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ID": {
+          "type": "place",
+          "lat": -1.5,
+          "lon": 132.5
+        }
+      },
+      "text": {
+        "en": "The global epicenter of marine diversity shelters hundreds of reef corals."
+      },
+      "label": {
+        "en": "CORAL CRADLE"
+      },
+      "body": {
+        "en": "Complex island geography, warm equatorial currents, and nutrient upwelling created the richest marine ecosystem on the planet. Over five hundred reef-building coral species and thousands of reef fish find refuge along steep drop-offs and lagoon barrier reefs."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Coral_Triangle"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.id.peat-swamp-rivers",
+      "countries": [
+        "ID"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ID": {
+          "type": "place",
+          "lat": -0.5,
+          "lon": 116.5
+        }
+      },
+      "text": {
+        "en": "Massive meandering rivers drain vast coastal peat swamps into the sea."
+      },
+      "label": {
+        "en": "BLACKWATER RIVERS"
+      },
+      "body": {
+        "en": "Waterlogged organic matter accumulating over thousands of years built dome-shaped peat deposits up to twenty metres deep. Tannin-stained acidic blackwater streams wind through these waterlogged coastal lowlands, buffering surrounding areas against seasonal floods."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mahakam_River"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.id.acidic-crater-lake",
+      "countries": [
+        "ID"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ID": {
+          "type": "place",
+          "lat": -8.06,
+          "lon": 114.24
+        }
+      },
+      "text": {
+        "en": "The world's most acidic crater lake glows with turquoise waters and sulfur."
+      },
+      "label": {
+        "en": "ACIDIC CAULDRON"
+      },
+      "body": {
+        "en": "Trapped inside an active volcanic cone, this deep caldera lake holds highly concentrated sulfuric and hydrochloric acid. Subterranean volcanic vents condense scorching sulfur gas into liquid yellow rock, which cools and is hand-mined by local workers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ijen"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.id.wallace-divide",
+      "countries": [
+        "ID"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ID": {
+          "type": "place",
+          "lat": -1.5,
+          "lon": 120.0
+        }
+      },
+      "text": {
+        "en": "A deep oceanic trench separates Asian wildlife from Australasian species."
+      },
+      "label": {
+        "en": "DEEP TRENCH"
+      },
+      "body": {
+        "en": "Even during Ice Age low sea levels, deep marine straits remained uncrossable between island chains. As a result, western islands host Asian placental mammals like tigers and rhinos, while eastern islands are dominated by Australasian marsupials and cockatoos."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wallace_Line"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.id.island-dragons",
+      "countries": [
+        "ID"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ID": {
+          "type": "place",
+          "lat": -8.5,
+          "lon": 120.0
+        }
+      },
+      "text": {
+        "en": "Apex reptilian scavengers and ambush hunters dominate rugged dry islands."
+      },
+      "label": {
+        "en": "GIANT LIZARDS"
+      },
+      "body": {
+        "en": "Surviving as an ancient relict of giant monitor lizards that once roamed Australasia, these heavy carnivores grow up to three metres in length. Armed with serrated teeth and venomous saliva, they ambush deer and buffalo across dry volcanic savannahs."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Komodo_dragon"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.id.dipterocarp-canopy",
+      "countries": [
+        "ID"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ID": {
+          "type": "place",
+          "lat": -1.5,
+          "lon": 113.0
+        }
+      },
+      "text": {
+        "en": "Giant winged-seed trees synchronize fruiting to feed arboreal primates."
+      },
+      "label": {
+        "en": "MAST FORESTS"
+      },
+      "body": {
+        "en": "Towering dipterocarp trees dominate equatorial lowland rainforests, flowering simultaneously only once every few years in synchronized mast fruiting events. This pulse of forest fruit sustains tree-dwelling great apes and hornbills across vast rainforest tracts."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dipterocarpaceae"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.id.monster-blooms",
+      "countries": [
+        "ID"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ID": {
+          "type": "place",
+          "lat": -3.5,
+          "lon": 102.5
+        }
+      },
+      "text": {
+        "en": "The world's largest individual flower smells of rotting flesh to lure flies."
+      },
+      "label": {
+        "en": "CORPSE FLOWERS"
+      },
+      "body": {
+        "en": "Lacking leaves, stems, or roots, this bizarre parasitic plant lives entirely inside tropical vine tissues until it bursts through the bark into a colossal five-lobed bloom over a metre wide. Its pungent scent of carrion lures pollinating carrion flies."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rafflesia_arnoldii"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

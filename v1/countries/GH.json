@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "GH",
+  "notes": [
+    {
+      "id": "outlines.gh.impact-crater",
+      "countries": [
+        "GH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "GH": {
+          "type": "place",
+          "lat": 6.5,
+          "lon": -1.4
+        }
+      },
+      "text": {
+        "en": "A million-year-old cosmic impact blasted a deep circular bowl into bedrock."
+      },
+      "label": {
+        "en": "CRATER BASIN"
+      },
+      "body": {
+        "en": "A meteorite slamming into the ancient continental shield pulverized the granite and created an eight-kilometre-wide circular crater. Because the steep crater rim has no surface outlet, rainwater fills the bottom to form a sacred landlocked lake."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Bosumtwi"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.gh.sandstone-escarpment",
+      "countries": [
+        "GH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "GH": {
+          "type": "place",
+          "lat": 6.6,
+          "lon": -0.7
+        }
+      },
+      "text": {
+        "en": "A jagged sandstone rampart marks the divide between forest and savannah."
+      },
+      "label": {
+        "en": "SHEER ESCARPMENT"
+      },
+      "body": {
+        "en": "Massive sandstone cliffs rise abruptly hundreds of metres above the southern lowlands. This towering escarpment acts as a major ecological boundary, intercepting moist monsoon winds to nourish humid forests while northern slopes dry into open woodland."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kwahu_Plateau"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.gh.coastal-headlands",
+      "countries": [
+        "GH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "GH": {
+          "type": "place",
+          "lat": 5.6,
+          "lon": -0.6
+        }
+      },
+      "text": {
+        "en": "Pounding ocean surf builds sand spits that impound brackish coastal lagoons."
+      },
+      "label": {
+        "en": "BARRIER SPITS"
+      },
+      "body": {
+        "en": "Heavy Atlantic swells driving eastward longshore drift deposit long barriers of marine sand across river mouths. Trapped behind these sandy bars, shallow mangrove-lined lagoons shelter juvenile fish and provide traditional fishing waters."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Ghana"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.gh.northern-scarp",
+      "countries": [
+        "GH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "GH": {
+          "type": "place",
+          "lat": 10.5,
+          "lon": -0.4
+        }
+      },
+      "text": {
+        "en": "A steep wall of Paleozoic rock overlooks the northern savannah plains."
+      },
+      "label": {
+        "en": "NORTHERN CLIFFS"
+      },
+      "body": {
+        "en": "Running horizontally across the far north, a prominent cliff of resistant quartz sandstone stands high above the river plains. Weathered jointing forms natural rock shelters that offered defensible refuge throughout centuries of human movement."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gambaga_Escarpment"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.gh.vast-reservoir",
+      "countries": [
+        "GH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "GH": {
+          "type": "place",
+          "lat": 7.5,
+          "lon": -0.1
+        }
+      },
+      "text": {
+        "en": "A dam across a narrow coastal gorge flooded an enormous interior basin."
+      },
+      "label": {
+        "en": "GIANT RESERVOIR"
+      },
+      "body": {
+        "en": "A hydroelectric dam built where a major river cuts through coastal hills impounded one of the world's largest man-made lakes by surface area. Spreading over hundreds of kilometres, it transformed inland transport and created massive freshwater fisheries."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Volta"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.gh.dry-corridor",
+      "countries": [
+        "GH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "GH": {
+          "type": "place",
+          "lat": 5.8,
+          "lon": 0.3
+        }
+      },
+      "text": {
+        "en": "An anomaly in coastal wind direction leaves eastern shores unexpectedly dry."
+      },
+      "label": {
+        "en": "DRY CORRIDOR"
+      },
+      "body": {
+        "en": "While equatorial neighbours are drenched in rainforest, coastal orientation here runs parallel to monsoon winds rather than blocking them. In addition, cold oceanic upwelling chills the air, drastically reducing rainfall and creating open coastal savannah."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dahomey_Gap"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.gh.mountain-cataracts",
+      "countries": [
+        "GH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "GH": {
+          "type": "place",
+          "lat": 7.1,
+          "lon": 0.5
+        }
+      },
+      "text": {
+        "en": "Perennial mountain streams plunge over sheer cliffs into shaded forest pools."
+      },
+      "label": {
+        "en": "CANYON CASCADES"
+      },
+      "body": {
+        "en": "Along the rugged eastern border ranges, streams fed by mountain springs cut through hard quartzites. The water plunges over eighty metres down sheer rock amphitheaters, sustaining dense colonies of fruit bats on damp cliff faces."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wli_Waterfalls"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.gh.savannah-arteries",
+      "countries": [
+        "GH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "GH": {
+          "type": "place",
+          "lat": 9.0,
+          "lon": -1.5
+        }
+      },
+      "text": {
+        "en": "Meandering northern river channels sustain narrow strips of gallery forest."
+      },
+      "label": {
+        "en": "RIVER ARTERIES"
+      },
+      "body": {
+        "en": "Across seasonally parched northern grasslands, perennial river channels provide life-giving corridors. Dense ribbons of tall evergreen trees flank the banks, offering shade, water, and vital forage for wildlife during the long dry season."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/White_Volta"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.gh.canopy-forests",
+      "countries": [
+        "GH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "GH": {
+          "type": "place",
+          "lat": 5.5,
+          "lon": -2.2
+        }
+      },
+      "text": {
+        "en": "Towering hardwood giants support complex aerial walkways high above ground."
+      },
+      "label": {
+        "en": "HIGH CANOPY"
+      },
+      "body": {
+        "en": "In the wet southwestern quadrant, ancient tropical rainforest features majestic mahogany and silk cotton trees soaring over fifty metres tall. Dense tangled lianas and epiphytic orchids crowd the canopy, sheltering monkeys and forest elephants."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kakum_National_Park"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.gh.baobab-savannah",
+      "countries": [
+        "GH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "GH": {
+          "type": "place",
+          "lat": 9.8,
+          "lon": -1.8
+        }
+      },
+      "text": {
+        "en": "Massive water-storing tree trunks anchor dry northern scrub and grasslands."
+      },
+      "label": {
+        "en": "SAVANNAH GIANTS"
+      },
+      "body": {
+        "en": "Adapted to months of rainless heat, bulbous baobabs absorb thousands of litres of water within their fibrous trunks during brief monsoon rains. Their nutrient-dense fruit pods feed baboons, hornbills, and pastoralist communities."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mole_National_Park"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.gh.turtle-beaches",
+      "countries": [
+        "GH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "GH": {
+          "type": "place",
+          "lat": 5.2,
+          "lon": -1.5
+        }
+      },
+      "text": {
+        "en": "Sandy ocean beaches provide crucial nocturnal nesting sites for sea turtles."
+      },
+      "label": {
+        "en": "NESTING SHORES"
+      },
+      "body": {
+        "en": "Every year between October and February, massive olive ridley, leatherback, and green turtles crawl onto secluded sandy beaches along the Gulf of Guinea. Guided by moonlight, females dig deep pits in warm sand to deposit hundreds of eggs."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wildlife_of_Ghana"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.gh.sacred-groves",
+      "countries": [
+        "GH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "GH": {
+          "type": "place",
+          "lat": 6.2,
+          "lon": -1.8
+        }
+      },
+      "text": {
+        "en": "Centuries of community spiritual taboos protected lush forest islands."
+      },
+      "label": {
+        "en": "SACRED GROVES"
+      },
+      "body": {
+        "en": "While extensive logging and farming cleared much of the surrounding landscape, traditional spiritual beliefs kept small virgin forest patches completely untouched. These sacred groves now serve as critical botanical arks for endangered medicinal trees."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sacred_grove"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

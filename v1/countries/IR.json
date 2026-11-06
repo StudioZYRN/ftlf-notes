@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "IR",
+  "notes": [
+    {
+      "id": "outlines.ir.mountain-encircled-basin",
+      "countries": [
+        "IR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IR": {
+          "type": "place",
+          "lat": 32.5,
+          "lon": 54.0
+        }
+      },
+      "text": {
+        "en": "Towering mountain walls encircle a high, rain-starved interior plateau."
+      },
+      "label": {
+        "en": "ENCLOSED PLATEAU"
+      },
+      "body": {
+        "en": "Colliding continental fragments buckled the margins into massive mountain barriers to the north and south. Because these outer crests intercept nearly all marine storms, the vast central plateau receives almost no precipitation and forms hyper-arid salt deserts."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Iranian_Plateau"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ir.salt-crust-desert",
+      "countries": [
+        "IR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IR": {
+          "type": "place",
+          "lat": 34.5,
+          "lon": 54.5
+        }
+      },
+      "text": {
+        "en": "Enormous salt marshes trap underground brine beneath treacherous crusts."
+      },
+      "label": {
+        "en": "MUD SALT FLATS"
+      },
+      "body": {
+        "en": "Lacking drainage to the sea, interior basins collected runoff from surrounding mountain ranges for millions of years. Blistering summer heat evaporates surface water rapidly, leaving vast expanses of sticky salt-crusted mud where salt domes push to the surface."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dasht-e_Kavir"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ir.wind-carved-yardangs",
+      "countries": [
+        "IR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IR": {
+          "type": "place",
+          "lat": 30.5,
+          "lon": 58.5
+        }
+      },
+      "text": {
+        "en": "Relentless seasonal winds carved clay basins into towering sandcastles."
+      },
+      "label": {
+        "en": "GIANT YARDANGS"
+      },
+      "body": {
+        "en": "In one of the hottest places on Earth, violent hundred-and-twenty-day northern winds blow through dry lake beds. Blowing sand sculpts the consolidated clay into spectacular parallel ridges called yardangs, rising dozens of metres above the barren desert floor."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dasht-e_Lut"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ir.volcanic-stratocone",
+      "countries": [
+        "IR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IR": {
+          "type": "place",
+          "lat": 35.9,
+          "lon": 52.1
+        }
+      },
+      "text": {
+        "en": "A colossal dormant volcano towers over five thousand metres above sea level."
+      },
+      "label": {
+        "en": "SNOWY STRATOCONE"
+      },
+      "body": {
+        "en": "Subduction of ancient oceanic crust beneath the northern continental margin created explosive volcanism. This near-symmetrical volcanic cone capped by permanent snowfields and fumaroles stands as the highest volcanic summit in all of Asia."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mount_Damavand"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ir.underground-aqueducts",
+      "countries": [
+        "IR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IR": {
+          "type": "place",
+          "lat": 31.8,
+          "lon": 54.3
+        }
+      },
+      "text": {
+        "en": "Hand-dug underground tunnels channel mountain groundwater across deserts."
+      },
+      "label": {
+        "en": "GRAVITY CHANNELS"
+      },
+      "body": {
+        "en": "To prevent irrigation water from evaporating beneath intense desert sun, ancient engineers dug gently sloping subterranean tunnels for dozens of kilometres from mountain alluvial aquifers down to valley farms, harnessing gravity to sustain desert cities."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qanat"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ir.hypersaline-lake",
+      "countries": [
+        "IR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IR": {
+          "type": "place",
+          "lat": 37.7,
+          "lon": 45.3
+        }
+      },
+      "text": {
+        "en": "A shallow endorheic mountain lake evaporates into thick salt crusts."
+      },
+      "label": {
+        "en": "SALINE BASIN"
+      },
+      "body": {
+        "en": "Sitting in an elevated northwestern tectonic basin with no outlet, this terminal lake is fed by mountain rivers. Decades of heavy agricultural diversion and drought shrank the water volume, turning the lake into an ultra-dense brine where brine shrimp thrive."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Urmia"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ir.caspian-coastal-strip",
+      "countries": [
+        "IR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IR": {
+          "type": "place",
+          "lat": 37.2,
+          "lon": 49.8
+        }
+      },
+      "text": {
+        "en": "Moist northern winds trapped against high mountains drench coastal plains."
+      },
+      "label": {
+        "en": "RAIN-DRENCHED SHORE"
+      },
+      "body": {
+        "en": "While most of the interior is arid desert, the narrow strip of land between the northern mountain rampart and the inland sea receives abundant rainfall. Dense deciduous forests, tea plantations, and rice paddies flourish in this humid subtropical climate."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Caspian_Hyrcanian_mixed_forests"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ir.mountain-gorges",
+      "countries": [
+        "IR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IR": {
+          "type": "place",
+          "lat": 32.0,
+          "lon": 49.5
+        }
+      },
+      "text": {
+        "en": "Torrents fed by mountain snow slice deep gorges through limestone ridges."
+      },
+      "label": {
+        "en": "CANYON RIVERS"
+      },
+      "body": {
+        "en": "Rushing southwest from glaciated crests, powerful rivers cut narrow water gaps through anticlinal mountain folds. These steep mountain rivers provide the primary source of hydroelectric power and irrigation for southwestern lowlands."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Karun"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ir.ancient-hyrcanian-forest",
+      "countries": [
+        "IR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IR": {
+          "type": "place",
+          "lat": 36.6,
+          "lon": 51.5
+        }
+      },
+      "text": {
+        "en": "Ancient temperate broadleaf forests survived Pleistocene Ice Ages unharmed."
+      },
+      "label": {
+        "en": "RELICT WOODS"
+      },
+      "body": {
+        "en": "Sheltered between the Caspian Sea and the high northern mountain spine, these ancient forests served as a climate refuge during European glaciations. Rare relict trees like ironwood and chestnut-leaved oak survived here without freezing."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hyrcanian_forests"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ir.desert-cheetahs",
+      "countries": [
+        "IR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IR": {
+          "type": "place",
+          "lat": 33.0,
+          "lon": 56.0
+        }
+      },
+      "text": {
+        "en": "The last wild population of Asiatic cheetahs patrols arid steppes."
+      },
+      "label": {
+        "en": "DESERT CHEETAHS"
+      },
+      "body": {
+        "en": "Fewer than fifty individuals of this critically endangered subspecies survive in remote desert fringes and dry mountain valleys. Long limbs and pale coats allow them to chase wild gazelles and onagers across vast rocky salt basins."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Asiatic_cheetah"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ir.wild-onagers",
+      "countries": [
+        "IR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IR": {
+          "type": "place",
+          "lat": 35.0,
+          "lon": 52.5
+        }
+      },
+      "text": {
+        "en": "Hardy wild asses sprint across blistering salt deserts to find scarce browse."
+      },
+      "label": {
+        "en": "SALT ONAGERS"
+      },
+      "body": {
+        "en": "Adapted to harsh saline environments, these wild equids can gallop at speeds over sixty kilometres an hour across barren clay flats. They survive on thorny shrubs and travel dozens of kilometres between scattered brackish waterholes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Onager"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ir.arid-juniper-woods",
+      "countries": [
+        "IR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IR": {
+          "type": "place",
+          "lat": 34.0,
+          "lon": 51.0
+        }
+      },
+      "text": {
+        "en": "Drought-tolerant wild pistachios and junipers cling to rocky mountainsides."
+      },
+      "label": {
+        "en": "STUNTED WOODS"
+      },
+      "body": {
+        "en": "Along semi-arid foothills where rainfall is too low for dense forests, scattered open woodlands of wild pistachio, almond, and twisted mountain juniper anchor shallow stony soils and provide nuts that sustain rodents and mountain birds."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pistacia_vera"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

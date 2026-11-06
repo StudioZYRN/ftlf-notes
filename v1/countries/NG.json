@@ -1,0 +1,375 @@
+{
+  "version": 1,
+  "country": "NG",
+  "notes": [
+    {
+      "id": "outlines.ng.highland",
+      "countries": [
+        "NG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "NG": {
+          "type": "place",
+          "lat": 9.9,
+          "lon": 8.9
+        }
+      },
+      "text": {
+        "en": "A raised granite plateau stays cooler and wetter than the plains around it."
+      },
+      "label": {
+        "en": "COOL HIGHLAND"
+      },
+      "body": {
+        "en": "Rings of young granite pushed into the crust here roughly 150 to 200 million years ago. The granite resists erosion, so the plateau stands about 1,200 metres above the surrounding plains. Altitude cools the air and brings extra rain, which makes it good for farming; rivers eroding the granite also washed out tin, which people mined from stream gravels."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jos_Plateau"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ng.inselbergs",
+      "countries": [
+        "NG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "NG": {
+          "type": "place",
+          "lat": 9.1,
+          "lon": 7.2
+        }
+      },
+      "text": {
+        "en": "Great domes of bare granite stand alone on the plain."
+      },
+      "label": {
+        "en": "LONE ROCKS"
+      },
+      "body": {
+        "en": "Rock below the soil weathers unevenly: where it is cracked, water gets in and rots it, while solid blocks resist. When the soft weathered cover washes away, the solid rock is left standing as bare domes rising from the plain. Such lone hills are called inselbergs, meaning island mountains, and they stand out in the flat savanna."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Inselberg",
+        "https://en.wikipedia.org/wiki/Zuma_Rock"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ng.failed-rift",
+      "countries": [
+        "NG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "NG": {
+          "type": "place",
+          "lat": 7.4,
+          "lon": 9.3
+        }
+      },
+      "text": {
+        "en": "A giant crack that opened as a continent split, then stopped."
+      },
+      "label": {
+        "en": "FAILED RIFT"
+      },
+      "body": {
+        "en": "When South America and Africa split apart, a rift opened inland and then halted, leaving a long trough about 1,000 kilometres long. Over time, rivers and shallow seas filled it with thick sediment. The soft rocks make a lowland between the older highlands, and a major river now follows the trough."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Benue_Trough",
+        "https://en.wikipedia.org/wiki/Failed_rift"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ng.fixed-dunes",
+      "countries": [
+        "NG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "NG": {
+          "type": "place",
+          "lat": 12.5,
+          "lon": 9.0
+        }
+      },
+      "text": {
+        "en": "Rolling ridges of sand show that this region was once true desert."
+      },
+      "label": {
+        "en": "FROZEN DUNES"
+      },
+      "body": {
+        "en": "During the last ice age, the climate in the north was drier and winds blew sand into long dunes. Rains returned and grass covered the sand, fixing the dunes in place. Their sandy soil drains fast, which is why farmers there grow drought-resistant millet, and why the dunes can wake up again if the vegetation is stripped."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sahel",
+        "https://en.wikipedia.org/wiki/Erg_(landform)"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ng.confluence",
+      "countries": [
+        "NG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "NG": {
+          "type": "place",
+          "lat": 7.8,
+          "lon": 6.74
+        }
+      },
+      "text": {
+        "en": "Two big rivers join in a Y, then flow on to the sea together."
+      },
+      "label": {
+        "en": "RIVERS MEET"
+      },
+      "body": {
+        "en": "A great river from the northwest and its largest tributary from the east meet in the middle of the country, and flow on south as one. The tributary drains the rain-soaked highlands to the east, so the combined flow is far bigger than either alone, and it swells each year with the wet season."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Niger_River",
+        "https://en.wikipedia.org/wiki/Benue_River"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.ng.delta",
+      "countries": [
+        "NG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "NG": {
+          "type": "place",
+          "lat": 5.5,
+          "lon": 6.2
+        }
+      },
+      "text": {
+        "en": "A river splits into many channels as it drops its load of mud."
+      },
+      "label": {
+        "en": "SILT FAN"
+      },
+      "body": {
+        "en": "Near the end of its journey, the river slows, branches and dumps the silt it carried from far inland. Over thousands of years that has built a fan-shaped delta of channels, swamps and sandbars, one of the world's largest. Mangroves fringe its edge, and the same flat, soft ground holds oil in the rock beneath."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Niger_Delta"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ng.flood-oasis",
+      "countries": [
+        "NG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "NG": {
+          "type": "place",
+          "lat": 12.6,
+          "lon": 10.3
+        }
+      },
+      "text": {
+        "en": "Seasonal floods turn a dry plain into a huge wetland for a few months."
+      },
+      "label": {
+        "en": "FLOOD OASIS"
+      },
+      "body": {
+        "en": "Streams from the highland spill onto the flat northern plain in the rainy season and flood a large area of grass and farmland. The water feeds fisheries, grazing and crops, and attracts migrating birds from Europe. Dams upstream now hold back part of the flood, which dries out the wetland."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hadejia-Nguru_wetlands"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.ng.rain-belt",
+      "countries": [
+        "NG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "NG": {
+          "type": "place",
+          "lat": 10.5,
+          "lon": 7.5
+        }
+      },
+      "text": {
+        "en": "Rain follows the sun north and south, so each place has a short wet season."
+      },
+      "label": {
+        "en": "SEASONAL RAIN BELT"
+      },
+      "body": {
+        "en": "In summer, moist air from the Atlantic pushes north and meets dry air from the desert. The rain band sweeps north with the sun and then retreats, so rain falls on the coast for most of the year but the far north gets only a few months. Rivers swell and shrink with it, and the dry season decides when to plant."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/West_African_monsoon",
+        "https://en.wikipedia.org/wiki/Intertropical_Convergence_Zone"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ng.bands",
+      "countries": [
+        "NG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "NG": {
+          "type": "place",
+          "lat": 9.2,
+          "lon": 5.6
+        }
+      },
+      "text": {
+        "en": "Vegetation changes in stripes from rainforest to desert edge as rain falls."
+      },
+      "label": {
+        "en": "BANDS OF GREEN"
+      },
+      "body": {
+        "en": "Rainfall drops steadily from the coast to the far north. Mangrove and rainforest give way to tall-grass savanna, then shorter grass with scattered trees, then dry thorny Sahel. The bands run roughly east to west, and each one supports different farming: yams and cassava in the south, millet and sorghum in the north."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Guinean_forest–savanna_mosaic",
+        "https://en.wikipedia.org/wiki/Sahel"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ng.mangrove",
+      "countries": [
+        "NG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "NG": {
+          "type": "place",
+          "lat": 5.2,
+          "lon": 6.3
+        }
+      },
+      "text": {
+        "en": "Trees with stilt roots hold the soft delta together and shelter young fish."
+      },
+      "label": {
+        "en": "TIDAL FOREST"
+      },
+      "body": {
+        "en": "Mangrove trees live with their roots in salty, oxygen-poor mud. Stilt roots catch silt and slow waves, and tangled underwater roots shelter young fish and shrimp. This is the largest mangrove forest in Africa, but clearing, pollution and oil spills have eaten at it."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mangrove",
+        "https://en.wikipedia.org/wiki/Niger_Delta"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ng.parkland",
+      "countries": [
+        "NG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "NG": {
+          "type": "place",
+          "lat": 10.0,
+          "lon": 5.5
+        }
+      },
+      "text": {
+        "en": "Farmers leave useful trees standing in their fields."
+      },
+      "label": {
+        "en": "FARMED PARKLAND"
+      },
+      "body": {
+        "en": "In the savanna, people clear land for crops but leave shea and locust bean trees. These trees tolerate fire and drought, and they give fat, food and shade. The result is an open parkland where fields and trees share the ground, and shea butter has become a valuable export."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Agroforestry",
+        "https://en.wikipedia.org/wiki/Vitellaria"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ng.fire-season",
+      "countries": [
+        "NG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "NG": {
+          "type": "place",
+          "lat": 9.0,
+          "lon": 6.8
+        }
+      },
+      "text": {
+        "en": "Grass dries out each year and burns, and the trees are built to cope."
+      },
+      "label": {
+        "en": "FIRE SEASON"
+      },
+      "body": {
+        "en": "After the rains stop, savanna grass cures into dry fuel and fire sweeps through, started by lightning or people. Savanna trees have thick bark and resprout from their roots, while the grass regrows within weeks of the first rain. Regular burning stops forest from taking over and keeps the open grassland."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fire_ecology",
+        "https://en.wikipedia.org/wiki/Savanna"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

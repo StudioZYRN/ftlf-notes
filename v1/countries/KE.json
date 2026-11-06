@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "KE",
+  "notes": [
+    {
+      "id": "outlines.ke.rift-fault-scarps",
+      "countries": [
+        "KE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "KE": {
+          "type": "place",
+          "lat": -0.5,
+          "lon": 36.3
+        }
+      },
+      "text": {
+        "en": "A colossal continental fracture creates sheer cliffs dropping into a graben."
+      },
+      "label": {
+        "en": "TECTONIC SCARPS"
+      },
+      "body": {
+        "en": "Tectonic forces pulling the continent apart caused massive crustal blocks to drop hundreds of metres along normal faults. The resulting deep depression cuts from north to south across the land, bordered by vertical rock escarpments and dormant volcanic calderas."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_Rift_Valley"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ke.glaciated-stratocone",
+      "countries": [
+        "KE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "KE": {
+          "type": "place",
+          "lat": -0.15,
+          "lon": 37.3
+        }
+      },
+      "text": {
+        "en": "An eroded volcanic plug rises five thousand metres directly on the equator."
+      },
+      "label": {
+        "en": "EQUATORIAL PEAK"
+      },
+      "body": {
+        "en": "Millions of years of eruptions built a massive composite volcano over the continental crust. While softer ash slopes eroded away, the dense, crystalline rock of the central volcanic plug remained, supporting shrinking equatorial glaciers and unique giant alpine plants."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mount_Kenya"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ke.desert-lava-plains",
+      "countries": [
+        "KE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "KE": {
+          "type": "place",
+          "lat": 2.5,
+          "lon": 37.5
+        }
+      },
+      "text": {
+        "en": "Basalt lava flows spread across searing northern desert basins."
+      },
+      "label": {
+        "en": "LAVA DESERT"
+      },
+      "body": {
+        "en": "Repeated fissure eruptions flooded the arid northern lowlands with sheets of dark basalt. Between volcanic boulder fields, seasonal salt flats dry into hard, blinding clay pans that bake under relentless equatorial sun."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chalbi_Desert"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ke.forested-escarpment",
+      "countries": [
+        "KE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "KE": {
+          "type": "place",
+          "lat": -0.5,
+          "lon": 36.7
+        }
+      },
+      "text": {
+        "en": "Steep fault ridges capture Indian Ocean moisture to feed vital river basins."
+      },
+      "label": {
+        "en": "MISTY RIDGES"
+      },
+      "body": {
+        "en": "Forming the eastern wall of the central rift, these high forested ridges rise abruptly from surrounding plains. Their upper slopes intercept dense fog and heavy rainfall, nurturing dense montane bamboo belts that regulate freshwater flows for millions."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aberdare_Range"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ke.desert-sea",
+      "countries": [
+        "KE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "KE": {
+          "type": "place",
+          "lat": 3.5,
+          "lon": 36.1
+        }
+      },
+      "text": {
+        "en": "The largest permanent desert lake glows turquoise amid volcanic rocks."
+      },
+      "label": {
+        "en": "JADE SEA"
+      },
+      "body": {
+        "en": "Surrounded by parched volcanic terrain, this enormous closed-basin lake owes its vivid green hue to dense populations of microscopic algae. Strong desert gales generate ocean-like waves across its slightly saline waters, sustaining massive Nile crocodile populations."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Turkana"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ke.papyrus-lake",
+      "countries": [
+        "KE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "KE": {
+          "type": "place",
+          "lat": -0.7,
+          "lon": 36.4
+        }
+      },
+      "text": {
+        "en": "A high freshwater lake inside the rift supports dense fringes of papyrus."
+      },
+      "label": {
+        "en": "PAPYRUS SHORES"
+      },
+      "body": {
+        "en": "Unlike most mineral-heavy rift lakes, underground seepage keeps this high-altitude basin fresh. Extensive belts of floating papyrus reeds filter sediment and sustain large pods of hippopotamuses, fish eagles, and extensive greenhouse flower farms."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Naivasha"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ke.soda-flats",
+      "countries": [
+        "KE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "KE": {
+          "type": "place",
+          "lat": 0.25,
+          "lon": 36.1
+        }
+      },
+      "text": {
+        "en": "Mineral-saturated alkaline waters fuel vast blooms of blue-green spirulina."
+      },
+      "label": {
+        "en": "PINK LAKES"
+      },
+      "body": {
+        "en": "Volcanic springs gushing along rift faults saturate these shallow closed lakes with sodium carbonate. Extreme evaporation concentrates the brine, creating an ideal habitat for microscopic blue-green algae that draws millions of lesser flamingos."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Bogoria"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ke.fringing-coral-reefs",
+      "countries": [
+        "KE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "KE": {
+          "type": "place",
+          "lat": -4.3,
+          "lon": 39.5
+        }
+      },
+      "text": {
+        "en": "A long fringing barrier reef breaks ocean swells along the tropical coast."
+      },
+      "label": {
+        "en": "CORAL LAGOONS"
+      },
+      "body": {
+        "en": "Parallel to the southern coastline, living coral formations create a calm, shallow lagoon between the reef crest and white sandy beaches. Behind the beaches, tidal mangrove creeks trap silt and provide vital nurseries for marine life."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Kenya"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ke.annual-migration",
+      "countries": [
+        "KE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "KE": {
+          "type": "place",
+          "lat": -1.5,
+          "lon": 35.1
+        }
+      },
+      "text": {
+        "en": "Over a million wildebeest brave crocodile-filled rivers following rain."
+      },
+      "label": {
+        "en": "RIVER CROSSINGS"
+      },
+      "body": {
+        "en": "Driven by the scent of fresh grass, colossal herds of wildebeest and zebras march clockwise across the savannah ecosystem. During dry season peaks, the herds plunge through steep riverbanks and rapids, braving giant ambush predators to reach green pastures."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Serengeti"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ke.giant-rosettes",
+      "countries": [
+        "KE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "KE": {
+          "type": "place",
+          "lat": -0.1,
+          "lon": 37.3
+        }
+      },
+      "text": {
+        "en": "Nightly sub-zero freezing led alpine plants to evolve thick insulating stems."
+      },
+      "label": {
+        "en": "GIANT GROUNDSELS"
+      },
+      "body": {
+        "en": "On high equatorial peaks where weather alternates between summer every day and winter every night, giant groundsels and lobelias grew tree-sized. Thick insulating layers of dead leaves and antifreeze fluids in leaf rosettes protect growing buds from freezing."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dendrosenecio_keniodendron"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ke.arid-savannah-wildlife",
+      "countries": [
+        "KE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "KE": {
+          "type": "place",
+          "lat": 0.6,
+          "lon": 37.5
+        }
+      },
+      "text": {
+        "en": "Narrowly adapted northern herbivores thrive on dry thornbush plains."
+      },
+      "label": {
+        "en": "THORN SAVANNAH"
+      },
+      "body": {
+        "en": "North of the central mountains, hot arid savannahs host specialized species found nowhere else south of the equator. Grevy's zebras with narrow stripes and reticulated giraffes with geometric coats browse prickly acacia bushes with little water."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Samburu_National_Reserve"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ke.dust-bathing-giants",
+      "countries": [
+        "KE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "KE": {
+          "type": "place",
+          "lat": -3.0,
+          "lon": 38.5
+        }
+      },
+      "text": {
+        "en": "Savannah elephants spray iron-rich red volcanic dust to shield their skin."
+      },
+      "label": {
+        "en": "RED GIANTS"
+      },
+      "body": {
+        "en": "In vast semi-arid plains underlain by weathered volcanic soil, elephant herds regularly bathe in muddy waterholes and coat themselves in fine red earth. The terracotta powder acts as a natural sunscreen and insect repellent against biting flies."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tsavo_East_National_Park"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "version": 1,
+  "generated": "2026-11-06T16:08:39Z",
+  "countries": {
+    "AE": {
+      "rev": 24,
+      "bytes": 10204,
+      "notes": 12
+    },
+    "AR": {
+      "rev": 29,
+      "bytes": 12474,
+      "notes": 13
+    },
+    "AT": {
+      "rev": 24,
+      "bytes": 10253,
+      "notes": 12
+    },
+    "AU": {
+      "rev": 30,
+      "bytes": 13887,
+      "notes": 14
+    },
+    "BD": {
+      "rev": 24,
+      "bytes": 10494,
+      "notes": 12
+    },
+    "BE": {
+      "rev": 12,
+      "bytes": 5841,
+      "notes": 6
+    },
+    "BR": {
+      "rev": 33,
+      "bytes": 13489,
+      "notes": 14
+    },
+    "CA": {
+      "rev": 29,
+      "bytes": 13743,
+      "notes": 14
+    },
+    "CH": {
+      "rev": 19,
+      "bytes": 8219,
+      "notes": 8
+    },
+    "CL": {
+      "rev": 26,
+      "bytes": 11373,
+      "notes": 13
+    },
+    "CN": {
+      "rev": 32,
+      "bytes": 14192,
+      "notes": 15
+    },
+    "CO": {
+      "rev": 24,
+      "bytes": 10719,
+      "notes": 12
+    },
+    "CU": {
+      "rev": 24,
+      "bytes": 10590,
+      "notes": 12
+    },
+    "CZ": {
+      "rev": 24,
+      "bytes": 10662,
+      "notes": 12
+    },
+    "DE": {
+      "rev": 25,
+      "bytes": 12104,
+      "notes": 12
+    },
+    "DK": {
+      "rev": 20,
+      "bytes": 10005,
+      "notes": 10
+    },
+    "DZ": {
+      "rev": 24,
+      "bytes": 10679,
+      "notes": 12
+    },
+    "EG": {
+      "rev": 27,
+      "bytes": 11213,
+      "notes": 12
+    },
+    "ES": {
+      "rev": 27,
+      "bytes": 11574,
+      "notes": 12
+    },
+    "ET": {
+      "rev": 24,
+      "bytes": 10663,
+      "notes": 12
+    },
+    "FI": {
+      "rev": 25,
+      "bytes": 12003,
+      "notes": 12
+    },
+    "FR": {
+      "rev": 28,
+      "bytes": 13797,
+      "notes": 14
+    },
+    "GB": {
+      "rev": 26,
+      "bytes": 12939,
+      "notes": 13
+    },
+    "GH": {
+      "rev": 24,
+      "bytes": 10713,
+      "notes": 12
+    },
+    "GR": {
+      "rev": 28,
+      "bytes": 11879,
+      "notes": 12
+    },
+    "HR": {
+      "rev": 24,
+      "bytes": 10690,
+      "notes": 12
+    },
+    "HU": {
+      "rev": 24,
+      "bytes": 10799,
+      "notes": 12
+    },
+    "ID": {
+      "rev": 24,
+      "bytes": 10860,
+      "notes": 12
+    },
+    "IE": {
+      "rev": 17,
+      "bytes": 7630,
+      "notes": 8
+    },
+    "IN": {
+      "rev": 25,
+      "bytes": 11232,
+      "notes": 12
+    },
+    "IQ": {
+      "rev": 24,
+      "bytes": 10777,
+      "notes": 12
+    },
+    "IR": {
+      "rev": 24,
+      "bytes": 10779,
+      "notes": 12
+    },
+    "IS": {
+      "rev": 24,
+      "bytes": 10821,
+      "notes": 12
+    },
+    "IT": {
+      "rev": 29,
+      "bytes": 12741,
+      "notes": 13
+    },
+    "JM": {
+      "rev": 21,
+      "bytes": 8459,
+      "notes": 9
+    },
+    "JP": {
+      "rev": 25,
+      "bytes": 10385,
+      "notes": 11
+    },
+    "KE": {
+      "rev": 24,
+      "bytes": 10813,
+      "notes": 12
+    },
+    "KR": {
+      "rev": 16,
+      "bytes": 7548,
+      "notes": 8
+    },
+    "MX": {
+      "rev": 33,
+      "bytes": 13903,
+      "notes": 14
+    },
+    "NG": {
+      "rev": 26,
+      "bytes": 11768,
+      "notes": 12
+    },
+    "NL": {
+      "rev": 14,
+      "bytes": 5902,
+      "notes": 6
+    },
+    "NO": {
+      "rev": 24,
+      "bytes": 11034,
+      "notes": 11
+    },
+    "PL": {
+      "rev": 26,
+      "bytes": 12935,
+      "notes": 13
+    },
+    "PT": {
+      "rev": 22,
+      "bytes": 9741,
+      "notes": 10
+    },
+    "RU": {
+      "rev": 27,
+      "bytes": 12243,
+      "notes": 13
+    },
+    "SA": {
+      "rev": 23,
+      "bytes": 9266,
+      "notes": 10
+    },
+    "SE": {
+      "rev": 26,
+      "bytes": 11816,
+      "notes": 12
+    },
+    "TR": {
+      "rev": 24,
+      "bytes": 10557,
+      "notes": 11
+    },
+    "UA": {
+      "rev": 25,
+      "bytes": 11928,
+      "notes": 12
+    },
+    "US": {
+      "rev": 32,
+      "bytes": 15186,
+      "notes": 15
+    },
+    "ZA": {
+      "rev": 30,
+      "bytes": 13735,
+      "notes": 14
+    }
+  }
+}

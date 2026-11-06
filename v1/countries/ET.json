@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "ET",
+  "notes": [
+    {
+      "id": "outlines.et.highland-plateau",
+      "countries": [
+        "ET"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ET": {
+          "type": "place",
+          "lat": 11.5,
+          "lon": 38.5
+        }
+      },
+      "text": {
+        "en": "Thick stacks of ancient flood basalt lifted into cool highland plateaus."
+      },
+      "label": {
+        "en": "AFRICAN ROOF"
+      },
+      "body": {
+        "en": "Thirty million years ago, a colossal volcanic plume poured out thousands of metres of basalt lava across the continent. Subsequent regional uplift hoisted this massive basaltic dome thousands of metres into the air, creating a cool, temperate world above equatorial plains."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ethiopian_Highlands"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.et.continental-rift",
+      "countries": [
+        "ET"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ET": {
+          "type": "place",
+          "lat": 8.5,
+          "lon": 39.0
+        }
+      },
+      "text": {
+        "en": "Tectonic forces are slowly tearing the continent apart along a deep trench."
+      },
+      "label": {
+        "en": "SPLITTING CONTINENT"
+      },
+      "body": {
+        "en": "Underneath the highland plateau, tectonic tension is pulling the African plate into two diverging plates. This active tearing produced a massive graben valley slicing diagonally across the land, bordered by towering fault scarps."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Main_Ethiopian_Rift"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.et.sunken-furnace",
+      "countries": [
+        "ET"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ET": {
+          "type": "place",
+          "lat": 14.0,
+          "lon": 40.3
+        }
+      },
+      "text": {
+        "en": "A depression below sea level bubbles with glowing sulfur and lava."
+      },
+      "label": {
+        "en": "SUNKEN FURNACE"
+      },
+      "body": {
+        "en": "Where three tectonic rifts diverge, the continental crust has thinned almost to ocean-floor levels, dropping over a hundred metres below sea level. Extreme geothermal heat boils groundwater into multi-coloured mineral springs and persistent lava lakes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Danakil_Depression"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.et.stepped-escarpments",
+      "countries": [
+        "ET"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ET": {
+          "type": "place",
+          "lat": 13.2,
+          "lon": 38.3
+        }
+      },
+      "text": {
+        "en": "Deep erosion carved horizontal lava flows into vertical stepped precipices."
+      },
+      "label": {
+        "en": "SHEER GORGES"
+      },
+      "body": {
+        "en": "Centuries of river incision sliced through layered basalt sheets, opening canyons up to a thousand metres deep. Sheer tiered cliffs provide inaccessible roosting ledges for highland wildlife while alpine meadows top the flat ridges."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Simien_Mountains"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.et.lake-headwaters",
+      "countries": [
+        "ET"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ET": {
+          "type": "place",
+          "lat": 12.0,
+          "lon": 37.3
+        }
+      },
+      "text": {
+        "en": "A high volcanic lake feeds the main seasonal floodwaters of a mighty river."
+      },
+      "label": {
+        "en": "HEADWATER CRADLE"
+      },
+      "body": {
+        "en": "Lava flows during the Pleistocene blocked a wide basin, creating a shallow tropical lake at 1,800 metres elevation. Its outlet river plunges over basalt cataracts and carves a mile-deep canyon, providing the bulk of the Nile's summer surge."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Tana"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.et.rift-lakes",
+      "countries": [
+        "ET"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ET": {
+          "type": "place",
+          "lat": 7.5,
+          "lon": 38.5
+        }
+      },
+      "text": {
+        "en": "Tectonic basins trap mineral runoff into chains of soda lakes."
+      },
+      "label": {
+        "en": "ALKALINE LAKES"
+      },
+      "body": {
+        "en": "Along the floor of the continental rift, volcanic ash and intense evaporation concentrate dissolved sodium carbonates in closed basins. These soda lakes sustain dense blooms of microscopic blue-green algae, drawing thousands of feeding birds."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rift_Valley_lakes"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.et.vanishing-river",
+      "countries": [
+        "ET"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ET": {
+          "type": "place",
+          "lat": 10.5,
+          "lon": 40.5
+        }
+      },
+      "text": {
+        "en": "A major river flows from lush highlands to evaporate in desert salt pans."
+      },
+      "label": {
+        "en": "DESERT TERMINUS"
+      },
+      "body": {
+        "en": "Originating in wet central mountains, this river flows northeast through the deepening continental rift. As temperatures soar and rainfall drops in the arid lowlands, the river never reaches the sea, ending in a chain of hyper-saline desert lakes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Awash_River"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.et.smoky-falls",
+      "countries": [
+        "ET"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ET": {
+          "type": "place",
+          "lat": 11.49,
+          "lon": 37.59
+        }
+      },
+      "text": {
+        "en": "A powerful river plunges over forty-metre basalt cliffs in churning spray."
+      },
+      "label": {
+        "en": "SMOKY WATERFALLS"
+      },
+      "body": {
+        "en": "Where hard volcanic basalt caprock overlies softer sedimentary strata, the river cuts a sheer horseshoe precipice. The thundering plunge generates a constant cloud of mist that sustains an isolated micro-climate of lush rainforest in the gorge."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Blue_Nile_Falls"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.et.cliff-grazers",
+      "countries": [
+        "ET"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ET": {
+          "type": "place",
+          "lat": 13.1,
+          "lon": 38.2
+        }
+      },
+      "text": {
+        "en": "Specialized primates graze on mountain grasses and sleep on cliff faces."
+      },
+      "label": {
+        "en": "GRASS MONKEYS"
+      },
+      "body": {
+        "en": "Living only in high montane grasslands, these primates have nimble fingers adapted to plucking grass blades rather than climbing trees. To escape leopards and hyenas at night, large troops descend into the vertical safety of basalt canyon walls."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gelada"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.et.afroalpine-canids",
+      "countries": [
+        "ET"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ET": {
+          "type": "place",
+          "lat": 6.9,
+          "lon": 39.8
+        }
+      },
+      "text": {
+        "en": "Slender red wolves hunt giant root-rats in freezing Afroalpine heather."
+      },
+      "label": {
+        "en": "HIGHLAND HUNTERS"
+      },
+      "body": {
+        "en": "Surviving only on high-altitude plateaus above three thousand metres, Africa's rarest canid developed elongated muzzles and sharp teeth to hunt subterranean rodents in thick afroalpine peat and giant lobelia moorlands."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ethiopian_wolf"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.et.wild-coffee",
+      "countries": [
+        "ET"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ET": {
+          "type": "place",
+          "lat": 7.2,
+          "lon": 36.2
+        }
+      },
+      "text": {
+        "en": "Humid southwestern montane cloud forests hold the wild gene pool of coffee."
+      },
+      "label": {
+        "en": "COFFEE FORESTS"
+      },
+      "body": {
+        "en": "Beneath dense mossy canopies on moist southern mountain slopes, wild arabica coffee shrubs thrive in the shaded understory. These ancient cloud forests preserve irreplaceable genetic diversity that protects modern crops against global diseases."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Coffea_arabica"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.et.highland-ibex",
+      "countries": [
+        "ET"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ET": {
+          "type": "place",
+          "lat": 13.3,
+          "lon": 38.4
+        }
+      },
+      "text": {
+        "en": "Thick-horned wild goats navigate sheer volcanic crags above deep gorges."
+      },
+      "label": {
+        "en": "CRAG SCALERS"
+      },
+      "body": {
+        "en": "Confined to high, rugged basalt escarpments, these heavy-horned goats have specialized concave hooves that grip steep rock ledges. They browse on highland shrubs along narrow cliff terraces where ground predators cannot follow."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Walia_ibex"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

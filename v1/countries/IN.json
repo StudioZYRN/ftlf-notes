@@ -1,0 +1,370 @@
+{
+  "version": 1,
+  "country": "IN",
+  "notes": [
+    {
+      "id": "outlines.in.deccan",
+      "countries": [
+        "IN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IN": {
+          "type": "place",
+          "lat": 19.5,
+          "lon": 75.0
+        }
+      },
+      "text": {
+        "en": "Huge outpourings of lava stacked up into flat steps and dark soil."
+      },
+      "label": {
+        "en": "LAVA LAYERS"
+      },
+      "body": {
+        "en": "Some 66 million years ago, enormous eruptions flooded this region with basalt, layer on layer, until it was thousands of metres thick. The rock weathers into dark, clay-rich soil that holds moisture well, and it suits cotton. The flat layers erode into the stepped hills that give the plateau its look."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deccan_Traps"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.in.plain",
+      "countries": [
+        "IN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IN": {
+          "type": "place",
+          "lat": 26.5,
+          "lon": 80.5
+        }
+      },
+      "text": {
+        "en": "Rivers from rising mountains filled a trough to make a vast flat plain."
+      },
+      "label": {
+        "en": "FILLED TROUGH"
+      },
+      "body": {
+        "en": "As the mountains to the north rose, the land in front of them sagged, and rivers pouring off the peaks filled the gap with silt over millions of years. The result is a flat, deep, fertile plain a thousand kilometres wide. Easy farming and plenty of water support one of the densest populations on Earth."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Indo-Gangetic_Plain"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.in.ghats",
+      "countries": [
+        "IN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IN": {
+          "type": "place",
+          "lat": 13.0,
+          "lon": 75.6
+        }
+      },
+      "text": {
+        "en": "A steep range along the coast catches the rain and starves land behind."
+      },
+      "label": {
+        "en": "WET WALL"
+      },
+      "body": {
+        "en": "Hills run close to the western coast and rise like a wall. Moist winds off the ocean climb it, cool and drop heavy rain on the seaward side, so the slopes are green and wet. Behind the crest the air is dry, and rivers mostly turn east across the dry interior."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Western_Ghats"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.in.oldrange",
+      "countries": [
+        "IN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IN": {
+          "type": "place",
+          "lat": 24.6,
+          "lon": 73.7
+        }
+      },
+      "text": {
+        "en": "One of the world's oldest fold mountains, now only low ridges."
+      },
+      "label": {
+        "en": "WORN-DOWN RANGE"
+      },
+      "body": {
+        "en": "These mountains rose more than a billion years ago and have been worn low by erosion. What is left is a broken line of low hills across the north-west. The ridges slow the desert's spread eastward, and the old rocks hold zinc, lead and copper, mined for centuries."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aravalli_Range"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.in.twokinds",
+      "countries": [
+        "IN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IN": {
+          "type": "place",
+          "lat": 25.45,
+          "lon": 81.9
+        }
+      },
+      "text": {
+        "en": "Rivers fed by mountain snow never dry up; those fed by rain do."
+      },
+      "label": {
+        "en": "SNOW AND RAIN"
+      },
+      "body": {
+        "en": "Rivers in the north are fed by monsoon rain and by melting snow and glaciers, so they run all year. Rivers across the southern plateau depend on rain alone, and many shrink to a trickle before the next monsoon. That is why the northern plain was long ahead in irrigation."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rivers_of_India",
+        "https://en.wikipedia.org/wiki/Monsoon_of_India"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.in.floating",
+      "countries": [
+        "IN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IN": {
+          "type": "place",
+          "lat": 24.5,
+          "lon": 93.8
+        }
+      },
+      "text": {
+        "en": "A lake whose mats of plants, roots and soil float on the water."
+      },
+      "label": {
+        "en": "FLOATING LAND"
+      },
+      "body": {
+        "en": "Rotting plants, soil and roots knit into thick floating mats that drift on this freshwater lake. Some are strong enough to carry huts, and fishers live on them. One mat holds a whole park, home to a deer found nowhere else. A dam has changed water levels and caused the mats to thin."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Loktak_Lake"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.in.groundwater",
+      "countries": [
+        "IN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IN": {
+          "type": "place",
+          "lat": 30.5,
+          "lon": 75.5
+        }
+      },
+      "text": {
+        "en": "Farmers on a dry plain pump water out faster than rain refills it."
+      },
+      "label": {
+        "en": "SINKING WATER"
+      },
+      "body": {
+        "en": "A flat plain with fertile soil grows rice and wheat all year, but rain falls only in the monsoon, so farmers irrigate from wells. Pumping has far outpaced recharge, and the water table has dropped by metres. Satellites show one of the fastest groundwater losses anywhere."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Groundwater_in_India"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.in.riftflow",
+      "countries": [
+        "IN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IN": {
+          "type": "place",
+          "lat": 22.25,
+          "lon": 76.15
+        }
+      },
+      "text": {
+        "en": "Unlike most rivers here, this one runs west, along a sunken trench."
+      },
+      "label": {
+        "en": "RIVER TURNED WEST"
+      },
+      "body": {
+        "en": "Most rivers of the peninsula flow east because the plateau tilts that way. This one runs the other way, west to the sea, because it follows a rift valley, a long trench where the crust has dropped between faults. The trench holds a straight, deep valley, fertile alluvial soil and a wall of hills either side."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Narmada_River"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.in.monsoon",
+      "countries": [
+        "IN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IN": {
+          "type": "place",
+          "lat": 20.0,
+          "lon": 78.0
+        }
+      },
+      "text": {
+        "en": "Winds reverse each summer and bring most of the year's rain in a few months."
+      },
+      "label": {
+        "en": "SEASONAL RAIN"
+      },
+      "body": {
+        "en": "In summer, hot land draws moist air in from the ocean, and heavy rain falls. In winter the winds turn around and the land turns dry. Farmers plant by this rhythm, and a late or weak monsoon can mean a poor harvest."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Monsoon_of_India"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.in.floodgrass",
+      "countries": [
+        "IN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IN": {
+          "type": "place",
+          "lat": 26.6,
+          "lon": 93.4
+        }
+      },
+      "text": {
+        "en": "Yearly floods keep tall grassland open, home to a horned giant."
+      },
+      "label": {
+        "en": "FLOOD MEADOWS"
+      },
+      "body": {
+        "en": "Each monsoon a great river overflows and drowns this plain, then drains away. The floods deliver silt, refill pools and stop trees from taking over, so tall grass remains. A one-horned rhinoceros grazes there, and the grassland also holds elephants, buffalo and tigers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kaziranga_National_Park",
+        "https://en.wikipedia.org/wiki/Indian_rhinoceros"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.in.desertlifeline",
+      "countries": [
+        "IN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IN": {
+          "type": "place",
+          "lat": 26.8,
+          "lon": 72.0
+        }
+      },
+      "text": {
+        "en": "One thorny tree keeps people, goats and the soil alive in a dry waste."
+      },
+      "label": {
+        "en": "DESERT LIFELINE"
+      },
+      "body": {
+        "en": "In this arid sand country a tree with very deep roots finds water that other plants cannot reach. Its roots also add nitrogen to the soil, so crops grow better beneath it. Its leaves feed livestock and its shade shelters people and animals through the fierce heat."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Prosopis_cineraria",
+        "https://en.wikipedia.org/wiki/Thar_Desert"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.in.leafdrop",
+      "countries": [
+        "IN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IN": {
+          "type": "place",
+          "lat": 22.0,
+          "lon": 80.0
+        }
+      },
+      "text": {
+        "en": "Trees drop their leaves in the dry months and tigers hide in the open woods."
+      },
+      "label": {
+        "en": "LEAF-DROP FOREST"
+      },
+      "body": {
+        "en": "Rain comes in a few months here and the rest of the year is dry. Many trees, such as teak and sal, shed their leaves to save water until the next rains. In the open, leafless forest, grass fires burn through the dry season, and the grassy glades support deer and the tigers that hunt them."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tropical_and_subtropical_dry_broadleaf_forests",
+        "https://en.wikipedia.org/wiki/Teak"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

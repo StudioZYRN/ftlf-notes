@@ -1,0 +1,469 @@
+{
+  "version": 1,
+  "country": "US",
+  "notes": [
+    {
+      "id": "outlines.us.worn-chain",
+      "countries": [
+        "US"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "US": {
+          "type": "place",
+          "lat": 36.0,
+          "lon": -82.0
+        }
+      },
+      "text": {
+        "en": "These mountains once rivalled the tallest on Earth; ages wore them down."
+      },
+      "label": {
+        "en": "WORN-DOWN CHAIN"
+      },
+      "body": {
+        "en": "A collision of continents some 300 million years ago raised a chain that may have been as high as the Himalayas. Since then rain, ice and rivers have ground it down to rounded, forested ridges and spread the rubble across the plain to the west.\n\nOld, tightly folded rocks hold the coal that powered early industry."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Appalachian_Mountains",
+        "https://en.wikipedia.org/wiki/Geology_of_the_Appalachians"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.us.canyon",
+      "countries": [
+        "US"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "US": {
+          "type": "place",
+          "lat": 36.1,
+          "lon": -112.1
+        }
+      },
+      "text": {
+        "en": "A river sawed through rising rock and bared layers two billion years old."
+      },
+      "label": {
+        "en": "RIVER-CUT CLIFFS"
+      },
+      "body": {
+        "en": "As the land slowly rose, a river kept cutting down through it. The walls show stacked layers of rock laid down over a vast span of time, from ancient crystalline rock at the bottom to younger limestone at the rim.\n\nThe dry climate keeps the cliff faces bare, so the layers stand out like pages."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Grand_Canyon",
+        "https://en.wikipedia.org/wiki/Colorado_Plateau"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.us.hotspot-trail",
+      "countries": [
+        "US"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "US": {
+          "type": "place",
+          "lat": 44.6,
+          "lon": -110.5
+        }
+      },
+      "text": {
+        "en": "A fixed plume of heat under a moving plate left a line of giant craters."
+      },
+      "label": {
+        "en": "HOTSPOT TRAIL"
+      },
+      "body": {
+        "en": "A plume of hot rock rises from deep in the mantle while the continent drifts south-west over it. Each time it passed, the plume melted the crust and blew out a giant caldera, so older craters form a line of volcanic plains stretching away from the plume's present site.\n\nToday it powers geysers and hot springs instead of eruptions."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yellowstone_hotspot",
+        "https://en.wikipedia.org/wiki/Yellowstone_Caldera"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.us.stretched-crust",
+      "countries": [
+        "US"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "US": {
+          "type": "place",
+          "lat": 39.5,
+          "lon": -116.5
+        }
+      },
+      "text": {
+        "en": "Pulled-apart crust broke into dozens of parallel ranges and dry valleys."
+      },
+      "label": {
+        "en": "STRETCHED CRUST"
+      },
+      "body": {
+        "en": "Behind the Pacific coast the crust is being stretched, in places to almost twice its original width. It cracks into tilted blocks, leaving long north-south mountain ranges separated by flat basins.\n\nRain on the ranges runs into basins with no outlet to the sea, where it evaporates and leaves salt flats."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Basin_and_Range_Province"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.us.sliding-plates",
+      "countries": [
+        "US"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "US": {
+          "type": "place",
+          "lat": 35.2,
+          "lon": -119.8
+        }
+      },
+      "text": {
+        "en": "Two plates grind past each other, offsetting streams and rocking the ground."
+      },
+      "label": {
+        "en": "SLIDING PLATES"
+      },
+      "body": {
+        "en": "Along this fault the Pacific plate slides north-west past the continent a few centimetres a year. Rock locks in place for decades, then slips in a jolt that is an earthquake.\n\nOver time the motion bends valleys and streams sideways, so creeks turn a sharp bend where they cross the fault."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/San_Andreas_Fault",
+        "https://en.wikipedia.org/wiki/Transform_fault"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.us.mississippi",
+      "countries": [
+        "US"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "US": {
+          "type": "place",
+          "lat": 35.1,
+          "lon": -90.1
+        }
+      },
+      "text": {
+        "en": "One great river gathers the rain of the heartland and carries it to the Gulf."
+      },
+      "label": {
+        "en": "HEARTLAND DRAIN"
+      },
+      "body": {
+        "en": "Rivers from the western mountains to the eastern ridges join one main channel, so a huge share of the land drains south. Its flood-fed soil makes rich farmland, and barges carry grain down to the sea.\n\nLevees hold back floods, but they also stop the silt that rebuilds the delta, which is sinking into the sea."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mississippi_River",
+        "https://en.wikipedia.org/wiki/Mississippi_River_Delta"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.us.ice-scooped-seas",
+      "countries": [
+        "US"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "US": {
+          "type": "place",
+          "lat": 43.8,
+          "lon": -87.0
+        }
+      },
+      "text": {
+        "en": "Ice sheets gouged basins that now hold a fifth of the world's fresh water."
+      },
+      "label": {
+        "en": "ICE-SCOOPED SEAS"
+      },
+      "body": {
+        "en": "Ice sheets a kilometre thick pressed into old river valleys and softer rock, scooping out basins. When the ice melted about 10,000 years ago, water filled them, and it has drained out through a single river ever since.\n\nThe lakes soften nearby winters, hold summer heat into autumn and let ore and grain ships reach the heart of the continent."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_Lakes",
+        "https://en.wikipedia.org/wiki/Lake_Michigan"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.us.shrinking-salt-lake",
+      "countries": [
+        "US"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "US": {
+          "type": "place",
+          "lat": 41.2,
+          "lon": -112.6
+        }
+      },
+      "text": {
+        "en": "A leftover of an ice-age giant lake, with no outlet, keeps shrinking."
+      },
+      "label": {
+        "en": "SHRINKING SALT LAKE"
+      },
+      "body": {
+        "en": "Cool, wet ice-age climate filled a basin with a lake about as large as one of the great northern lakes. As the climate warmed it evaporated down to a salty remnant with no outlet.\n\nFarms and cities now divert the streams feeding it, and its exposed lakebed raises dust."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_Salt_Lake",
+        "https://en.wikipedia.org/wiki/Lake_Bonneville"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.us.fossil-water",
+      "countries": [
+        "US"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "US": {
+          "type": "place",
+          "lat": 38.0,
+          "lon": -100.8
+        }
+      },
+      "text": {
+        "en": "Ancient water sits underground, and wells empty it faster than it refills."
+      },
+      "label": {
+        "en": "FOSSIL WATER"
+      },
+      "body": {
+        "en": "Under the dry plains, gravel and sand hold water that soaked in over many thousands of years. Irrigation pumps draw it up to grow corn and wheat, and the round fields they water show clearly from space.\n\nRain returns only a sliver of what is pumped, so in places wells have run dry."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ogallala_Aquifer",
+        "https://en.wikipedia.org/wiki/Center-pivot_irrigation"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.us.river-of-grass",
+      "countries": [
+        "US"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "US": {
+          "type": "place",
+          "lat": 25.7,
+          "lon": -80.8
+        }
+      },
+      "text": {
+        "en": "A shallow sheet of water creeps across a flat plain of sawgrass."
+      },
+      "label": {
+        "en": "RIVER OF GRASS"
+      },
+      "body": {
+        "en": "The southern tip of the peninsula is almost perfectly flat, so rain does not run off in channels but spreads as a shallow sheet some 100 km wide and creeps toward the sea.\n\nTree-covered islands rise a few centimetres above the water. Canals built to drain land for farms and towns have starved parts of it."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Everglades"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.us.clashing-air",
+      "countries": [
+        "US"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "US": {
+          "type": "place",
+          "lat": 36.0,
+          "lon": -97.5
+        }
+      },
+      "text": {
+        "en": "Warm Gulf air meets cold northern air on land flat enough to let them clash."
+      },
+      "label": {
+        "en": "CLASHING AIR"
+      },
+      "body": {
+        "en": "Across the flat plains nothing blocks the air masses. Warm moist air from the Gulf runs north into cold dry air from the north and the western mountains, and a dry line from the high plains lifts them into violent storms.\n\nTornadoes are far more common here than almost anywhere on Earth."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tornado_Alley",
+        "https://en.wikipedia.org/wiki/Dry_line"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.us.plowed-prairie",
+      "countries": [
+        "US"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "US": {
+          "type": "place",
+          "lat": 39.0,
+          "lon": -100.5
+        }
+      },
+      "text": {
+        "en": "Deep-rooted grass held the soil until the plough and a drought did not."
+      },
+      "label": {
+        "en": "PLOWED PRAIRIE"
+      },
+      "body": {
+        "en": "Prairie grass roots reach metres deep and hold soil through dry spells and fire. In the early 1900s settlers plowed up the sod for wheat.\n\nWhen severe drought struck in the 1930s, nothing held the bare soil, and winds lifted it into dust storms that buried farms and drove many families away."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dust_Bowl",
+        "https://en.wikipedia.org/wiki/Prairie"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.us.fire-opened-cones",
+      "countries": [
+        "US"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "US": {
+          "type": "place",
+          "lat": 36.57,
+          "lon": -118.78
+        }
+      },
+      "text": {
+        "en": "Giant trees need fire to release seeds and clear room for seedlings."
+      },
+      "label": {
+        "en": "FIRE-OPENED CONES"
+      },
+      "body": {
+        "en": "On the western slope of a mountain range, winter snow melts through dry summers and feeds groves of the most massive trees on Earth. Heat from low fires dries their cones so they open, and clears undergrowth so seedlings get sun and bare soil.\n\nA century of putting out every fire left thick fuel, so some stands now burn too hot."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sequoiadendron_giganteum",
+        "https://en.wikipedia.org/wiki/Wildfire_suppression"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.us.baking-basin",
+      "countries": [
+        "US"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "US": {
+          "type": "place",
+          "lat": 36.45,
+          "lon": -116.85
+        }
+      },
+      "text": {
+        "en": "Walls of rock trap heat in a basin below sea level."
+      },
+      "label": {
+        "en": "BAKING BASIN"
+      },
+      "body": {
+        "en": "A deep basin, part of it below sea level, sits behind high mountains that wring the rain from Pacific air. Dry air, bare rock and sun heat the floor, and the steep walls hold the heat in, so it has recorded the highest air temperature ever measured, about 57 degrees Celsius.\n\nLife endures by hiding, sleeping or timing itself around rare storms."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Death_Valley",
+        "https://en.wikipedia.org/wiki/List_of_weather_records"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.us.salamander-forest",
+      "countries": [
+        "US"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "US": {
+          "type": "place",
+          "lat": 35.6,
+          "lon": -83.5
+        }
+      },
+      "text": {
+        "en": "Wet, ancient mountains shelter more salamander kinds than anywhere else."
+      },
+      "label": {
+        "en": "SALAMANDER FOREST"
+      },
+      "body": {
+        "en": "Ice sheets never covered these southern slopes, so ancient forest survived through the ice ages as a refuge. Mild, rainy weather and cool, damp leaf litter suit animals that breathe through their skin.\n\nOver time dozens of kinds of lungless salamander evolved here, more than in any other region."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Plethodontidae",
+        "https://en.wikipedia.org/wiki/Southern_Appalachian_spruce%E2%80%93fir_forest"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

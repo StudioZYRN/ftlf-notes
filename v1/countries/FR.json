@@ -1,0 +1,431 @@
+{
+  "version": 1,
+  "country": "FR",
+  "notes": [
+    {
+      "id": "outlines.fr.puys",
+      "countries": [
+        "FR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "FR": {
+          "type": "place",
+          "lat": 45.77,
+          "lon": 2.97
+        }
+      },
+      "text": {
+        "en": "A chain of small cones shows the crust here was stretched, not squeezed."
+      },
+      "label": {
+        "en": "SLEEPING VOLCANOES"
+      },
+      "body": {
+        "en": "When the Alps rose, the crust to their northwest was pulled apart, and cracks let magma climb. It built a line of small cones and domes that last erupted only a few thousand years ago.\n\nThe lava and ash weather into fertile soil, and mineral springs rise through the same cracks. Steep, stony slopes keep the high ground to grazing cattle."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chaîne_des_Puys"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fr.worn-roots",
+      "countries": [
+        "FR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "FR": {
+          "type": "place",
+          "lat": 48.2,
+          "lon": -3.0
+        }
+      },
+      "text": {
+        "en": "Hills of hard granite are the stump of mountains from 300 million years ago."
+      },
+      "label": {
+        "en": "WORN-DOWN ROOTS"
+      },
+      "body": {
+        "en": "A mountain chain rose here when old continents collided and then wore away for hundreds of millions of years. What remains is a low, rolling upland of granite and hard schist.\n\nBecause the rock resists the sea, the coast stays rugged and full of headlands. Inland, small fields are divided by banks and hedges."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Armorican_Massif"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fr.stacked-bowl",
+      "countries": [
+        "FR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "FR": {
+          "type": "place",
+          "lat": 49.0,
+          "lon": 4.0
+        }
+      },
+      "text": {
+        "en": "Layers of sea mud and limestone dip toward the middle like nested dishes."
+      },
+      "label": {
+        "en": "STACKED BOWL"
+      },
+      "body": {
+        "en": "Shallow seas laid down clay, sand, limestone and chalk, and the whole pile later sagged gently in the middle. Erosion then cut through the layers, leaving ring-shaped ridges whose steep faces look outward from the centre.\n\nThe chalk at the edge is easy to dig, so it holds miles of cool cellars, and its dry, chalky soil suits vines."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paris_Basin",
+        "https://en.wikipedia.org/wiki/Cuesta"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fr.rift-shoulder",
+      "countries": [
+        "FR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "FR": {
+          "type": "place",
+          "lat": 48.0,
+          "lon": 7.0
+        }
+      },
+      "text": {
+        "en": "A forested ridge rises steeply from a valley that dropped between faults."
+      },
+      "label": {
+        "en": "RIFT SHOULDER"
+      },
+      "body": {
+        "en": "The crust is stretching apart here. A wide strip sank between two faults, forming a flat-floored valley, while the rock on either side was tilted up into a ridge with a steep face toward the valley and a gentler slope behind.\n\nThe flank catches rain and holds dense forest. Its sunny foot, sheltered from the wet, is good for vineyards."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Upper_Rhine_Graben",
+        "https://en.wikipedia.org/wiki/Vosges_Mountains"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fr.limestone-plateaus",
+      "countries": [
+        "FR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "FR": {
+          "type": "place",
+          "lat": 44.2,
+          "lon": 3.2
+        }
+      },
+      "text": {
+        "en": "Rain sinks into limestone, so rivers must cut deep gorges to escape."
+      },
+      "label": {
+        "en": "THIRSTY PLATEAUS"
+      },
+      "body": {
+        "en": "Limestone dissolves in rainwater, so on these high plateaus the water vanishes into cracks and caves instead of running over the surface. The few rivers that cross them have sliced canyons hundreds of metres deep.\n\nThe soil is thin and dry, good only for sheep. Their milk is ripened in cool natural caves where the rock lets damp air circulate."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Causses",
+        "https://en.wikipedia.org/wiki/Karst"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fr.delta-marsh",
+      "countries": [
+        "FR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "FR": {
+          "type": "place",
+          "lat": 43.68,
+          "lon": 4.63
+        }
+      },
+      "text": {
+        "en": "A nearly tideless sea lets a river's silt pile up instead of washing away."
+      },
+      "label": {
+        "en": "SILT FAN"
+      },
+      "body": {
+        "en": "A river that drains the Alps drops its silt where it meets a nearly tideless sea. Over thousands of years the load has built a fan-shaped delta of marsh and lagoons.\n\nThe flat, salty ground suits flamingos, wild horses and rice more than towns. In summer, shallow pans heat up and evaporate, leaving salt that people have gathered for centuries."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Camargue",
+        "https://en.wikipedia.org/wiki/Rhône"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fr.lazy-loops",
+      "countries": [
+        "FR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "FR": {
+          "type": "place",
+          "lat": 49.25,
+          "lon": 1.4
+        }
+      },
+      "text": {
+        "en": "A river with almost no slope winds in wide curves across a chalk plateau."
+      },
+      "label": {
+        "en": "LAZY LOOPS"
+      },
+      "body": {
+        "en": "Over a long stretch this river drops only a few metres, so it has little energy to cut straight and instead swings in huge meanders, cutting steep bluffs on the outside of each bend.\n\nThe gentle gradient also makes it easy to navigate and to link by canals. Goods have long moved inland on it from the coast."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Seine"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fr.ice-lake",
+      "countries": [
+        "FR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "FR": {
+          "type": "place",
+          "lat": 45.73,
+          "lon": 5.86
+        }
+      },
+      "text": {
+        "en": "A lake fills a trench gouged out by a glacier at the Alps' edge."
+      },
+      "label": {
+        "en": "ICE-CARVED BASIN"
+      },
+      "body": {
+        "en": "During the ice ages a glacier flowed out of the mountains and scoured a deep trench in softer rock. When the ice melted, a ridge of rubble it had pushed ahead blocked the end, and meltwater and rain filled the basin.\n\nBecause the lake is deep, it moderates the air around it, and the shores stay milder than the plains beyond."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lac_du_Bourget",
+        "https://en.wikipedia.org/wiki/Glacial_lake"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fr.watershed-gap",
+      "countries": [
+        "FR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "FR": {
+          "type": "place",
+          "lat": 43.37,
+          "lon": 1.96
+        }
+      },
+      "text": {
+        "en": "A hill pass only 190 m high separates rivers to two different seas."
+      },
+      "label": {
+        "en": "LOW DIVIDE"
+      },
+      "body": {
+        "en": "A low gap in the hills divides water flowing to the Atlantic from water flowing to the Mediterranean. In the 1600s engineers built a canal over it, feeding the high point from reservoirs in the mountains to the north.\n\nIt linked the two seas without sailing around a peninsula, and it still carries boats today."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Canal_du_Midi"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fr.pine-sands",
+      "countries": [
+        "FR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "FR": {
+          "type": "place",
+          "lat": 44.2,
+          "lon": -0.9
+        }
+      },
+      "text": {
+        "en": "A sandy swamp was drained and planted as a vast pine forest."
+      },
+      "label": {
+        "en": "DRAINED MARSH"
+      },
+      "body": {
+        "en": "A flat sheet of sand lies over a hard layer that stops water draining away, so the plain was once a wet, unhealthy marsh. In the 1800s ditches were dug and pines were planted.\n\nThe trees dry the soil, supply timber and resin, and cover a huge area. The ditches, pines and flat land are all still visible."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Landes_de_Gascogne",
+        "https://en.wikipedia.org/wiki/Landes_forest"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fr.wind-corridor",
+      "countries": [
+        "FR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "FR": {
+          "type": "place",
+          "lat": 44.0,
+          "lon": 4.8
+        }
+      },
+      "text": {
+        "en": "A cold gale funnels down a valley between two mountain masses."
+      },
+      "label": {
+        "en": "WIND CORRIDOR"
+      },
+      "body": {
+        "en": "Between the Alps and an older upland to the west, a valley narrows and speeds up cold air flowing south. The wind is dry and strong, and it clears the sky.\n\nFarmers plant tall cypress hedges and build houses with blank walls facing north. The same wind dries fruit and keeps the air clear and sunny."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mistral_(wind)"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fr.lavender-slopes",
+      "countries": [
+        "FR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "FR": {
+          "type": "place",
+          "lat": 43.83,
+          "lon": 6.0
+        }
+      },
+      "text": {
+        "en": "Dry summers favour plants that hold water in oily, scented leaves."
+      },
+      "label": {
+        "en": "AROMATIC SCRUB"
+      },
+      "body": {
+        "en": "A Mediterranean climate brings wet winters and long, dry summers. Plants cope with small, tough, hairy or waxy leaves and with scented oils, which are also why herbs such as lavender and thyme smell so strong.\n\nOn high, dry, stony plateaus, lavender thrives where little else grows, so whole fields are farmed for its oil."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lavandula",
+        "https://en.wikipedia.org/wiki/Valensole"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fr.sunny-scarp",
+      "countries": [
+        "FR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "FR": {
+          "type": "place",
+          "lat": 47.1,
+          "lon": 4.9
+        }
+      },
+      "text": {
+        "en": "A long fault slope faces the morning sun, and vines on it ripen evenly."
+      },
+      "label": {
+        "en": "SUNNY SCARP"
+      },
+      "body": {
+        "en": "A fault left a long slope facing east. Its limestone and marl soils drain well, the morning sun warms it, and the hills above shelter it from westerly rain.\n\nSoil changes every few hundred metres along the slope, giving grapes from neighbouring rows different flavours. This is why growers there name and price wines by the plot."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Côte_d'Or_(escarpment)"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fr.six-sides",
+      "countries": [
+        "FR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "shape",
+      "anchors": {
+        "FR": {
+          "type": "whole"
+        }
+      },
+      "text": {
+        "en": "Coasts, mountain chains and a river make the outline almost six-sided."
+      },
+      "label": {
+        "en": "NATURAL WALLS"
+      },
+      "body": {
+        "en": "Sea lies on three sides, high mountains on two more, and a big river along part of another. These natural walls give the outline its compact, nearly even form.\n\nThe broad middle is open to travel in all directions, so roads and canals have long radiated across it."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_France"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

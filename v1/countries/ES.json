@@ -1,0 +1,371 @@
+{
+  "version": 1,
+  "country": "ES",
+  "notes": [
+    {
+      "id": "outlines.es.meseta",
+      "countries": [
+        "ES"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ES": {
+          "type": "place",
+          "lat": 40.0,
+          "lon": -4.0
+        }
+      },
+      "text": {
+        "en": "A broad plateau, ringed by mountains, covers the heart of the land."
+      },
+      "label": {
+        "en": "HIGH TABLELAND"
+      },
+      "body": {
+        "en": "Much of the interior stands several hundred metres above the sea. Mountains around it keep out ocean air, so it has hot, dry summers and cold winters.\n\nRivers cross it in deep valleys, and wheat and sheep suit the thin soil. Few rivers can be used for boats, so roads have long been the main way to cross it."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Meseta_Central"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.es.snow-over-sea",
+      "countries": [
+        "ES"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ES": {
+          "type": "place",
+          "lat": 37.05,
+          "lon": -3.3
+        }
+      },
+      "text": {
+        "en": "Snow-capped peaks rise above a subtropical coast, a result of plates colliding."
+      },
+      "label": {
+        "en": "SNOWY SOUTH"
+      },
+      "body": {
+        "en": "Africa and Europe are pressing together, and the squeeze has lifted a range near the southern coast to over 3,400 m, the tallest on the peninsula's mainland.\n\nSnow lingers into summer above warm lowlands. Meltwater runs down old irrigation channels that have watered the dry slopes for centuries."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sierra_Nevada_(Spain)"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.es.clay-desert",
+      "countries": [
+        "ES"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ES": {
+          "type": "place",
+          "lat": 42.18,
+          "lon": -1.5
+        }
+      },
+      "text": {
+        "en": "Soft clays, rare downpours and little plant cover carve gullies and mesas."
+      },
+      "label": {
+        "en": "CLAY BADLANDS"
+      },
+      "body": {
+        "en": "In a dry basin ringed by mountains, soft clay and sandstone lie almost bare of plants. Rain is rare but heavy, and it runs straight off and cuts deep gullies.\n\nHard cap-rocks protect isolated flat-topped hills, which erode slowly into steep-sided towers. Grazing is the only common use."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bardenas_Reales"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.es.stacked-rock",
+      "countries": [
+        "ES"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ES": {
+          "type": "place",
+          "lat": 36.95,
+          "lon": -4.54
+        }
+      },
+      "text": {
+        "en": "Rain dissolves limestone beds into piles that look like stacks of plates."
+      },
+      "label": {
+        "en": "STACKED ROCK"
+      },
+      "body": {
+        "en": "An old sea floor of limestone was lifted by the same collision that raised the nearby mountains. Rainwater slowly dissolves it along the cracks between its layers, widening them.\n\nWhat remains looks like piles of stone plates, with sinkholes and narrow lanes between them."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/El_Torcal"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.es.westward-tilt",
+      "countries": [
+        "ES"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ES": {
+          "type": "place",
+          "lat": 39.96,
+          "lon": -4.83
+        }
+      },
+      "text": {
+        "en": "The plateau tilts toward the Atlantic, so its longest rivers run west."
+      },
+      "label": {
+        "en": "WESTWARD TILT"
+      },
+      "body": {
+        "en": "The plateau slopes gently west, and several big rivers cross it for hundreds of kilometres to reach the Atlantic. Rivers on the east side drop steeply over a short distance to the Mediterranean instead.\n\nThe long western rivers pass through many dams that store water for dry summers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Meseta_Central",
+        "https://en.wikipedia.org/wiki/Tagus"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.es.irrigated-basin",
+      "countries": [
+        "ES"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ES": {
+          "type": "place",
+          "lat": 41.65,
+          "lon": -0.9
+        }
+      },
+      "text": {
+        "en": "A river crosses a dry basin, and canals turn desert into orchards."
+      },
+      "label": {
+        "en": "RAIN-SHADOW RIVER"
+      },
+      "body": {
+        "en": "Mountains on all sides block moist air, so this basin gets little rain. Yet a big river runs through it, fed by snowmelt from the mountains.\n\nCanals spread its water over dry plains, and fruit trees, vegetables and rice grow where there would otherwise be steppe. Where the water stops, the land returns to desert."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ebro",
+        "https://en.wikipedia.org/wiki/Irrigation"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.es.thirsty-wetland",
+      "countries": [
+        "ES"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ES": {
+          "type": "place",
+          "lat": 39.15,
+          "lon": -3.7
+        }
+      },
+      "text": {
+        "en": "A wetland on a dry plateau dried up when farms pumped its groundwater."
+      },
+      "label": {
+        "en": "THIRSTY WETLAND"
+      },
+      "body": {
+        "en": "Water seeping up from an underground aquifer and flooding from a slow river created a rare wetland in the dry plateau. Then farms pumped so much groundwater for irrigation that the water table fell.\n\nThe peat dried out and caught fire in 2009. Authorities have since tried to refill it with water from elsewhere."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tablas_de_Daimiel_National_Park"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.es.sudden-rivers",
+      "countries": [
+        "ES"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ES": {
+          "type": "place",
+          "lat": 38.0,
+          "lon": -1.3
+        }
+      },
+      "text": {
+        "en": "Dry gullies fill in hours when autumn storms hit the bare hills."
+      },
+      "label": {
+        "en": "SUDDEN RIVERS"
+      },
+      "body": {
+        "en": "In autumn the sea is warm and cold air arrives high above it, which fuels huge storms. A downpour can drop a normal year's rain in a day.\n\nThe hills are steep and bare, so water rushes into dry riverbeds and floods in hours. Villages and roads built on those beds can be swept away."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ramblas",
+        "https://en.wikipedia.org/wiki/Cut-off_low"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.es.oak-pasture",
+      "countries": [
+        "ES"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ES": {
+          "type": "place",
+          "lat": 39.2,
+          "lon": -6.2
+        }
+      },
+      "text": {
+        "en": "Thinned oaks over grass turn poor, dry soil into a pig farm."
+      },
+      "label": {
+        "en": "OAK PASTURE"
+      },
+      "body": {
+        "en": "The soil is thin and summers are dry, so farmers thinned an oak forest instead of clearing it. The trees shade grass, shelter animals from heat and drop acorns.\n\nPigs fatten on the acorns in autumn, and their meat is prized. The open woodland is also a refuge for rare eagles and wintering cranes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dehesa"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.es.green-belt",
+      "countries": [
+        "ES"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ES": {
+          "type": "place",
+          "lat": 43.2,
+          "lon": -5.7
+        }
+      },
+      "text": {
+        "en": "Mountains catch Atlantic rain, so the north is green and the interior brown."
+      },
+      "label": {
+        "en": "GREEN BELT"
+      },
+      "body": {
+        "en": "Westerly winds carry moist air from the Atlantic, and the mountain wall near the north coast forces it upward, so it drops rain and cloud there all year.\n\nThe north has lush meadows, dairy farms and oak and beech forest. Just beyond the ridge, rain-shadow dryness leaves the interior brown in summer."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Green_Spain",
+        "https://en.wikipedia.org/wiki/Cantabrian_Mountains"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.es.olive-sea",
+      "countries": [
+        "ES"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ES": {
+          "type": "place",
+          "lat": 37.8,
+          "lon": -3.8
+        }
+      },
+      "text": {
+        "en": "Tough olive trees cover whole hills where little else grows."
+      },
+      "label": {
+        "en": "OLIVE SEA"
+      },
+      "body": {
+        "en": "Olive trees survive drought and thin, stony soil that would defeat most crops. Where summers are hot and dry but winters are mild, they spread over whole hillsides in neat rows.\n\nBare ground between the rows washes away in heavy rain, so soil loss is a big concern. The region is among the world's largest olive oil producers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Olive",
+        "https://en.wikipedia.org/wiki/Olive_oil"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.es.steppe-birds",
+      "countries": [
+        "ES"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ES": {
+          "type": "place",
+          "lat": 41.0,
+          "lon": -4.7
+        }
+      },
+      "text": {
+        "en": "Dry cereal fields work like steppe for some of the heaviest flying birds."
+      },
+      "label": {
+        "en": "STEPPE BIRDS"
+      },
+      "body": {
+        "en": "The dry, flat plateau is covered with cereal fields that resemble open steppe. Some large birds that need such wide, open ground, including the great bustard, found a home there.\n\nChanges in farming, such as irrigation, new roads and power lines, break up the open space, so these birds are now declining."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_bustard"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

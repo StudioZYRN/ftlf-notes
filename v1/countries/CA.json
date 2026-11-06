@@ -1,0 +1,435 @@
+{
+  "version": 1,
+  "country": "CA",
+  "notes": [
+    {
+      "id": "outlines.ca.scoured-shield",
+      "countries": [
+        "CA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CA": {
+          "type": "place",
+          "lat": 52.0,
+          "lon": -90.0
+        }
+      },
+      "text": {
+        "en": "Billion-year-old rock, scraped bare by ice, holds metals and countless lakes."
+      },
+      "label": {
+        "en": "SCOURED SHIELD"
+      },
+      "body": {
+        "en": "Much of the core is bedrock older than a billion years that has hardly moved since. Ice sheets stripped off its soil, leaving thin soil, bare rock and countless hollows that became lakes.\n\nDeep in that old crust lie nickel, gold, copper and iron, so mines dot a region too rocky for farms."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Canadian_Shield",
+        "https://en.wikipedia.org/wiki/Craton"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ca.seafloor-summits",
+      "countries": [
+        "CA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CA": {
+          "type": "place",
+          "lat": 51.4,
+          "lon": -116.5
+        }
+      },
+      "text": {
+        "en": "These peaks are lifted seabed, with sea creatures fossilised near the top."
+      },
+      "label": {
+        "en": "SEAFLOOR SUMMITS"
+      },
+      "body": {
+        "en": "Layers of limestone and shale laid down in a shallow sea were squeezed, folded and thrust upward and eastward as ocean plates pushed against the continent. The tilted slabs now stand as jagged peaks.\n\nIn one place a mudslide buried soft-bodied sea animals about 500 million years ago, and their remarkable fossils survive in shale high on a mountain."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Canadian_Rockies",
+        "https://en.wikipedia.org/wiki/Burgess_Shale"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ca.rebounding-land",
+      "countries": [
+        "CA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CA": {
+          "type": "place",
+          "lat": 57.0,
+          "lon": -96.5
+        }
+      },
+      "text": {
+        "en": "Land freed from ice is still springing back up, a centimetre a year."
+      },
+      "label": {
+        "en": "REBOUNDING LAND"
+      },
+      "body": {
+        "en": "A kilometres-thick ice sheet pressed the crust down into the soft rock beneath. When the ice melted about 10,000 years ago, the crust began to rebound, and it is still rising by up to about a centimetre a year around a large bay.\n\nOld beaches now lie far above the water."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Post-glacial_rebound",
+        "https://en.wikipedia.org/wiki/Glacial_isostatic_adjustment"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ca.buried-impact",
+      "countries": [
+        "CA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CA": {
+          "type": "place",
+          "lat": 46.6,
+          "lon": -81.2
+        }
+      },
+      "text": {
+        "en": "A giant impact melted the crust and left a basin rich in nickel."
+      },
+      "label": {
+        "en": "BURIED IMPACT"
+      },
+      "body": {
+        "en": "About 1.85 billion years ago something large struck here, melting rock and throwing debris for hundreds of kilometres. The melt sheet cooled into layers rich in nickel and copper, and later folding squeezed the crater into an oval basin.\n\nIt has been mined for over a century."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sudbury_Basin"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ca.ice-scooped-seas",
+      "countries": [
+        "CA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CA": {
+          "type": "place",
+          "lat": 45.4,
+          "lon": -81.0
+        }
+      },
+      "text": {
+        "en": "Ice sheets scooped basins in old rock; they hold a fifth of fresh water."
+      },
+      "label": {
+        "en": "ICE-SCOOPED SEAS"
+      },
+      "body": {
+        "en": "A bay of one of these lakes is ringed by hard shield rock, a rugged shore with tens of thousands of islands. Ice sheets deepened old valleys, and when they melted the water filled them.\n\nThe lakes drain through one river to the sea, and their size delays winter by holding summer heat, which feeds heavy lake-effect snow downwind."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_Lakes",
+        "https://en.wikipedia.org/wiki/Georgian_Bay"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ca.north-flowing-floods",
+      "countries": [
+        "CA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CA": {
+          "type": "place",
+          "lat": 61.9,
+          "lon": -121.4
+        }
+      },
+      "text": {
+        "en": "Melt starts upstream while the river's mouth is frozen, and floods follow."
+      },
+      "label": {
+        "en": "NORTH-FLOWING FLOODS"
+      },
+      "body": {
+        "en": "Because the river runs toward the Arctic, spring warmth reaches its sources in the south first. Meltwater races downstream and meets ice still locked in the lower river, which jams and backs the water up over the banks.\n\nThe yearly flood refills lakes and wetlands of the delta, and threatens riverside towns."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mackenzie_River",
+        "https://en.wikipedia.org/wiki/Ice_jam"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ca.lakes-everywhere",
+      "countries": [
+        "CA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CA": {
+          "type": "place",
+          "lat": 56.0,
+          "lon": -102.0
+        }
+      },
+      "text": {
+        "en": "Ice left a land so disordered that water pools in every hollow."
+      },
+      "label": {
+        "en": "LAKES EVERYWHERE"
+      },
+      "body": {
+        "en": "Ice sheets scoured the hard rock and then melted before rivers could carve tidy valleys. Meltwater collected in a chaos of hollows, so lakes, bogs and short rivers fill the north.\n\nWater cannot drain neatly, so even small rises in rainfall expand the wetlands."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake",
+        "https://en.wikipedia.org/wiki/Canadian_Shield"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ca.duck-factory",
+      "countries": [
+        "CA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CA": {
+          "type": "place",
+          "lat": 51.0,
+          "lon": -104.5
+        }
+      },
+      "text": {
+        "en": "Pits left by melting ice fill with spring water and nurse waterfowl."
+      },
+      "label": {
+        "en": "DUCK FACTORY"
+      },
+      "body": {
+        "en": "As the ice sheet melted, buried blocks of ice left hollows across the plains. Snowmelt fills them each spring into millions of shallow ponds, rich in insects and seeds.\n\nDucks nest around them, and many of the continent's ducks hatch here, though drainage for farming has erased many ponds."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Prairie_Pothole_Region"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ca.three-ocean-roof",
+      "countries": [
+        "CA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CA": {
+          "type": "place",
+          "lat": 52.2,
+          "lon": -117.3
+        }
+      },
+      "text": {
+        "en": "Meltwater from one icefield flows to three different oceans."
+      },
+      "label": {
+        "en": "THREE-OCEAN ROOF"
+      },
+      "body": {
+        "en": "At the high point of an icefield, melting ice splits three ways. One stream flows west to the Pacific, another north to the Arctic Ocean, and another east to a northern bay and then the Atlantic.\n\nThe glaciers here are shrinking, which affects rivers hundreds of kilometres away."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Columbia_Icefield",
+        "https://en.wikipedia.org/wiki/Triple_divide"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ca.permafrost",
+      "countries": [
+        "CA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CA": {
+          "type": "place",
+          "lat": 66.0,
+          "lon": -110.0
+        }
+      },
+      "text": {
+        "en": "Far north, soil stays frozen all year, so trees give way to tundra."
+      },
+      "label": {
+        "en": "FROZEN GROUND"
+      },
+      "body": {
+        "en": "Where winters are long and summers short, ground below the surface stays frozen for years. Roots cannot go deep, so trees give way to low tundra plants.\n\nWhen permafrost thaws, the ground sinks and buckles, which damages roads and buildings."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Permafrost"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.ca.fire-renewed-forest",
+      "countries": [
+        "CA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CA": {
+          "type": "place",
+          "lat": 54.0,
+          "lon": -100.0
+        }
+      },
+      "text": {
+        "en": "Conifers cover the cold lowlands, and fire resets them."
+      },
+      "label": {
+        "en": "FIRE-RENEWED FOREST"
+      },
+      "body": {
+        "en": "A short, cool growing season favours spruce, pine and fir, which keep their needles all year and start growing the moment it warms. Lightning fires burn large patches every few decades.\n\nJack pine cones are sealed with resin until fire melts it, so the forest reseeds itself in the ashes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taiga",
+        "https://en.wikipedia.org/wiki/Pinus_banksiana"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ca.snow-eater-wind",
+      "countries": [
+        "CA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CA": {
+          "type": "place",
+          "lat": 50.0,
+          "lon": -113.0
+        }
+      },
+      "text": {
+        "en": "Air falls off the mountains warm and dry and melts snow in hours."
+      },
+      "label": {
+        "en": "SNOW-EATER WIND"
+      },
+      "body": {
+        "en": "Moist Pacific air drops its rain and snow crossing the mountains, then sinks down the eastern side, warming as it is squeezed. The dry wind can lift winter temperatures by 20 degrees or more in a few hours and strip a snowpack in a day.\n\nPeople call it the snow eater, and it keeps winter grass open for cattle."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chinook_wind",
+        "https://en.wikipedia.org/wiki/F%C3%B6hn_wind"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ca.long-march-herds",
+      "countries": [
+        "CA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CA": {
+          "type": "place",
+          "lat": 64.0,
+          "lon": -108.0
+        }
+      },
+      "text": {
+        "en": "Herds trek hundreds of kilometres each spring to calve on open tundra."
+      },
+      "label": {
+        "en": "LONG-MARCH HERDS"
+      },
+      "body": {
+        "en": "Caribou winter in northern forests where lichens grow under the snow, then move onto treeless tundra to calve. The open ground offers fewer predators and a breeze that keeps biting insects away, so calves survive.\n\nSome herds travel thousands of kilometres a year, among the longest land migrations."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Caribou",
+        "https://en.wikipedia.org/wiki/Animal_migration"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ca.ragged-coast",
+      "countries": [
+        "CA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "shape",
+      "anchors": {
+        "CA": {
+          "type": "whole"
+        }
+      },
+      "text": {
+        "en": "Ice carved fjords and thousands of islands out of the northern shore."
+      },
+      "label": {
+        "en": "RAGGED COAST"
+      },
+      "body": {
+        "en": "Ice sheets gouged deep valleys and scraped off the soil, and meltwater and rising seas then flooded the hollows, leaving fjords, bays and countless islands. Far in the north the land breaks into an archipelago of tens of thousands of islands.\n\nAll those inlets give the country a very long coast."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Canadian_Arctic_Archipelago",
+        "https://en.wikipedia.org/wiki/Fjord"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

@@ -1,0 +1,460 @@
+{
+  "version": 1,
+  "country": "CN",
+  "notes": [
+    {
+      "id": "outlines.cn.plateau",
+      "countries": [
+        "CN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CN": {
+          "type": "place",
+          "lat": 33.0,
+          "lon": 88.0
+        }
+      },
+      "text": {
+        "en": "A broad land lifted miles into the sky where two continents push together."
+      },
+      "label": {
+        "en": "HIGH PLATEAU"
+      },
+      "body": {
+        "en": "A neighbouring plate pushing into Asia has squeezed and raised the crust here into a vast, high plateau with a thin, cold, dry climate. Great rivers begin on its edges, and its glaciers feed them. Few crops grow, so herding is the main way of life."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tibetan_Plateau"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.cn.loess",
+      "countries": [
+        "CN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CN": {
+          "type": "place",
+          "lat": 36.0,
+          "lon": 108.5
+        }
+      },
+      "text": {
+        "en": "Wind-blown dust, piled hundreds of metres thick, forms the ground itself."
+      },
+      "label": {
+        "en": "DUST BLANKET"
+      },
+      "body": {
+        "en": "Over millions of years winds carried fine dust out of the deserts to the north-west and dropped it here, building a blanket of soft, yellow loess up to hundreds of metres deep. Rain cuts it into gullies and steep ravines, and people dug homes straight into the walls because the dust stands up well when dry."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Loess_Plateau"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.cn.karst",
+      "countries": [
+        "CN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CN": {
+          "type": "place",
+          "lat": 24.9,
+          "lon": 110.5
+        }
+      },
+      "text": {
+        "en": "Rain slowly dissolves the limestone into steep green towers."
+      },
+      "label": {
+        "en": "DISSOLVED HILLS"
+      },
+      "body": {
+        "en": "Rainwater is faintly acidic and limestone slowly dissolves in it. Over millions of years a thick limestone plain has been eaten away until only steep, isolated towers remain, with caves and rivers running underneath. The flat ground between them is some of the only good farmland."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/South_China_Karst",
+        "https://en.wikipedia.org/wiki/Karst"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.cn.tarimbasin",
+      "countries": [
+        "CN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CN": {
+          "type": "place",
+          "lat": 39.0,
+          "lon": 83.0
+        }
+      },
+      "text": {
+        "en": "Mountains on every side keep rain out of this huge, sandy bowl."
+      },
+      "label": {
+        "en": "RINGED BASIN"
+      },
+      "body": {
+        "en": "High ranges wall in this basin on three sides and wring the moisture from winds before they arrive. What remains is one of the largest sandy deserts in the world, with a dry centre. Meltwater from the surrounding peaks runs down to its edge, so people live in oases around the rim, not in the middle."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tarim_Basin",
+        "https://en.wikipedia.org/wiki/Taklamakan_Desert"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.cn.redbasin",
+      "countries": [
+        "CN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CN": {
+          "type": "place",
+          "lat": 30.5,
+          "lon": 105.0
+        }
+      },
+      "text": {
+        "en": "Ringed by high ground, this basin stays mild, cloudy and crowded."
+      },
+      "label": {
+        "en": "WARM BOWL"
+      },
+      "body": {
+        "en": "High mountains on all sides shelter this basin from cold winter winds, and the long growing season suits rice and many other crops. Clouds and mist hang over it much of the year, since moist air gets trapped. The farmland is among the most productive in the country and supports a very dense rural population."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sichuan_Basin"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.cn.yellow",
+      "countries": [
+        "CN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CN": {
+          "type": "place",
+          "lat": 35.6,
+          "lon": 110.5
+        }
+      },
+      "text": {
+        "en": "Wind-blown dust gives this river its yellow mud and builds its plain."
+      },
+      "label": {
+        "en": "MUDDY RIVER"
+      },
+      "body": {
+        "en": "The river cuts through soft loess and carries so much silt that it runs yellow. On the plain below, the silt settles and raises the riverbed, so levees must keep rising and in places the river flows above the farmland beside it. When the banks break, the flood spreads over a huge, flat area."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yellow_River"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.cn.threeriv",
+      "countries": [
+        "CN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CN": {
+          "type": "place",
+          "lat": 27.8,
+          "lon": 99.0
+        }
+      },
+      "text": {
+        "en": "Three great rivers run side by side through deep gorges, then part."
+      },
+      "label": {
+        "en": "SQUEEZED RIVERS"
+      },
+      "body": {
+        "en": "Where the plateau's edge is crumpled by colliding plates, three of Asia's great rivers run almost parallel, only tens of kilometres apart, in narrow, deep gorges. Further downstream they part and flow to different seas. The steep ground and sheltered valleys hold an unusually rich mix of plants and animals."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Three_Parallel_Rivers_of_Yunnan_Protected_Areas"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.cn.watertower",
+      "countries": [
+        "CN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CN": {
+          "type": "place",
+          "lat": 33.5,
+          "lon": 91.0
+        }
+      },
+      "text": {
+        "en": "The glaciers of one high plateau feed rivers for a billion people."
+      },
+      "label": {
+        "en": "ICE RESERVOIR"
+      },
+      "body": {
+        "en": "Glaciers and snow on the high plateau melt through summer and feed several of Asia's biggest rivers. People far downstream, in the hot lowlands, rely on that flow for crops and drinking water. As the ice shrinks with warming, flows may rise at first and then fall."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tibetan_Plateau",
+        "https://en.wikipedia.org/wiki/Third_Pole"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.cn.poyang",
+      "countries": [
+        "CN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CN": {
+          "type": "place",
+          "lat": 29.1,
+          "lon": 116.3
+        }
+      },
+      "text": {
+        "en": "This lake swells in the wet season and shrinks to a ribbon in winter."
+      },
+      "label": {
+        "en": "BREATHING LAKE"
+      },
+      "body": {
+        "en": "A big river passes by and its flood backs up into this lake in the monsoon months, when it spreads over thousands of square kilometres. In winter, as the river drops, the lake drains to a narrow channel and leaves wide mudflats. Huge flocks of cranes and geese come to feed there then."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Poyang_Lake"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.cn.tarimriver",
+      "countries": [
+        "CN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CN": {
+          "type": "place",
+          "lat": 41.0,
+          "lon": 84.0
+        }
+      },
+      "text": {
+        "en": "A river runs for a thousand kilometres and never reaches the sea."
+      },
+      "label": {
+        "en": "RIVER THAT VANISHES"
+      },
+      "body": {
+        "en": "Mountain meltwater gathers into a river that crosses a desert basin with no outlet. Water evaporates and soaks away along the way, so the flow thins and its lower stretch is often dry. A narrow ribbon of poplar forest survives along the banks, and it dies back when the river fails to arrive."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tarim_River"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.cn.bambooeater",
+      "countries": [
+        "CN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CN": {
+          "type": "place",
+          "lat": 31.5,
+          "lon": 103.5
+        }
+      },
+      "text": {
+        "en": "A bear that eats almost nothing but bamboo, in misty mountain forest."
+      },
+      "label": {
+        "en": "BAMBOO SPECIALIST"
+      },
+      "body": {
+        "en": "Bamboo is poor food, so this bear must eat for most of the day and rests to save energy. It lives only in cool, damp mountain forests where bamboo thrives. Bamboo occasionally flowers and dies back over a whole area, and roads and farms now cut forests into patches, so animals cannot always move to another stand."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Giant_panda"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.cn.coldgobi",
+      "countries": [
+        "CN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CN": {
+          "type": "place",
+          "lat": 39.8,
+          "lon": 104.0
+        }
+      },
+      "text": {
+        "en": "A desert far from the sea, with scorching summers and bitter winters."
+      },
+      "label": {
+        "en": "COLD DESERT"
+      },
+      "body": {
+        "en": "Mountains to the south and the sheer distance from any ocean leave this desert with little rain. Bare rock and gravel heat and cool quickly, so the temperature swings are large, and winters are bitterly cold. Dust from deserts like this one is carried off by wind and, over time, it has built up the great dust blanket downwind."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gobi_Desert",
+        "https://en.wikipedia.org/wiki/Badain_Jaran_Desert"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.cn.southforest",
+      "countries": [
+        "CN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CN": {
+          "type": "place",
+          "lat": 22.0,
+          "lon": 100.8
+        }
+      },
+      "text": {
+        "en": "Monsoon rains grow tropical forest at the northern edge of the tropics."
+      },
+      "label": {
+        "en": "RAIN FOREST EDGE"
+      },
+      "body": {
+        "en": "At this latitude many places around the world are deserts, but here the summer monsoon delivers enough rain to grow tropical forest, with elephants and many species of orchid. The forest sits at the northern limit of its kind, so it is crowded with plants from both tropical and temperate zones."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Xishuangbanna"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.cn.yak",
+      "countries": [
+        "CN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CN": {
+          "type": "place",
+          "lat": 34.0,
+          "lon": 92.0
+        }
+      },
+      "text": {
+        "en": "A shaggy ox thrives where the air holds far less oxygen than at sea level."
+      },
+      "label": {
+        "en": "THIN-AIR HERDS"
+      },
+      "body": {
+        "en": "Wild and domestic yaks live above 3,000 metres. They have large lungs and hearts, thick coats and little need for the oxygen that people gasp for. Herders depend on them for milk, wool, dung for fuel and transport, in places too high and cold for crops."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yak"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.cn.livingfossil",
+      "countries": [
+        "CN"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CN": {
+          "type": "place",
+          "lat": 30.4,
+          "lon": 108.9
+        }
+      },
+      "text": {
+        "en": "A tree known first from fossils turned up alive in a mountain valley."
+      },
+      "label": {
+        "en": "LIVING FOSSIL"
+      },
+      "body": {
+        "en": "Fossils showed that this deciduous conifer had thrived across the northern hemisphere millions of years ago, and botanists assumed it extinct. Then living trees were found in a sheltered, damp mountain valley in the 1940s. Such pockets escaped the cold of ice ages, and so kept old species alive."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Metasequoia_glyptostroboides"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

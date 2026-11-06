@@ -1,0 +1,432 @@
+{
+  "version": 1,
+  "country": "BR",
+  "notes": [
+    {
+      "id": "outlines.br.shield",
+      "countries": [
+        "BR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "BR": {
+          "type": "place",
+          "lat": -6.1,
+          "lon": -50.2
+        }
+      },
+      "text": {
+        "en": "Rock billions of years old, worn flat, holds some of the richest ore."
+      },
+      "label": {
+        "en": "OLD STABLE CORE"
+      },
+      "body": {
+        "en": "Much of the interior sits on crust that formed long before animals existed and has not been squeezed or stretched since. With no mountain-building to renew them, hills wear down.\n\nThe rock keeps minerals concentrated by ancient seas, such as huge iron ore beds. Quakes are rare here compared with the Pacific side of the continent."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Craton",
+        "https://en.wikipedia.org/wiki/Guiana_Shield"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.br.rift-shoulder",
+      "countries": [
+        "BR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "BR": {
+          "type": "place",
+          "lat": -22.5,
+          "lon": -44.6
+        }
+      },
+      "text": {
+        "en": "A torn-open coast left a steep wall that sends rivers inland."
+      },
+      "label": {
+        "en": "RIFT SHOULDER"
+      },
+      "body": {
+        "en": "When the Atlantic opened, the continent's edge was lifted like the lip of a crack, leaving a steep mountain wall near the shore. Moist sea air rises up it and drops heavy rain.\n\nMany rivers start on the seaward slope but turn inland and run away from the ocean beside them."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_Escarpment,_Brazil",
+        "https://en.wikipedia.org/wiki/Rift_shoulder"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.br.flat-caps",
+      "countries": [
+        "BR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "BR": {
+          "type": "place",
+          "lat": -14.1,
+          "lon": -47.6
+        }
+      },
+      "text": {
+        "en": "Hard sandstone caps survive while the softer land around erodes."
+      },
+      "label": {
+        "en": "FLAT-TOPPED CAPS"
+      },
+      "body": {
+        "en": "Table-top plateaus rise a few hundred metres above the plain, ringed by cliffs. A layer of tough quartz-rich rock shields the top while rain and rivers strip the softer rock around it.\n\nStreams that reach the cliff edge fall as waterfalls, and the sandy tops are too poor for farming."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chapada_dos_Veadeiros_National_Park",
+        "https://en.wikipedia.org/wiki/Mesa"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.br.stranded-domes",
+      "countries": [
+        "BR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "BR": {
+          "type": "place",
+          "lat": -4.95,
+          "lon": -39.0
+        }
+      },
+      "text": {
+        "en": "Bare granite domes stand alone where softer rock has washed away."
+      },
+      "label": {
+        "en": "STRANDED DOMES"
+      },
+      "body": {
+        "en": "Weathering attacks cracked, jointed rock fastest, so the land between wears down while solid granite masses are left standing as bare domes and spires.\n\nSuch inselbergs rise a few hundred metres over the dry scrubland of the interior."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Inselberg",
+        "https://en.wikipedia.org/wiki/Quixad%C3%A1_Monoliths_Natural_Monument"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.br.reversed-river",
+      "countries": [
+        "BR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "BR": {
+          "type": "place",
+          "lat": -1.95,
+          "lon": -55.5
+        }
+      },
+      "text": {
+        "en": "Rising mountains turned a river around, from west-flowing to east."
+      },
+      "label": {
+        "en": "REVERSED RIVER"
+      },
+      "body": {
+        "en": "Once the great river's ancestor ran west toward the Pacific. As the Andes rose, they blocked that route and trapped water in a huge basin, which finally spilled east across the continent some 10 million years ago.\n\nToday it carries roughly a fifth of all the river water entering the oceans."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amazon_River"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.br.flooded-forest",
+      "countries": [
+        "BR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "BR": {
+          "type": "place",
+          "lat": -3.4,
+          "lon": -64.7
+        }
+      },
+      "text": {
+        "en": "Rivers rise 10 m and fish swim among the treetops."
+      },
+      "label": {
+        "en": "FLOODED FOREST"
+      },
+      "body": {
+        "en": "Andean snowmelt and heavy rain make the rivers swell for months and flood the forest far beyond the banks. Fish follow the water into the canopy and eat fruit and seeds the trees drop into it, then carry them away.\n\nWhen the water falls, the mud left behind feeds farms along the banks."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/V%C3%A1rzea",
+        "https://en.wikipedia.org/wiki/Igap%C3%B3"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.br.slow-flood",
+      "countries": [
+        "BR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "BR": {
+          "type": "place",
+          "lat": -17.5,
+          "lon": -56.8
+        }
+      },
+      "text": {
+        "en": "A basin so flat that floods drain for months feeds a vast wetland."
+      },
+      "label": {
+        "en": "SLOW FLOOD PLAIN"
+      },
+      "body": {
+        "en": "Rivers from the surrounding uplands spill onto a plain with almost no slope, so the floodwater cannot run off and spreads over a huge area. It takes months to drain.\n\nJaguars, caimans and fish crowd into what water remains in the dry season."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pantanal"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.br.scrub-lifeline",
+      "countries": [
+        "BR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "BR": {
+          "type": "place",
+          "lat": -9.4,
+          "lon": -40.6
+        }
+      },
+      "text": {
+        "en": "A river from the wet south-east flows north through dry country."
+      },
+      "label": {
+        "en": "LIFELINE THROUGH SCRUB"
+      },
+      "body": {
+        "en": "Born in humid highlands, this river runs north through semi-arid scrubland where most other streams dry up in the dry season. Its water turns desert-edge land into irrigated orchards, and dams along it supply power to the region.\n\nThen it turns east to the sea."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/S%C3%A3o_Francisco_River"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.br.unmixed-rivers",
+      "countries": [
+        "BR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "BR": {
+          "type": "place",
+          "lat": -3.13,
+          "lon": -59.9
+        }
+      },
+      "text": {
+        "en": "Two rivers run side by side for kilometres without blending."
+      },
+      "label": {
+        "en": "UNMIXED RIVERS"
+      },
+      "body": {
+        "en": "One river is dark with tannins leached from forest soils; the other is pale with Andean silt. They differ in temperature, speed and density, so they flow together for many kilometres before they blend.\n\nThe dark, acidic water has fewer mosquitoes and fish than the silty water."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Meeting_of_Waters",
+        "https://en.wikipedia.org/wiki/Blackwater_river"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.br.amazon",
+      "countries": [
+        "BR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "BR": {
+          "type": "place",
+          "lat": -4.0,
+          "lon": -63.0
+        }
+      },
+      "text": {
+        "en": "The rainforest makes much of its own rain, and sends it to farms far south."
+      },
+      "label": {
+        "en": "SELF-MADE RAIN"
+      },
+      "body": {
+        "en": "Trees pump huge amounts of water from the soil into the air, and winds carry the moisture across the basin to fall again as rain. A good share of the forest's rain is its own, and winds also carry moisture south to farms and cities.\n\nClearing the forest breaks the cycle; scientists warn that past a tipping point, large parts could dry into savanna."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amazon_rainforest"
+      ],
+      "review": "checked",
+      "version": 3
+    },
+    {
+      "id": "outlines.br.upside-down-forest",
+      "countries": [
+        "BR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "BR": {
+          "type": "place",
+          "lat": -13.5,
+          "lon": -46.0
+        }
+      },
+      "text": {
+        "en": "Trees here hide most of their body underground, and fire is normal."
+      },
+      "label": {
+        "en": "UPSIDE-DOWN FOREST"
+      },
+      "body": {
+        "en": "On old, acidic, nutrient-poor soil with a long dry season, trees spend their energy on roots several metres deep and thick fire-resistant bark. Lightning fires sweep through every few years, and many plants resprout.\n\nThe grassy plateau also soaks up rain and feeds the headwaters of several of the continent's great rivers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cerrado"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.br.drought-thorns",
+      "countries": [
+        "BR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "BR": {
+          "type": "place",
+          "lat": -9.0,
+          "lon": -38.5
+        }
+      },
+      "text": {
+        "en": "Scrub drops its leaves in the dry months and turns grey, then revives."
+      },
+      "label": {
+        "en": "DROUGHT-PROOF THORNS"
+      },
+      "body": {
+        "en": "Rain here is scarce and uncertain, and it depends on how far south the tropical rain belt reaches each year, which can fail. Long droughts return every few years.\n\nPlants cope by shedding leaves, storing water in swollen trunks and roots, and sprouting within days of a downpour. Drought has long pushed people to move to the coast."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Caatinga",
+        "https://en.wikipedia.org/wiki/Intertropical_Convergence_Zone"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.br.last-coastal-forest",
+      "countries": [
+        "BR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "BR": {
+          "type": "place",
+          "lat": -24.3,
+          "lon": -48.4
+        }
+      },
+      "text": {
+        "en": "Mountain rain sustained a forest that farms and cities mostly erased."
+      },
+      "label": {
+        "en": "LAST COASTAL FOREST"
+      },
+      "body": {
+        "en": "Moist sea air pushed against the coastal mountain wall rains out almost all year, which grew a forest rich in species found nowhere else.\n\nSugar, coffee, cattle and cities have since taken most of the land. Only a small fraction of the original forest remains, mostly on slopes too steep to farm."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Atlantic_Forest"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.br.jigsaw-bulge",
+      "countries": [
+        "BR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "shape",
+      "anchors": {
+        "BR": {
+          "type": "whole"
+        }
+      },
+      "text": {
+        "en": "The eastern bulge fits the notch in another continent's coast."
+      },
+      "label": {
+        "en": "JIGSAW BULGE"
+      },
+      "body": {
+        "en": "About 130 million years ago a crack opened between South America and Africa and widened into the Atlantic. The eastern bulge once sat in the bay on the African side, which is why the two coastlines still look like matching pieces."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Continental_drift",
+        "https://en.wikipedia.org/wiki/South_Atlantic_Ocean"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

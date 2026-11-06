@@ -1,0 +1,247 @@
+{
+  "version": 1,
+  "country": "IE",
+  "notes": [
+    {
+      "id": "outlines.ie.granite-dome",
+      "countries": [
+        "IE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IE": {
+          "type": "place",
+          "lat": 53.0,
+          "lon": -6.5
+        }
+      },
+      "text": {
+        "en": "A granite mass, once molten underground, forms hills with ice-cut glens."
+      },
+      "label": {
+        "en": "GRANITE DOME"
+      },
+      "body": {
+        "en": "Magma cooled slowly deep underground about 400 million years ago to form a huge mass of granite. Erosion later uncovered it as a rounded upland.\n\nIce-age glaciers cut deep glens and left small lakes in them. The acid granite gives poor soil, so heather and bog cover most of the high ground."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wicklow_Mountains",
+        "https://en.wikipedia.org/wiki/Batholith"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.ie.ice-river-ridges",
+      "countries": [
+        "IE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IE": {
+          "type": "place",
+          "lat": 53.4,
+          "lon": -7.9
+        }
+      },
+      "text": {
+        "en": "Winding ridges of gravel mark rivers that once ran under melting ice."
+      },
+      "label": {
+        "en": "ICE-RIVER RIDGES"
+      },
+      "body": {
+        "en": "Meltwater streams once ran through tunnels under the ice sheet and dropped sand and gravel along their beds. When the ice melted, the old stream beds were left standing as long, winding ridges called eskers.\n\nThey stand above the wet bogs around, so people used them as dry roads across the lowland. They are still quarried for gravel."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Esker",
+        "https://en.wikipedia.org/wiki/Esker_Riada"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ie.egg-basket",
+      "countries": [
+        "IE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IE": {
+          "type": "place",
+          "lat": 53.85,
+          "lon": -8.1
+        }
+      },
+      "text": {
+        "en": "Thousands of oval hills mark where ice flowed over soft glacial mud."
+      },
+      "label": {
+        "en": "BASKET OF EGGS"
+      },
+      "body": {
+        "en": "As the ice sheet moved across the land, it moulded the soft clay and gravel beneath it into smooth oval hills, all pointing in the direction the ice flowed.\n\nThe low ground between them stays wet, with small lakes and bogs, and farms occupy the dry tops of the hills."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Drumlin"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ie.slow-river",
+      "countries": [
+        "IE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IE": {
+          "type": "place",
+          "lat": 53.2,
+          "lon": -8.0
+        }
+      },
+      "text": {
+        "en": "Almost no slope slows a big river into lakes and wide floodplains."
+      },
+      "label": {
+        "en": "LAZY RIVER"
+      },
+      "body": {
+        "en": "The central plain is so flat that this river barely falls on its long journey to the sea. It moves slowly, spreading into lakes and broad floodplains that flood in winter.\n\nThe flat, wet meadows are rich in birds, but they are hard to farm and build on. Dams and weirs control the flow in places."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/River_Shannon"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ie.vanishing-lakes",
+      "countries": [
+        "IE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IE": {
+          "type": "place",
+          "lat": 53.5,
+          "lon": -8.4
+        }
+      },
+      "text": {
+        "en": "Lakes fill and drain through the limestone below, appearing only in winter."
+      },
+      "label": {
+        "en": "VANISHING LAKES"
+      },
+      "body": {
+        "en": "The lowland bedrock is limestone with cracks and sinkholes. In wet winters, groundwater rises through them and floods hollows into lakes; in summer it drains back, leaving green meadows.\n\nThe lakes' water levels rise and fall in days, and the plants and animals that live in them have adapted to being flooded and dry in turn."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Turlough"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ie.peat-island",
+      "countries": [
+        "IE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IE": {
+          "type": "place",
+          "lat": 53.3,
+          "lon": -7.7
+        }
+      },
+      "text": {
+        "en": "Cool, damp air and flat clay make a wet land where moss turns to peat."
+      },
+      "label": {
+        "en": "PEAT LANDS"
+      },
+      "body": {
+        "en": "Rain falls often, and cool air makes little of it evaporate. In flat hollows, the water stays and moss grows into thick peat over thousands of years.\n\nFor centuries, people cut peat for fuel, and in the last century large power stations burned it. That released carbon, so many bogs are now being protected."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bog",
+        "https://en.wikipedia.org/wiki/Peat"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ie.all-year-grass",
+      "countries": [
+        "IE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IE": {
+          "type": "place",
+          "lat": 52.4,
+          "lon": -8.2
+        }
+      },
+      "text": {
+        "en": "Mild, damp air from the Atlantic keeps grass growing nearly all year."
+      },
+      "label": {
+        "en": "ALL-YEAR GRASS"
+      },
+      "body": {
+        "en": "Winds blowing across a warm ocean current keep the winters mild, with few hard frosts. The air is damp, and rain falls in every season.\n\nGrass can grow for most of the year, so cattle graze outdoors for months longer than in colder places. Farming here is mostly pasture instead of crops."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Climate_of_Ireland"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ie.saucer-land",
+      "countries": [
+        "IE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "shape",
+      "anchors": {
+        "IE": {
+          "type": "whole"
+        }
+      },
+      "text": {
+        "en": "A low plain in the middle is ringed by hills near the coast."
+      },
+      "label": {
+        "en": "SAUCER LAND"
+      },
+      "body": {
+        "en": "Hills and mountains stand around the edge, while the middle is a low plain. Rain that falls on the rim drains inward, and the centre has gentle rivers, lakes and bogs.\n\nBecause the rim blocks drainage to the sea, much of the plain is wet and poorly drained."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Ireland"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

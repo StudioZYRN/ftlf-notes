@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "IQ",
+  "notes": [
+    {
+      "id": "outlines.iq.alluvial-trough",
+      "countries": [
+        "IQ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IQ": {
+          "type": "place",
+          "lat": 32.5,
+          "lon": 45.0
+        }
+      },
+      "text": {
+        "en": "Thick layers of fertile river silt fill a broad subsiding tectonic basin."
+      },
+      "label": {
+        "en": "CRADLE PLAINS"
+      },
+      "body": {
+        "en": "Trapped between the Arabian platform and the folding Zagros Mountains, a deep tectonic trough filled with sediment carried down from northern highlands. These flat, nutrient-rich alluvial soils supported humanity's earliest irrigated agriculture."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mesopotamia"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.iq.folded-foothills",
+      "countries": [
+        "IQ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IQ": {
+          "type": "place",
+          "lat": 36.5,
+          "lon": 44.5
+        }
+      },
+      "text": {
+        "en": "Colliding continental plates buckled the northeastern border into ridges."
+      },
+      "label": {
+        "en": "FOLDED RIDGES"
+      },
+      "body": {
+        "en": "Where the Arabian plate pushes under Eurasia, sedimentary layers crumpled into long, parallel limestone anticlines and deep gorges. These rugged northern highlands intercept winter snows, storing water that replenishes downstream river flows."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zagros_Mountains"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.iq.western-plateau",
+      "countries": [
+        "IQ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IQ": {
+          "type": "place",
+          "lat": 33.0,
+          "lon": 41.5
+        }
+      },
+      "text": {
+        "en": "An arid limestone and flint tableland slopes gently toward the river plains."
+      },
+      "label": {
+        "en": "GRAVEL DESERT"
+      },
+      "body": {
+        "en": "West of the river valleys, the terrain rises into an undulating desert plateau of exposed limestone, chert, and gravel outwash. Dry wadis carved during wetter prehistoric epochs dissect the plateau, carrying rare flash floods eastward."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Syrian_Desert"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.iq.gypsum-sinkholes",
+      "countries": [
+        "IQ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IQ": {
+          "type": "place",
+          "lat": 34.5,
+          "lon": 43.5
+        }
+      },
+      "text": {
+        "en": "Deep underground salt deposits dissolve to collapse desert rock into basins."
+      },
+      "label": {
+        "en": "GYPSUM SINKHOLES"
+      },
+      "body": {
+        "en": "Evaporite rock layers deposited during ancient ocean regressions lie buried beneath the northern desert. Underground groundwater slowly dissolves these thick gypsum and rock salt beds, triggering sudden collapses that form steep-sided desert sinkholes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Iraq"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.iq.twin-rivers",
+      "countries": [
+        "IQ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IQ": {
+          "type": "place",
+          "lat": 33.5,
+          "lon": 44.2
+        }
+      },
+      "text": {
+        "en": "Two great highland rivers flow through dry plains to create an oasis corridor."
+      },
+      "label": {
+        "en": "TWIN RIVERS"
+      },
+      "body": {
+        "en": "Fed by melting snow in distant northern mountains, the Tigris and Euphrates cut parallel channels across thousands of kilometres of arid lowlands. Their braided channels provide the primary source of fresh drinking and irrigation water for the land."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tigris%E2%80%93Euphrates_river_system"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.iq.reedy-marshes",
+      "countries": [
+        "IQ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IQ": {
+          "type": "place",
+          "lat": 31.0,
+          "lon": 47.0
+        }
+      },
+      "text": {
+        "en": "The largest wetland ecosystem in western Asia spans low delta depressions."
+      },
+      "label": {
+        "en": "REED WETLANDS"
+      },
+      "body": {
+        "en": "Where the twin rivers approach the sea, an extremely flat gradient causes seasonal floodwaters to spill into sprawling shallow lakes and reed swamps. Dense forests of giant papyrus and reeds support buffalo herding and migratory waterbirds."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mesopotamian_Marshes"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.iq.river-confluence",
+      "countries": [
+        "IQ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IQ": {
+          "type": "place",
+          "lat": 30.5,
+          "lon": 47.8
+        }
+      },
+      "text": {
+        "en": "The twin rivers finally unite into a single broad waterway before the gulf."
+      },
+      "label": {
+        "en": "SHARED DELTA"
+      },
+      "body": {
+        "en": "After traveling parallel across hundreds of kilometres of desert, the two master streams converge to form a wide, tidal river corridor. Extensive date palm plantations flank the banks, watered by natural tidal variations pushing freshwater into canals."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shatt_al-Arab"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.iq.snowmelt-surge",
+      "countries": [
+        "IQ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IQ": {
+          "type": "place",
+          "lat": 34.0,
+          "lon": 43.2
+        }
+      },
+      "text": {
+        "en": "Sudden spring snowmelt roars down mountain canyons into lowland reservoirs."
+      },
+      "label": {
+        "en": "SPRING SURGE"
+      },
+      "body": {
+        "en": "Rapid warming in the northern mountains can melt heavy winter snowpacks in a matter of days. To protect low-lying downstream plains from catastrophic inundation, massive artificial regulators divert floodwaters into sprawling desert depressions."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Tharthar"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.iq.date-groves",
+      "countries": [
+        "IQ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IQ": {
+          "type": "place",
+          "lat": 30.8,
+          "lon": 47.6
+        }
+      },
+      "text": {
+        "en": "Millions of date palms thrive along riverbanks watered by tidal fluctuations."
+      },
+      "label": {
+        "en": "PALM CORRIDOR"
+      },
+      "body": {
+        "en": "Flourishing where their roots touch moisture and their crowns endure scorching desert heat, date palms form dense continuous groves along southern waterways. Their dense canopy creates a cool shaded microclimate for citrus and vegetable farming."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Date_palm"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.iq.marsh-warblers",
+      "countries": [
+        "IQ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IQ": {
+          "type": "place",
+          "lat": 31.3,
+          "lon": 47.1
+        }
+      },
+      "text": {
+        "en": "Endemic songbirds nest in dense stands of giant reeds across southern swamps."
+      },
+      "label": {
+        "en": "REED NESTERS"
+      },
+      "body": {
+        "en": "Confined almost entirely to sprawling southern freshwater marshes, these slender olive-brown birds build deep basket nests in four-metre-tall reeds. They forage on aquatic insects and snails, timing their breeding with peak water levels."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Basra_reed_warbler"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.iq.softshell-turtles",
+      "countries": [
+        "IQ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IQ": {
+          "type": "place",
+          "lat": 32.0,
+          "lon": 45.5
+        }
+      },
+      "text": {
+        "en": "Leathery-shelled freshwater turtles bask on sandy riverbanks and shallows."
+      },
+      "label": {
+        "en": "RIVER TURTLES"
+      },
+      "body": {
+        "en": "With a flattened, olive-green leathery shell rather than hard scutes, this rare freshwater reptile is perfectly streamlined for burrowing in river silt. Using a snorkel-like snout to breathe underwater, it ambushes fish in sluggish backwaters."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Euphrates_softshell_turtle"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.iq.desert-reptiles",
+      "countries": [
+        "IQ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IQ": {
+          "type": "place",
+          "lat": 32.5,
+          "lon": 43.5
+        }
+      },
+      "text": {
+        "en": "Heavy herbivorous lizards burrow deep into hard clay to escape summer heat."
+      },
+      "label": {
+        "en": "SPINY LIZARDS"
+      },
+      "body": {
+        "en": "Inhabiting dry gravel plains and wadi banks, these heavy-bodied lizards dig subterranean burrows several metres long to escape temperatures exceeding fifty degrees Celsius. Their spiky muscular tails are swung defensively against predators at burrow entrances."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Uromastyx"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

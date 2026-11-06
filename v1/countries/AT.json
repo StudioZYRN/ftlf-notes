@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "AT",
+  "notes": [
+    {
+      "id": "outlines.at.alpine-peaks",
+      "countries": [
+        "AT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AT": {
+          "type": "place",
+          "lat": 47.1,
+          "lon": 12.7
+        }
+      },
+      "text": {
+        "en": "Colliding continents lifted folded limestone into glaciated horns."
+      },
+      "label": {
+        "en": "CRUMPLED LIMESTONE"
+      },
+      "body": {
+        "en": "Africa's slow push into Europe folded ancient ocean sediments into towering limestone crests. Ice Age glaciers then carved sharp horns and deep U-shaped troughs that now cradle mountain pastures."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alps"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.at.ice-caves",
+      "countries": [
+        "AT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AT": {
+          "type": "place",
+          "lat": 47.5,
+          "lon": 13.2
+        }
+      },
+      "text": {
+        "en": "Chimney winds freeze meltwater into towering subterranean ice halls."
+      },
+      "label": {
+        "en": "FROZEN CAVERNS"
+      },
+      "body": {
+        "en": "Limestone plateaus are riddled with deep karst fissures. In winter, cold dense air sinks into deep caverns, chilling the bedrock so deeply that spring meltwater freezes upon entering, building towering ice walls."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eisriesenwelt"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.at.northern-massifs",
+      "countries": [
+        "AT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AT": {
+          "type": "place",
+          "lat": 47.6,
+          "lon": 14.5
+        }
+      },
+      "text": {
+        "en": "Vertical rock faces shield lush alpine valleys from northern gales."
+      },
+      "label": {
+        "en": "SHEER WALLS"
+      },
+      "body": {
+        "en": "Layers of brittle reef limestone were shoved northward along thrust faults, forming sheer precipices rising above pine forests. Weathering along vertical fracture planes leaves dramatic towers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Northern_Limestone_Alps"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.at.granite-highlands",
+      "countries": [
+        "AT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AT": {
+          "type": "place",
+          "lat": 48.5,
+          "lon": 14.3
+        }
+      },
+      "text": {
+        "en": "Rolling rounded hills preserve the weathered roots of ancient mountains."
+      },
+      "label": {
+        "en": "ANCIENT GRANITE"
+      },
+      "body": {
+        "en": "North of the main river valley sits an ancient geological basement of hard granite and gneiss. Millions of years of gentle erosion have smoothed once-jagged peaks into rolling forested hills and boulder-strewn streams."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bohemian_Massif"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.at.river-artery",
+      "countries": [
+        "AT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AT": {
+          "type": "place",
+          "lat": 48.2,
+          "lon": 15.3
+        }
+      },
+      "text": {
+        "en": "A mighty river carved an east-west path through the mountain foothills."
+      },
+      "label": {
+        "en": "RIVER CORRIDOR"
+      },
+      "body": {
+        "en": "Fed by melting snowfields in the Alps, this great trans-continental river flows eastward between folded peaks and the northern granite plateau. Its broad terraces provide the main transport spine and richest farm soils."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Danube"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.at.glacial-lakes",
+      "countries": [
+        "AT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AT": {
+          "type": "place",
+          "lat": 47.8,
+          "lon": 13.5
+        }
+      },
+      "text": {
+        "en": "Ice Age moraines impounded crystal lakes in steep mountain basins."
+      },
+      "label": {
+        "en": "GLACIAL LAKES"
+      },
+      "body": {
+        "en": "Retreating valley glaciers scooped deep depressions in limestone bedrock and dumped terminal dams of gravel. As the ice melted, cold clear runoff filled these troughs, forming ribbon-like mountain lakes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Salzkammergut"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.at.steppe-lake",
+      "countries": [
+        "AT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AT": {
+          "type": "place",
+          "lat": 47.8,
+          "lon": 16.8
+        }
+      },
+      "text": {
+        "en": "A vast, shallow reed-fringed basin fluctuates with wind and drought."
+      },
+      "label": {
+        "en": "SHALLOW STEPPE"
+      },
+      "body": {
+        "en": "At the eastern edge where mountains yield to low plains, a wide tectonic depression sits barely a metre deep. Reed belts several kilometres wide surround the muddy lake, filtering nutrients and sheltering migrating waterfowl."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Neusiedl"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.at.tiered-falls",
+      "countries": [
+        "AT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AT": {
+          "type": "place",
+          "lat": 47.2,
+          "lon": 12.2
+        }
+      },
+      "text": {
+        "en": "Hanging glacial troughs launch thundering waterfalls down sheer cliffs."
+      },
+      "label": {
+        "en": "HANGING VALLEYS"
+      },
+      "body": {
+        "en": "Main valley glaciers carved much deeper beds than smaller tributary glaciers. When the ice melted, tributary streams were left stranded high up valley walls, tumbling hundreds of metres in tiered leaps over hard rock steps."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Krimml_Waterfalls"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.at.alpine-forests",
+      "countries": [
+        "AT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AT": {
+          "type": "place",
+          "lat": 47.3,
+          "lon": 13.8
+        }
+      },
+      "text": {
+        "en": "Dense mountain woodlands protect steep valleys from lethal avalanches."
+      },
+      "label": {
+        "en": "FORESTED SLOPES"
+      },
+      "body": {
+        "en": "Spruce, larch and beech mantle the middle mountain slopes. Their interlocking root systems anchor loose scree while tree trunks physically intercept sliding snow, shielding villages below from avalanches and rockfalls."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Protection_forest"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.at.alpine-meadows",
+      "countries": [
+        "AT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AT": {
+          "type": "place",
+          "lat": 47.1,
+          "lon": 11.5
+        }
+      },
+      "text": {
+        "en": "Centuries of summer cattle grazing carved open meadows above the treeline."
+      },
+      "label": {
+        "en": "HIGH PASTURES"
+      },
+      "body": {
+        "en": "Above the subalpine forest, traditional seasonal pasturing prevented shrubs from reclaiming high clearings. The resulting herb-rich grassland hosts specialized wildflowers adapted to harsh winds and intense ultraviolet light."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alpine_pasture"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.at.crag-dwellers",
+      "countries": [
+        "AT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AT": {
+          "type": "place",
+          "lat": 47.1,
+          "lon": 12.5
+        }
+      },
+      "text": {
+        "en": "Rubber-like hooves allow mountain ungulates to scale sheer rock faces."
+      },
+      "label": {
+        "en": "CLIFF CLIMBERS"
+      },
+      "body": {
+        "en": "Surviving among crags above the snow line, wild goats and chamois use flexible hooves with soft grippy pads to leap across precipitous ledges, staying safely out of reach of predators in the valleys."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alpine_ibex"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.at.pannonian-steppe",
+      "countries": [
+        "AT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AT": {
+          "type": "place",
+          "lat": 48.0,
+          "lon": 16.9
+        }
+      },
+      "text": {
+        "en": "Dry continental winds create pockets of salt steppe in eastern plains."
+      },
+      "label": {
+        "en": "WARM STEPPE"
+      },
+      "body": {
+        "en": "Sheltered from Atlantic rain by the mountain spine, eastern lowlands experience hot, dry summers. Saline soils and intense evaporation support unique salt-tolerant grasses and burrowing ground squirrels."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pannonian_steppe"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

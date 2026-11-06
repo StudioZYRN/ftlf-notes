@@ -1,0 +1,433 @@
+{
+  "version": 1,
+  "country": "ZA",
+  "notes": [
+    {
+      "id": "outlines.za.escarpment",
+      "countries": [
+        "ZA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ZA": {
+          "type": "place",
+          "lat": -25.0,
+          "lon": 30.8
+        }
+      },
+      "text": {
+        "en": "The interior is a high plateau that ends in a steep step down to the coast."
+      },
+      "label": {
+        "en": "PLATEAU EDGE"
+      },
+      "body": {
+        "en": "When the ancient supercontinent split, the edge of this land was lifted and the coast side eroded back, leaving a great escarpment between a high interior plateau and a low coastal belt. Rivers plunge off it in waterfalls and cut deep canyons, and the step blocks moist ocean air from crossing the interior."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_Escarpment,_Southern_Africa"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.za.gold-bed",
+      "countries": [
+        "ZA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ZA": {
+          "type": "place",
+          "lat": -26.2,
+          "lon": 28.0
+        }
+      },
+      "text": {
+        "en": "Gold sits in layers of gravel laid down by rivers nearly 3 billion years ago."
+      },
+      "label": {
+        "en": "ANCIENT GOLD BED"
+      },
+      "body": {
+        "en": "A shallow basin about 2.9 billion years ago collected gravel and sand from rivers draining hills with gold in them. Buried and tilted, the layers form a curved band that has been mined for well over a century. Most geologists think the gold was washed in by ancient rivers, though the exact story is still debated."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Witwatersrand_Basin",
+        "https://en.wikipedia.org/wiki/Placer_deposit"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.za.impact",
+      "countries": [
+        "ZA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ZA": {
+          "type": "place",
+          "lat": -27.0,
+          "lon": 27.5
+        }
+      },
+      "text": {
+        "en": "A giant ring of folded hills marks the largest impact structure known on Earth."
+      },
+      "label": {
+        "en": "BIGGEST IMPACT"
+      },
+      "body": {
+        "en": "About two billion years ago, an asteroid several kilometres across hit here. The blast lifted the rock at the centre into a dome, and the ring of hills around it is the worn-down edge of a structure now over 150 kilometres wide. Erosion has erased the crater itself, leaving only the circular pattern of rock layers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vredefort_impact_structure"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.za.folds",
+      "countries": [
+        "ZA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ZA": {
+          "type": "place",
+          "lat": -33.35,
+          "lon": 22.0
+        }
+      },
+      "text": {
+        "en": "Layers of sandstone were crumpled into long ridges along the south coast."
+      },
+      "label": {
+        "en": "FOLDED RIDGES"
+      },
+      "body": {
+        "en": "Around 250 million years ago, pressure from the edge of the ancient supercontinent buckled thick layers of sandstone into folds. Erosion has left the hard sandstone standing as parallel ridges and the soft rock as valleys between, so the south has long ranges running along the coast. They block rain from the interior and shelter fertile valleys."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cape_Fold_Belt"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.za.diamond-pipes",
+      "countries": [
+        "ZA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "ZA": {
+          "type": "place",
+          "lat": -28.7,
+          "lon": 24.8
+        }
+      },
+      "text": {
+        "en": "Gems rode up from deep in the Earth in explosive volcanic pipes."
+      },
+      "label": {
+        "en": "DIAMOND PIPES"
+      },
+      "body": {
+        "en": "Diamonds form about 150 kilometres down, under great pressure. In rare eruptions, gas-rich magma blasted up through the crust in carrot-shaped pipes called kimberlite, bringing diamonds with it. Erosion later exposed the pipes at the surface, and rivers carried the gems into gravel beds, which people then dug."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kimberlite",
+        "https://en.wikipedia.org/wiki/Diamond"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.za.green-ribbon",
+      "countries": [
+        "ZA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ZA": {
+          "type": "place",
+          "lat": -28.6,
+          "lon": 21.1
+        }
+      },
+      "text": {
+        "en": "A river from wetter highlands crosses a desert and keeps a strip alive."
+      },
+      "label": {
+        "en": "GREEN RIBBON"
+      },
+      "body": {
+        "en": "The river begins in rainy highlands in the east, then flows west for over 2,000 kilometres across arid land that gives it almost no water. A narrow strip of irrigated vineyards and orchards runs along its banks through an otherwise dry plain, and the river reaches the Atlantic through one of the driest coasts on the continent."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Orange_River"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.za.wet-east-dry-west",
+      "countries": [
+        "ZA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ZA": {
+          "type": "place",
+          "lat": -29.0,
+          "lon": 25.0
+        }
+      },
+      "text": {
+        "en": "Two ocean currents make one coast lush and the other a desert."
+      },
+      "label": {
+        "en": "TWO COASTS"
+      },
+      "body": {
+        "en": "A warm current runs down the east coast, heating the air and loading it with moisture, so rain falls on the eastern side. On the west, a cold current chills the air, so little water vapour rises and rain is scarce. As a result, the east has plentiful rain and grassland, while the west is dry and deserty."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Agulhas_Current",
+        "https://en.wikipedia.org/wiki/Benguela_Current"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.za.salt-pans",
+      "countries": [
+        "ZA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ZA": {
+          "type": "place",
+          "lat": -30.0,
+          "lon": 22.0
+        }
+      },
+      "text": {
+        "en": "Shallow hollows flood after rare storms, then dry out into white salt."
+      },
+      "label": {
+        "en": "SALT PANS"
+      },
+      "body": {
+        "en": "In the dry interior, rivers do not reach the sea; some drain into shallow hollows instead. After storms the pans fill, then the hot sun evaporates the water in days or weeks and leaves a crust of salt. Birds and brine shrimp come when the water returns, and the salt flats stay bare for years in between."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Endorheic_basin",
+        "https://en.wikipedia.org/wiki/Salt_pan_(geology)"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.za.thirsty-plateau",
+      "countries": [
+        "ZA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "ZA": {
+          "type": "place",
+          "lat": -26.5,
+          "lon": 28.1
+        }
+      },
+      "text": {
+        "en": "The biggest urban region sits on a high watershed with little water."
+      },
+      "label": {
+        "en": "THIRSTY PLATEAU"
+      },
+      "body": {
+        "en": "The densest region sits on a ridge near the source of rivers, where there is not much water. Rain is seasonal and the ground is dry. To supply it, tunnels and canals carry water over mountains from highlands far away, which makes a reliable water supply a constant concern for the region."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lesotho_Highlands_Water_Project"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.za.karoo",
+      "countries": [
+        "ZA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ZA": {
+          "type": "place",
+          "lat": -31.5,
+          "lon": 22.5
+        }
+      },
+      "text": {
+        "en": "Low rainfall and rocky soil make a vast land of hardy shrubs and sheep."
+      },
+      "label": {
+        "en": "DRY SCRUB"
+      },
+      "body": {
+        "en": "Mountains near the south coast block moist ocean air, so the interior gets little rain. Tough low shrubs cover the plateau, and sheep and goats graze over large areas. After rare rain, desert flowers bloom for a short time, and the layered rock beneath holds many fossils of ancient reptiles."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Karoo"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.za.fynbos",
+      "countries": [
+        "ZA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ZA": {
+          "type": "place",
+          "lat": -32.5,
+          "lon": 19.2
+        }
+      },
+      "text": {
+        "en": "Poor sand and winter rain grew a fire-driven garden of unique plants."
+      },
+      "label": {
+        "en": "FIRE-BORN FLOWERS"
+      },
+      "body": {
+        "en": "On nutrient-poor sandy soil with winter rain and dry summers, thousands of small-leaved plants evolved, most of them found nowhere else. Fire sweeps through every 10 to 20 years, and many species, including proteas, hold their seeds until a fire opens the cones. This tiny region is counted as its own plant kingdom."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fynbos",
+        "https://en.wikipedia.org/wiki/Cape_Floristic_Region"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.za.succulents",
+      "countries": [
+        "ZA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ZA": {
+          "type": "place",
+          "lat": -30.0,
+          "lon": 18.0
+        }
+      },
+      "text": {
+        "en": "Plants store water in fat leaves and drink the fog in a desert."
+      },
+      "label": {
+        "en": "FOG-FED SUCCULENTS"
+      },
+      "body": {
+        "en": "Along the cold western coast, little rain falls but sea fog rolls inland. Succulents with thick, water-storing leaves catch the moisture, and after winter rain the ground carpets in flowers. This is one of the few deserts rated as a biodiversity hotspot, holding thousands of species, with a large share found nowhere else."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Succulent_Karoo"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.za.elephants",
+      "countries": [
+        "ZA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ZA": {
+          "type": "place",
+          "lat": -24.2,
+          "lon": 31.6
+        }
+      },
+      "text": {
+        "en": "Elephants shape the woodland by knocking trees down."
+      },
+      "label": {
+        "en": "TREE PUSHERS"
+      },
+      "body": {
+        "en": "Elephants eat bark, roots and branches and push over big trees to reach leaves. That opens dense bush into more open woodland and grassland, which suits grazers like zebra and wildebeest. In small reserves, too many elephants can turn woodland to grass, so managers must control numbers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/African_bush_elephant",
+        "https://en.wikipedia.org/wiki/Keystone_species"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.za.highveld-grass",
+      "countries": [
+        "ZA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "ZA": {
+          "type": "place",
+          "lat": -28.5,
+          "lon": 27.0
+        }
+      },
+      "text": {
+        "en": "Frost, fire and grazing hold back trees on the high plateau."
+      },
+      "label": {
+        "en": "TREELESS GRASS"
+      },
+      "body": {
+        "en": "The plateau has cold, frosty winters, summer thunderstorms with lightning fires, and large herds of grazers. Together these favour grasses, which regrow from the base, over trees. Much of the natural grassland has since been ploughed for maize or built over, so intact patches have become rare."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Grassland",
+        "https://en.wikipedia.org/wiki/Highveld"
+      ],
+      "review": "checked",
+      "version": 2
+    }
+  ]
+}

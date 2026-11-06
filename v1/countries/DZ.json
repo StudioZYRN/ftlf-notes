@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "DZ",
+  "notes": [
+    {
+      "id": "outlines.dz.coastal-atlas",
+      "countries": [
+        "DZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "DZ": {
+          "type": "place",
+          "lat": 36.4,
+          "lon": 3.2
+        }
+      },
+      "text": {
+        "en": "Folded coastal mountain ridges intercept rain and border fertile valleys."
+      },
+      "label": {
+        "en": "MEDITERRANEAN CREST"
+      },
+      "body": {
+        "en": "Where the African plate presses into Eurasia, coastal folded limestone and sandstone ridges parallel the seashore. These northern slopes intercept moisture from the Mediterranean Sea, nourishing rich agricultural valleys and olive groves."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tell_Atlas"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.dz.volcanic-massif",
+      "countries": [
+        "DZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "DZ": {
+          "type": "place",
+          "lat": 23.3,
+          "lon": 5.5
+        }
+      },
+      "text": {
+        "en": "Ancient volcanic lava domes tower over three thousand metres above the desert."
+      },
+      "label": {
+        "en": "BASALT PINNACLES"
+      },
+      "body": {
+        "en": "A deep mantle plume swelled the Precambrian continental crust, cracking the rock and venting floods of basaltic lava. Wind and water stripped away softer rock, leaving steep dark volcanic plugs and needles rising above high barren plateaus."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hoggar_Mountains"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.dz.grand-ergs",
+      "countries": [
+        "DZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "DZ": {
+          "type": "place",
+          "lat": 30.5,
+          "lon": 6.0
+        }
+      },
+      "text": {
+        "en": "Desert winds build vast sand seas with dunes hundreds of metres high."
+      },
+      "label": {
+        "en": "GIANT DUNES"
+      },
+      "body": {
+        "en": "Over millions of years, dried lake beds and river washes provided endless quartz sand. Prevailing trade winds gather and sweep this sand into immense undulating fields of star and crescent dunes that stretch uninterrupted across whole horizons."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Grand_Erg_Oriental"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.dz.eroded-sandstone",
+      "countries": [
+        "DZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "DZ": {
+          "type": "place",
+          "lat": 25.8,
+          "lon": 8.5
+        }
+      },
+      "text": {
+        "en": "Ancient sandstone plateaus eroded into dramatic rock arches and canyons."
+      },
+      "label": {
+        "en": "STONE FORESTS"
+      },
+      "body": {
+        "en": "Paleozoic sandstones deposited in ancient rivers were uplifted and fractured. During wetter prehistoric epochs, torrential rivers carved deep gorges; later, blowing sand polished the remaining rock pillars into bizarre stone towers and natural arches."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tassili_n%27Ajjer"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.dz.salt-chotts",
+      "countries": [
+        "DZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "DZ": {
+          "type": "place",
+          "lat": 34.3,
+          "lon": 6.3
+        }
+      },
+      "text": {
+        "en": "Large inland depressions evaporate winter runoff into blinding salt pans."
+      },
+      "label": {
+        "en": "SALT SINKS"
+      },
+      "body": {
+        "en": "Between northern and southern mountain folds, closed tectonic basins sit without an exit to the sea. Rare winter rains collect in shallow sheets of water, which quickly evaporate beneath intense sun to leave shimmering crusts of salt and gypsum."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chott_Melrhir"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.dz.canyon-gueltas",
+      "countries": [
+        "DZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "DZ": {
+          "type": "place",
+          "lat": 24.4,
+          "lon": 5.3
+        }
+      },
+      "text": {
+        "en": "Deep, shaded bedrock pools preserve water through years of blistering drought."
+      },
+      "label": {
+        "en": "CANYON POOLS"
+      },
+      "body": {
+        "en": "Tucked inside sheer volcanic and sandstone gorges where direct sun never penetrates, natural rock hollows catch occasional flash-flood water. These isolated basins sustain relict aquatic species and serve as lifelines for camel caravans."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Guelta"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.dz.fossil-water",
+      "countries": [
+        "DZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "DZ": {
+          "type": "place",
+          "lat": 32.0,
+          "lon": 5.0
+        }
+      },
+      "text": {
+        "en": "Ancient subterranean sandstone layers store vast reserves of Ice Age water."
+      },
+      "label": {
+        "en": "FOSSIL AQUIFERS"
+      },
+      "body": {
+        "en": "Tens of thousands of years ago when the Sahara was a lush grassland, torrential rains seeped deep into porous continental sandstones. Trapped hundreds of metres beneath the sand, this non-renewable water is now tapped by deep artesian wells."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/North-Western_Sahara_Aquifer_System"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.dz.atlas-wadis",
+      "countries": [
+        "DZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "DZ": {
+          "type": "place",
+          "lat": 35.8,
+          "lon": 1.5
+        }
+      },
+      "text": {
+        "en": "Steep mountain gullies stay dry in summer then roar with violent flash floods."
+      },
+      "label": {
+        "en": "WINTER TORRENTS"
+      },
+      "body": {
+        "en": "Because clay soils and bare limestone ridges lack vegetation to absorb sudden winter rainstorms, water sheets immediately into dry river valleys. Rushing down steep gradients, these floods deposit fresh silt onto alluvial plains."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chelif_River"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.dz.relict-flora",
+      "countries": [
+        "DZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "DZ": {
+          "type": "place",
+          "lat": 23.3,
+          "lon": 5.8
+        }
+      },
+      "text": {
+        "en": "Isolated mountain summits shelter cooler Mediterranean plants from the desert."
+      },
+      "label": {
+        "en": "HIGHLAND RELICTS"
+      },
+      "body": {
+        "en": "High above the burning desert floor, elevated volcanic plateaus experience cooler temperatures and condensation from clouds. These mountain refuges preserve ancient wild olive and myrtle populations that survived from wetter prehistoric climates."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Olea_europaea_subsp._laperrinei"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.dz.cedar-macaques",
+      "countries": [
+        "DZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "DZ": {
+          "type": "place",
+          "lat": 36.4,
+          "lon": 4.0
+        }
+      },
+      "text": {
+        "en": "Tailless primates brave winter snows in high Atlas cedar woodlands."
+      },
+      "label": {
+        "en": "MOUNTAIN APES"
+      },
+      "body": {
+        "en": "In high mountain forests dominated by ancient Atlas cedars and evergreen oaks, cold winter snowpacks are common. Thick fur coats allow these endangered tailless monkeys to forage on acorns and cedar bark through sub-zero mountain winters."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Barbary_macaque"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.dz.fennec-foxes",
+      "countries": [
+        "DZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "DZ": {
+          "type": "place",
+          "lat": 31.0,
+          "lon": 3.5
+        }
+      },
+      "text": {
+        "en": "Enormous ears radiate heat and detect insects burrowing under sand dunes."
+      },
+      "label": {
+        "en": "NIGHT FORAGERS"
+      },
+      "body": {
+        "en": "Weighing barely a kilogram, these nocturnal desert canids sport oversized ears packed with blood vessels that dissipate body heat into cool night breezes. Thick fur padding on the soles of their paws protects them from scorching daytime sand."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fennec_fox"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.dz.cork-forests",
+      "countries": [
+        "DZ"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "DZ": {
+          "type": "place",
+          "lat": 36.8,
+          "lon": 7.2
+        }
+      },
+      "text": {
+        "en": "Thick spongy bark protects coastal oak forests from frequent summer brushfires."
+      },
+      "label": {
+        "en": "CORK CANOPY"
+      },
+      "body": {
+        "en": "Along humid coastal slopes facing the Mediterranean, dense stands of cork oak thrive on acidic soils. The trees produce a thick, insulating outer bark that shields their living tissues from wildfires, allowing them to resprout quickly."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Quercus_suber"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "version": 1,
+  "country": "DE",
+  "notes": [
+    {
+      "id": "outlines.de.rift-ridge",
+      "countries": [
+        "DE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "DE": {
+          "type": "place",
+          "lat": 48.3,
+          "lon": 8.2
+        }
+      },
+      "text": {
+        "en": "A dark forested range tilts up from a sunken valley, a twin to one across it."
+      },
+      "label": {
+        "en": "TILTED RIDGE"
+      },
+      "body": {
+        "en": "The same stretching that dropped the valley floor raised its sides. This range is a mirror of the one on the other side of the plain, steep toward the valley and sloping gently away.\n\nGranite and sandstone make poor, acid soil, so spruce and fir cover the range. Deep side valleys give many small streams a ready source of power."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Black_Forest",
+        "https://en.wikipedia.org/wiki/Upper_Rhine_Graben"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.de.island-mountain",
+      "countries": [
+        "DE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "DE": {
+          "type": "place",
+          "lat": 51.8,
+          "lon": 10.62
+        }
+      },
+      "text": {
+        "en": "A block of old rock pushed up from lowland stops moist air and holds fog."
+      },
+      "label": {
+        "en": "ISLAND MOUNTAIN"
+      },
+      "body": {
+        "en": "Faults lifted a chunk of ancient rock out of the northern lowlands, and it stands alone with no foothills. Moist westerly winds hit it first and are forced up, so it is cloudy, foggy and wet on most days.\n\nSnow lingers into spring, and dense spruce and peat bogs cover the plateau. Air at the top is cold enough for plants usually found much farther north."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Harz",
+        "https://en.wikipedia.org/wiki/Brocken"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.de.crater-lakes",
+      "countries": [
+        "DE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "DE": {
+          "type": "place",
+          "lat": 50.17,
+          "lon": 6.85
+        }
+      },
+      "text": {
+        "en": "Water-filled round holes are scars of explosions where magma hit groundwater."
+      },
+      "label": {
+        "en": "STEAM CRATERS"
+      },
+      "body": {
+        "en": "When rising magma met groundwater, the water flashed to steam and blasted out round craters called maars. Some filled with water and stayed as small, deep lakes.\n\nThe volcanic field is young in geological terms, and carbon dioxide still bubbles from the ground. Mineral springs rise in the same area."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eifel",
+        "https://en.wikipedia.org/wiki/Maar"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.de.river-gorge",
+      "countries": [
+        "DE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "DE": {
+          "type": "place",
+          "lat": 50.15,
+          "lon": 7.7
+        }
+      },
+      "text": {
+        "en": "A river kept its course while a slate plateau rose and sawed a gorge."
+      },
+      "label": {
+        "en": "RIVER VS PLATEAU"
+      },
+      "body": {
+        "en": "The river was already flowing here when the land slowly began to rise. It cut down as fast as the plateau rose and left a narrow gorge about 60 km long.\n\nThe steep slopes face the sun and store heat, so terraced vineyards cover them. The narrow valley also made a natural trade route lined with castles."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rhine_Gorge",
+        "https://en.wikipedia.org/wiki/Antecedent_river"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.de.lake-district",
+      "countries": [
+        "DE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "DE": {
+          "type": "place",
+          "lat": 53.45,
+          "lon": 12.7
+        }
+      },
+      "text": {
+        "en": "Thousands of lakes mark where blocks of buried ice melted."
+      },
+      "label": {
+        "en": "BURIED ICE LAKES"
+      },
+      "body": {
+        "en": "An ice sheet buried this plain in rubble. As the climate warmed, big blocks of ice buried under the debris melted slowly, and the ground above them sank into hollows that filled with water.\n\nThe result is a flat country dotted with thousands of lakes, big and small, joined by streams. Sandy soils make forest more common than farmland."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mecklenburg_Lake_District",
+        "https://en.wikipedia.org/wiki/Müritz"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.de.ice-tongue",
+      "countries": [
+        "DE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "DE": {
+          "type": "place",
+          "lat": 47.9,
+          "lon": 11.3
+        }
+      },
+      "text": {
+        "en": "Alpine glaciers spread across the plain and left deep lakes behind ridges."
+      },
+      "label": {
+        "en": "ICE-TONGUE BASINS"
+      },
+      "body": {
+        "en": "In the ice ages, glaciers flowed out of the Alps and spread onto the plain in broad tongues. They gouged basins, and when they melted, the ridges of rubble they had pushed in front dammed the water.\n\nBecause the basins are deep, the water stays cold. The lakes now sit in a line along the foot of the mountains."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Starnberg_Lake",
+        "https://en.wikipedia.org/wiki/Glacial_lake"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.de.divide",
+      "countries": [
+        "DE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "DE": {
+          "type": "place",
+          "lat": 48.1,
+          "lon": 8.3
+        }
+      },
+      "text": {
+        "en": "Streams a few km apart begin on the same hills and reach different seas."
+      },
+      "label": {
+        "en": "TWIN SOURCES"
+      },
+      "body": {
+        "en": "A low ridge here divides water that flows north to the North Sea from water that flows east to the Black Sea. Two streams that rise only a few kilometres apart end in seas about 2,000 km apart.\n\nA canal now crosses the divide and links the two basins, so barges can travel between them."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/European_watershed",
+        "https://en.wikipedia.org/wiki/Danube"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.de.northward-tilt",
+      "countries": [
+        "DE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "DE": {
+          "type": "place",
+          "lat": 51.0,
+          "lon": 10.0
+        }
+      },
+      "text": {
+        "en": "The land slopes from the high south to the sea, and most rivers follow."
+      },
+      "label": {
+        "en": "NORTHWARD TILT"
+      },
+      "body": {
+        "en": "High mountains stand in the south, and the land drops steadily toward the sea in the north. Rivers mostly flow north along the slope, and are fed by the rain and snow of the uplands.\n\nSo ports lie where the rivers reach the sea, and canals link the rivers across the flat north to move heavy cargo cheaply."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Germany"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.de.man-made-heath",
+      "countries": [
+        "DE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "DE": {
+          "type": "place",
+          "lat": 53.2,
+          "lon": 9.9
+        }
+      },
+      "text": {
+        "en": "Heath on poor sand is the stump of woods felled to fuel salt boiling."
+      },
+      "label": {
+        "en": "CUT-DOWN FOREST"
+      },
+      "body": {
+        "en": "Ice-age sands are poor in nutrients, and the woods that grew on them were cut for fuel, for example to boil brine for salt. Sheep then grazed the seedlings, which kept the trees from returning.\n\nHeather, which tolerates poor acid sand, took over. It stays only as long as people keep grazing and burning it."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lüneburg_Heath",
+        "https://en.wikipedia.org/wiki/Heath_(habitat)"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.de.beech-land",
+      "countries": [
+        "DE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "DE": {
+          "type": "place",
+          "lat": 51.1,
+          "lon": 10.45
+        }
+      },
+      "text": {
+        "en": "Beech casts such deep shade that it would take over most of the land."
+      },
+      "label": {
+        "en": "SHADE WINS"
+      },
+      "body": {
+        "en": "In this mild, damp climate, beech seedlings tolerate deep shade that kills most other trees, so given time beech takes over. Left alone, most of the land would be beech forest.\n\nPeople replaced much of it with fast-growing spruce, which suffered badly from droughts and bark beetles. Old beech stands now protect what remains."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hainich_National_Park",
+        "https://en.wikipedia.org/wiki/Beech_forest"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.de.wind-soil",
+      "countries": [
+        "DE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "DE": {
+          "type": "place",
+          "lat": 52.1,
+          "lon": 11.6
+        }
+      },
+      "text": {
+        "en": "Dust from ice-age plains made a belt of deep, fertile soil."
+      },
+      "label": {
+        "en": "WIND-BLOWN SOIL"
+      },
+      "body": {
+        "en": "In the ice ages, cold winds blew fine dust from bare gravel plains and dropped it along the edge of the uplands as loess. The deposit weathered into deep, dark soil that holds water and nutrients.\n\nHills to the west cast a rain shadow, so the belt is dry. That suits wheat and sugar beet on a great scale."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Loess",
+        "https://en.wikipedia.org/wiki/Magdeburger_Börde"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.de.peat-bogs",
+      "countries": [
+        "DE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "DE": {
+          "type": "place",
+          "lat": 52.85,
+          "lon": 8.0
+        }
+      },
+      "text": {
+        "en": "Flat, wet ground with a hard layer beneath builds peat that people burned."
+      },
+      "label": {
+        "en": "PEAT LOWLANDS"
+      },
+      "body": {
+        "en": "Rain is frequent, evaporation is low, and a hard layer under the sand stops water draining. Waterlogged moss and heather decay slowly and pile up as peat.\n\nPeople cut it for fuel and later drained the bogs for farmland. Drained peat shrinks and releases carbon, so some bogs are now being allowed to refill."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Raised_bog",
+        "https://en.wikipedia.org/wiki/Peat"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

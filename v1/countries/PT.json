@@ -1,0 +1,311 @@
+{
+  "version": 1,
+  "country": "PT",
+  "notes": [
+    {
+      "id": "outlines.pt.ice-granite",
+      "countries": [
+        "PT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "PT": {
+          "type": "place",
+          "lat": 40.32,
+          "lon": -7.6
+        }
+      },
+      "text": {
+        "en": "The highest ground on the mainland is granite shaped by ice-age glaciers."
+      },
+      "label": {
+        "en": "ICE-CARVED GRANITE"
+      },
+      "body": {
+        "en": "Hard granite stands above the surrounding plateaus, and in the last ice age glaciers formed on it and carved a broad U-shaped valley.\n\nThe summit gets snow and rain from Atlantic air, but the thin granite soil is poor, so people herd sheep and goats there instead. Their milk makes a famous soft cheese."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Serra_da_Estrela"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pt.terraced-canyon",
+      "countries": [
+        "PT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "PT": {
+          "type": "place",
+          "lat": 41.17,
+          "lon": -7.55
+        }
+      },
+      "text": {
+        "en": "Steep schist valley walls were cut into terraces, and grapes ripen in the heat."
+      },
+      "label": {
+        "en": "TERRACED CANYON"
+      },
+      "body": {
+        "en": "A big river runs through a deep valley of schist, a rock that splits easily. The slopes are too steep to farm, so people cut terraces into them by hand.\n\nSummers are hot and dry, and the dark rock holds the heat at night. Vines thrive on this stony soil, and the valley is a famous wine region."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Douro",
+        "https://en.wikipedia.org/wiki/Alto_Douro_Wine_Region"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.pt.worn-flat",
+      "countries": [
+        "PT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "PT": {
+          "type": "place",
+          "lat": 38.4,
+          "lon": -7.9
+        }
+      },
+      "text": {
+        "en": "Hard old rocks, worn down over eons, leave a plain with gentle rolls."
+      },
+      "label": {
+        "en": "WORN-FLAT PLAIN"
+      },
+      "body": {
+        "en": "The bedrock here is very old and was worn down over a long time into a wide, gently rolling plain, mostly below 400 m.\n\nWithout mountains, there are few rivers and little rain, and summers are fierce. Wheat, cork oaks and sheep use the land, and towns are spread out."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alentejo"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pt.borrowed-rivers",
+      "countries": [
+        "PT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "PT": {
+          "type": "place",
+          "lat": 39.45,
+          "lon": -8.0
+        }
+      },
+      "text": {
+        "en": "Big rivers rise on another plateau, so water here depends on dams upstream."
+      },
+      "label": {
+        "en": "BORROWED RIVERS"
+      },
+      "body": {
+        "en": "The largest rivers begin on a high plateau beyond the border and cross the country in gorges before reaching the sea. Much of their water is controlled by dams upstream.\n\nIn dry years this affects farms and towns downstream, which is why countries sharing a river need agreements on how it is used."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tagus",
+        "https://en.wikipedia.org/wiki/Portugal%E2%80%93Spain_relations"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.pt.stored-rain",
+      "countries": [
+        "PT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "PT": {
+          "type": "place",
+          "lat": 38.4,
+          "lon": -8.0
+        }
+      },
+      "text": {
+        "en": "Summer is dry, so winter rain is trapped in reservoirs for farms."
+      },
+      "label": {
+        "en": "STORED RAIN"
+      },
+      "body": {
+        "en": "Most rain falls between autumn and spring, and rivers shrink to trickles in summer. Dams hold the winter flow in reservoirs for irrigation and drinking water.\n\nThat storage lets farmers grow crops where the summer would otherwise be too dry."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alqueva_Dam",
+        "https://en.wikipedia.org/wiki/Reservoir"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pt.river-nursery",
+      "countries": [
+        "PT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "PT": {
+          "type": "place",
+          "lat": 40.35,
+          "lon": -7.55
+        }
+      },
+      "text": {
+        "en": "The first high ground to meet Atlantic air feeds several rivers."
+      },
+      "label": {
+        "en": "RIVER NURSERY"
+      },
+      "body": {
+        "en": "Moist air from the Atlantic rises over the highest range, cools and drops rain and snow. Several rivers begin as small streams in its valleys and run down to the Atlantic and to the plains beyond.\n\nThe mountains act as a reservoir for the land below, releasing water slowly through the dry months."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Serra_da_Estrela",
+        "https://en.wikipedia.org/wiki/Mondego"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pt.cork-oak",
+      "countries": [
+        "PT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "PT": {
+          "type": "place",
+          "lat": 38.7,
+          "lon": -8.3
+        }
+      },
+      "text": {
+        "en": "Thick bark protects the trees from wildfire, and it grows back after harvest."
+      },
+      "label": {
+        "en": "FIRE-PROOF BARK"
+      },
+      "body": {
+        "en": "Cork oaks evolved with dry summers and frequent fires. Their thick, spongy bark insulates the living wood, so they survive fires that kill other trees.\n\nPeople strip the bark every nine years or so without harming the tree, and it grows back. The cork harvest pays for keeping the open oak woodland."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cork_oak",
+        "https://en.wikipedia.org/wiki/Montado"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pt.oily-forest",
+      "countries": [
+        "PT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "PT": {
+          "type": "place",
+          "lat": 40.3,
+          "lon": -8.3
+        }
+      },
+      "text": {
+        "en": "Fast-growing trees full of oil feed fires in hot, dry summers."
+      },
+      "label": {
+        "en": "OILY FOREST"
+      },
+      "body": {
+        "en": "Eucalyptus from Australia was planted widely for paper pulp because it grows very fast. Its leaves and bark are full of flammable oils and drop in dry litter.\n\nIn hot summers, fires spread quickly through these plantations, and in 2017 enormous fires killed many people. Rural depopulation leaves fields unmanaged and adds fuel."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eucalyptus",
+        "https://en.wikipedia.org/wiki/2017_Portugal_wildfires"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pt.steppe-plain",
+      "countries": [
+        "PT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "PT": {
+          "type": "place",
+          "lat": 37.7,
+          "lon": -8.1
+        }
+      },
+      "text": {
+        "en": "Light grain farming keeps open ground that rare ground-nesting birds need."
+      },
+      "label": {
+        "en": "CEREAL STEPPE"
+      },
+      "body": {
+        "en": "Gently rolling land with thin soil is farmed for grain with long fallow periods. This traditional farming preserves large, open spaces much like natural steppe.\n\nGround-nesting birds, including large bustards, need such space, and they nest in the fallow fields. Where irrigation and intensive farming arrive, they disappear."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Castro_Verde",
+        "https://en.wikipedia.org/wiki/Little_bustard"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pt.two-lands",
+      "countries": [
+        "PT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "shape",
+      "anchors": {
+        "PT": {
+          "type": "whole"
+        }
+      },
+      "text": {
+        "en": "Wet mountains in the north and a dry, flat south meet near a great river."
+      },
+      "label": {
+        "en": "TWO LANDS"
+      },
+      "body": {
+        "en": "Atlantic air first meets the mountains of the north, which get heavy rain, small fields and dense settlement. The south is lower, flatter and drier, and it is closer to Africa's heat.\n\nA big river, roughly halfway down, marks the change from one landscape to the other."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Portugal"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

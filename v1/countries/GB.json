@@ -1,0 +1,405 @@
+{
+  "version": 1,
+  "country": "GB",
+  "notes": [
+    {
+      "id": "outlines.gb.worn-giants",
+      "countries": [
+        "GB"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "GB": {
+          "type": "place",
+          "lat": 57.1,
+          "lon": -4.4
+        }
+      },
+      "text": {
+        "en": "These hills are the stumps of mountains once as tall as the Himalayas."
+      },
+      "label": {
+        "en": "WORN GIANTS"
+      },
+      "body": {
+        "en": "About 430 million years ago, continental collision raised a huge chain here. Hundreds of millions of years of erosion, then ice-age glaciers, wore it down and carved long straight glens.\n\nThe rock is hard and acidic, so soils are thin. Land use is mostly sheep, deer and grouse, and few people live on it."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scottish_Highlands",
+        "https://en.wikipedia.org/wiki/Caledonian_orogeny"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gb.chalk-uplands",
+      "countries": [
+        "GB"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "GB": {
+          "type": "place",
+          "lat": 51.2,
+          "lon": -1.9
+        }
+      },
+      "text": {
+        "en": "Soft white rock from an ancient warm sea forms smooth, dry hills."
+      },
+      "label": {
+        "en": "CHALK UPLANDS"
+      },
+      "body": {
+        "en": "Chalk is made of the shells of tiny sea creatures that settled on the floor of a warm sea about 100 million years ago. Later it was lifted and tilted.\n\nRain soaks straight through it, so the hills are dry, grassy and good for grazing, and rivers spring at their foot. Villages and old roads grew along these dry ridges."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chalk",
+        "https://en.wikipedia.org/wiki/Salisbury_Plain"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gb.arctic-plateau",
+      "countries": [
+        "GB"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "GB": {
+          "type": "place",
+          "lat": 57.1,
+          "lon": -3.65
+        }
+      },
+      "text": {
+        "en": "A flat-topped upland has tundra conditions at only modest height."
+      },
+      "label": {
+        "en": "ARCTIC PLATEAU"
+      },
+      "body": {
+        "en": "An old plateau survived the ice ages as a broad, high summit, with granite domes and corries scooped by ice. Because it lies so far north, and wind strips the snow and cools it, conditions up there are like those of the Arctic.\n\nThat means tundra plants, patches of snow into summer and rare mountain birds at heights where trees would grow farther south."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cairngorms",
+        "https://en.wikipedia.org/wiki/Plateau"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gb.limestone-pavement",
+      "countries": [
+        "GB"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "GB": {
+          "type": "place",
+          "lat": 54.2,
+          "lon": -2.2
+        }
+      },
+      "text": {
+        "en": "Glaciers scraped off the soil and rain widened the cracks in bare limestone."
+      },
+      "label": {
+        "en": "CRACKED PAVEMENT"
+      },
+      "body": {
+        "en": "Glaciers stripped soil from a layer of limestone, leaving flat bare slabs. Slightly acidic rainwater then dissolved the cracks into deep fissures, so the stone looks like paving.\n\nWater disappears underground, forming caves and streams that vanish into the hillside. The fissures shelter ferns and woodland plants from grazing sheep."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Limestone_pavement",
+        "https://en.wikipedia.org/wiki/Karst"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gb.fault-trench",
+      "countries": [
+        "GB"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "GB": {
+          "type": "place",
+          "lat": 57.3,
+          "lon": -4.45
+        }
+      },
+      "text": {
+        "en": "A straight valley and deep lakes follow a crack across the whole country."
+      },
+      "label": {
+        "en": "FAULT TRENCH"
+      },
+      "body": {
+        "en": "A giant fault splits the land into two halves that have slid along each other. The rock ground along it is soft, and ice-age glaciers gouged it into a straight trench about 100 km long.\n\nDeep lakes fill the trench, and a canal links them to form a route that crosses the land without going around."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_Glen",
+        "https://en.wikipedia.org/wiki/Great_Glen_Fault"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gb.eastward-tilt",
+      "countries": [
+        "GB"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "GB": {
+          "type": "place",
+          "lat": 52.4,
+          "lon": -1.5
+        }
+      },
+      "text": {
+        "en": "The land rises toward the west, so the biggest rivers drain east and south."
+      },
+      "label": {
+        "en": "EASTWARD TILT"
+      },
+      "body": {
+        "en": "The highest ground lies in the north and west, while the lowest lies in the south-east. Rain falls on the western hills and runs downhill the long way across the lowlands.\n\nThe longest rivers therefore flow east and south, through the biggest areas of farmland, and reach the sea on the lowest coast."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_the_United_Kingdom"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gb.sinking-fens",
+      "countries": [
+        "GB"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "GB": {
+          "type": "place",
+          "lat": 52.5,
+          "lon": 0.1
+        }
+      },
+      "text": {
+        "en": "Drained peat shrinks, so rivers now flow above the fields."
+      },
+      "label": {
+        "en": "SINKING FARMLAND"
+      },
+      "body": {
+        "en": "This plain was once a huge marsh. In the 1600s it was drained with ditches and pumps, and the rich black peat became farmland.\n\nBut dry peat shrinks and blows away, so the land has sunk several metres. Rivers now run along embankments above the fields, and pumps work to keep the land dry."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/The_Fens",
+        "https://en.wikipedia.org/wiki/Holme_Fen"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gb.chalk-streams",
+      "countries": [
+        "GB"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "GB": {
+          "type": "place",
+          "lat": 51.3,
+          "lon": -1.7
+        }
+      },
+      "text": {
+        "en": "Rain filters through chalk and emerges as clear, steady, cool springs."
+      },
+      "label": {
+        "en": "GLASS-CLEAR STREAMS"
+      },
+      "body": {
+        "en": "Rain that falls on chalk soaks through it slowly for months before it comes out in springs. The filtered water is clear, constant in temperature and rich in minerals.\n\nSuch streams are rare, and most are found in this region. They flow gently all year, supporting weed and trout, but they suffer when too much groundwater is pumped."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chalk_stream"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gb.peat-blanket",
+      "countries": [
+        "GB"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "GB": {
+          "type": "place",
+          "lat": 54.7,
+          "lon": -2.3
+        }
+      },
+      "text": {
+        "en": "Cool, damp air drowns the high moors in carbon-rich peat."
+      },
+      "label": {
+        "en": "BLANKET BOG"
+      },
+      "body": {
+        "en": "On cool uplands where rain falls on more than 160 days a year, the ground is waterlogged. Dead plants decay slowly without oxygen and pile up as peat.\n\nThe peat locks away a lot of carbon, but drainage and burning release it. Wet bogs also slow floods downstream, so restoring them is now a priority."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Blanket_bog",
+        "https://en.wikipedia.org/wiki/Peat"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gb.wet-oak-wood",
+      "countries": [
+        "GB"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "GB": {
+          "type": "place",
+          "lat": 50.58,
+          "lon": -3.96
+        }
+      },
+      "text": {
+        "en": "Damp air and boulders make a stunted oak wood draped in moss and lichen."
+      },
+      "label": {
+        "en": "MOSS FOREST"
+      },
+      "body": {
+        "en": "Granite boulders cover the ground and make it hard to walk, graze or plough. Stunted oaks grow up among them, and the air is so damp and clean that mosses, ferns and lichens cover every branch.\n\nThe wood has survived because the boulders protected it from grazing and from being cut down."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wistman's_Wood",
+        "https://en.wikipedia.org/wiki/Temperate_rainforest"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gb.mild-for-latitude",
+      "countries": [
+        "GB"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "GB": {
+          "type": "place",
+          "lat": 54.0,
+          "lon": -2.0
+        }
+      },
+      "text": {
+        "en": "Warm ocean air keeps winters mild at a latitude where others freeze."
+      },
+      "label": {
+        "en": "OCEAN HEATING"
+      },
+      "body": {
+        "en": "The land lies as far north as Labrador, yet winters are mild. Westerly winds carry heat from the warm North Atlantic Drift, so frost is short and the sea rarely freezes.\n\nGrass keeps growing nearly all year, which suits cattle and sheep. Palms and other subtropical plants survive in sheltered gardens along the west coast."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/North_Atlantic_Current",
+        "https://en.wikipedia.org/wiki/Oceanic_climate"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gb.rain-shadow",
+      "countries": [
+        "GB"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "GB": {
+          "type": "place",
+          "lat": 52.6,
+          "lon": -2.4
+        }
+      },
+      "text": {
+        "en": "Western hills wring out the rain, so the east is far drier."
+      },
+      "label": {
+        "en": "RAIN SHADOW"
+      },
+      "body": {
+        "en": "Moist air from the Atlantic hits the western hills first and drops most of its rain there, over 3,000 mm a year in places. By the time it reaches the east, it is dry, with perhaps a fifth of that.\n\nSo the west is rainy pasture, and the east is wheat country."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rain_shadow",
+        "https://en.wikipedia.org/wiki/Climate_of_the_United_Kingdom"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gb.cut-off",
+      "countries": [
+        "GB"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "shape",
+      "anchors": {
+        "GB": {
+          "type": "whole"
+        }
+      },
+      "text": {
+        "en": "Rising seas drowned a land bridge about 8,000 years ago."
+      },
+      "label": {
+        "en": "CUT-OFF LAND"
+      },
+      "body": {
+        "en": "After the last ice age, melting ice raised the sea. It flooded a lowland plain that linked this land to the continent, and it left a separate island at the end of a shallow shelf.\n\nThe narrow channel kept armies out and made the sea a highway. The island's long coastline means no place is far from the water."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Doggerland",
+        "https://en.wikipedia.org/wiki/English_Channel"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

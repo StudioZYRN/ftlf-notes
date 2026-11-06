@@ -1,0 +1,436 @@
+{
+  "version": 1,
+  "country": "AU",
+  "notes": [
+    {
+      "id": "outlines.au.buried-rock-tip",
+      "countries": [
+        "AU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AU": {
+          "type": "place",
+          "lat": -25.34,
+          "lon": 131.04
+        }
+      },
+      "text": {
+        "en": "A lone sandstone dome is the visible tip of a steeply tilted bed."
+      },
+      "label": {
+        "en": "BURIED ROCK TIP"
+      },
+      "body": {
+        "en": "Hundreds of millions of years ago, layers of sand turned to hard sandstone and were tilted until they stood almost on end. Softer rock around them wore away, and this one block survived.\n\nMuch of it is thought to lie hidden below the plain, so the great red dome is the tip of a much larger slab."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Uluru",
+        "https://en.wikipedia.org/wiki/Inselberg"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.au.worn-landmass",
+      "countries": [
+        "AU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AU": {
+          "type": "place",
+          "lat": -27.0,
+          "lon": 132.0
+        }
+      },
+      "text": {
+        "en": "Far from any plate edge, this land has had no mountain-building for ages."
+      },
+      "label": {
+        "en": "WORN-DOWN LANDMASS"
+      },
+      "body": {
+        "en": "Most mountain ranges are raised where plates collide. This continent sits in the middle of its plate, so its old mountains have been eroding for hundreds of millions of years, and the land is low and flat.\n\nRain has leached the soils of nutrients, which is why so much farmland needs fertiliser."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geology_of_Australia"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.au.rift-edge-highlands",
+      "countries": [
+        "AU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AU": {
+          "type": "place",
+          "lat": -33.2,
+          "lon": 149.8
+        }
+      },
+      "text": {
+        "en": "A raised edge of a torn-open coast splits rivers east from west."
+      },
+      "label": {
+        "en": "RIFT-EDGE HIGHLANDS"
+      },
+      "body": {
+        "en": "When the sea to the east opened about 80 million years ago, the coast was lifted into highlands. Rain falling on the ocean side drains fast down short, steep rivers; rain on the far side flows inland across the dry plain.\n\nThe highlands also wring moisture from sea winds, so the coast is green and the inland side far drier."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_Dividing_Range"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.au.rusted-ocean",
+      "countries": [
+        "AU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AU": {
+          "type": "place",
+          "lat": -22.5,
+          "lon": 118.0
+        }
+      },
+      "text": {
+        "en": "Iron from early oceans rusted into bands that now feed steel mills."
+      },
+      "label": {
+        "en": "RUSTED OCEAN"
+      },
+      "body": {
+        "en": "Over two billion years ago, tiny organisms began releasing oxygen into oceans full of dissolved iron. The iron rusted and settled out in stripes that hardened into red-black rock.\n\nMost of the world's iron ore comes from such formations, and this region's ancient rocks hold huge amounts."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Banded_iron_formation",
+        "https://en.wikipedia.org/wiki/Pilbara"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.au.thirsty-basin",
+      "countries": [
+        "AU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AU": {
+          "type": "place",
+          "lat": -34.2,
+          "lon": 142.1
+        }
+      },
+      "text": {
+        "en": "A river basin a seventh of the land is fed by little rain."
+      },
+      "label": {
+        "en": "THIRSTY BASIN"
+      },
+      "body": {
+        "en": "Flat country and hot sun mean most rain evaporates before reaching a river, so this river system carries far less water than others of its size. Farms along it take a large share for irrigation.\n\nIn dry years it barely reaches the sea, and its water turns salty."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Murray%E2%80%93Darling_basin"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.au.rare-flood-lake",
+      "countries": [
+        "AU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AU": {
+          "type": "place",
+          "lat": -28.4,
+          "lon": 137.4
+        }
+      },
+      "text": {
+        "en": "A salt flat below sea level fills only a few times a century."
+      },
+      "label": {
+        "en": "RARE FLOOD LAKE"
+      },
+      "body": {
+        "en": "The lowest point on the continent is a vast salt crust where rivers drain but never leave. Monsoon rain far to the north takes weeks to cross flat country and reach it, and the lake fills deeply only a few times a century.\n\nThen fish spawn, waterbirds arrive in great numbers, and the white crust turns blue and green for a season."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Eyre",
+        "https://en.wikipedia.org/wiki/Endorheic_basin"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.au.buried-river",
+      "countries": [
+        "AU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AU": {
+          "type": "place",
+          "lat": -26.0,
+          "lon": 143.0
+        }
+      },
+      "text": {
+        "en": "Rain on eastern hills seeps underground and surfaces a million years later."
+      },
+      "label": {
+        "en": "BURIED RIVER"
+      },
+      "body": {
+        "en": "In the east, sandstone layers fill with rainwater and are sealed below clay. The water is pressed under the plains and flows west so slowly that some of it has been underground for over a million years.\n\nBores tap it without pumps, and cattle farms in the dry interior depend on it, though pressure has fallen since drilling began."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_Artesian_Basin",
+        "https://en.wikipedia.org/wiki/Artesian_aquifer"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.au.braided-floodplain",
+      "countries": [
+        "AU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AU": {
+          "type": "place",
+          "lat": -25.8,
+          "lon": 141.2
+        }
+      },
+      "text": {
+        "en": "Rivers fan into a maze of channels across a desert plain."
+      },
+      "label": {
+        "en": "BRAIDED FLOODPLAIN"
+      },
+      "body": {
+        "en": "When monsoon rain falls far to the north, the water spreads over a nearly flat desert plain in dozens of shallow, braided channels. The flood takes weeks to pass and leaves nutrient-rich mud.\n\nGrass springs up afterwards and cattle fatten; in dry years the channels are empty."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Channel_Country",
+        "https://en.wikipedia.org/wiki/Braided_river"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.au.rising-salt",
+      "countries": [
+        "AU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AU": {
+          "type": "place",
+          "lat": -31.5,
+          "lon": 117.5
+        }
+      },
+      "text": {
+        "en": "Clearing deep-rooted native plants let hidden salt rise to the surface."
+      },
+      "label": {
+        "en": "RISING SALT"
+      },
+      "body": {
+        "en": "Ancient soils here hold salt blown in from the ocean over millions of years. Native trees used up the rain, keeping groundwater deep.\n\nWhen land was cleared for wheat, shallow crops used less water, the groundwater rose and brought the salt to the surface, killing crops and trees and leaving bare white scalds."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Soil_salinity",
+        "https://en.wikipedia.org/wiki/Dryland_salinity"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.au.outback",
+      "countries": [
+        "AU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AU": {
+          "type": "place",
+          "lat": -25.3,
+          "lon": 133.0
+        }
+      },
+      "text": {
+        "en": "Dry air and little rain leave the centre empty; people crowd the coast."
+      },
+      "label": {
+        "en": "EMPTY INTERIOR"
+      },
+      "body": {
+        "en": "Much of the interior is desert or dry scrub, because high pressure and distance from the sea bring little rain. Iron-rich ancient soil gives it a red colour.\n\nCities and farms cluster in the wetter south-east, east and south-west, and the vast middle is thinly settled, with towns far apart."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Outback"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.au.fire-born-forest",
+      "countries": [
+        "AU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AU": {
+          "type": "place",
+          "lat": -37.0,
+          "lon": 146.5
+        }
+      },
+      "text": {
+        "en": "Oil-rich leaves burn fiercely, and the trees sprout again from their bark."
+      },
+      "label": {
+        "en": "FIRE-BORN FOREST"
+      },
+      "body": {
+        "en": "Poor soil and a dry summer make fire common. Leaves full of flammable oil burn hot and clear competitors. Dormant buds under the bark sprout within weeks after a blaze, and some seeds wait in woody capsules for fire to open them.\n\nThese forests burn readily, and fires can be catastrophic when drought and heat come together."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eucalyptus",
+        "https://en.wikipedia.org/wiki/Epicormic_shoot"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.au.pouch-lands",
+      "countries": [
+        "AU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AU": {
+          "type": "place",
+          "lat": -24.0,
+          "lon": 134.0
+        }
+      },
+      "text": {
+        "en": "Cut off by sea, pouched mammals filled the roles others took elsewhere."
+      },
+      "label": {
+        "en": "POUCH LANDS"
+      },
+      "body": {
+        "en": "After this land split from Antarctica some 35 to 50 million years ago, it drifted north in isolation. Marsupials evolved into grazers, burrowers, gliders and predators, with few placental rivals.\n\nWhen people later brought foxes, cats and rabbits, many natives, with no defences against them, declined or died out."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Marsupial",
+        "https://en.wikipedia.org/wiki/Gondwana"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.au.gondwana-forest",
+      "countries": [
+        "AU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AU": {
+          "type": "place",
+          "lat": -17.3,
+          "lon": 145.5
+        }
+      },
+      "text": {
+        "en": "Ancient rainforest survives on wet mountains with early flowering plants."
+      },
+      "label": {
+        "en": "GONDWANA FOREST"
+      },
+      "body": {
+        "en": "When the land was part of a southern supercontinent, rainforest covered it. As the continent drifted north and dried, forest shrank to a strip along the wet north-eastern ranges, where trade winds drop heavy rain.\n\nIt still holds many of the oldest known lineages of flowering plants, and animals such as tree kangaroos."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wet_Tropics_of_Queensland",
+        "https://en.wikipedia.org/wiki/Gondwana"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.au.waiting-for-rain",
+      "countries": [
+        "AU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AU": {
+          "type": "place",
+          "lat": -24.0,
+          "lon": 127.0
+        }
+      },
+      "text": {
+        "en": "Seeds and eggs sleep for years until a flood brings the desert to life."
+      },
+      "label": {
+        "en": "WAITING FOR RAIN"
+      },
+      "body": {
+        "en": "Desert rain is rare and unpredictable. Plants survive as seeds that wait years for a downpour, then flower within days. Burrowing frogs seal themselves in mud and emerge when pools form.\n\nInsects and birds follow the flush, and within weeks a bare plain is crowded with life."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Desert_ecology",
+        "https://en.wikipedia.org/wiki/Ephemeral_plant"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

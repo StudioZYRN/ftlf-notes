@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "CU",
+  "notes": [
+    {
+      "id": "outlines.cu.limestone-mogotes",
+      "countries": [
+        "CU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CU": {
+          "type": "place",
+          "lat": 22.6,
+          "lon": -83.7
+        }
+      },
+      "text": {
+        "en": "Steep-sided limestone haystacks rise vertically from red valley floors."
+      },
+      "label": {
+        "en": "TOWER KARST"
+      },
+      "body": {
+        "en": "Acidic rainwater dissolved ancient limestone plateaus over millions of years, collapsing caverns and leaving isolated vertical domes called mogotes. Their sheer cliffs shelter endemic cliff plants while fertile red soils below support tobacco crops."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mogote"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cu.southern-cordillera",
+      "countries": [
+        "CU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CU": {
+          "type": "place",
+          "lat": 20.0,
+          "lon": -76.8
+        }
+      },
+      "text": {
+        "en": "A rugged fault block mountain chain plunges directly into a deep marine trench."
+      },
+      "label": {
+        "en": "COASTAL CREST"
+      },
+      "body": {
+        "en": "Formed where the tectonic plate boundary slips in the south, this sharp mountain range rises steeply above the coast. Its pine-clad heights intercept moist trade winds, dropping heavy rain and shielding valleys to the north."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sierra_Maestra"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cu.subterranean-karst",
+      "countries": [
+        "CU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CU": {
+          "type": "place",
+          "lat": 22.5,
+          "lon": -83.9
+        }
+      },
+      "text": {
+        "en": "Underground rivers carved hundreds of kilometres of tiered limestone galleries."
+      },
+      "label": {
+        "en": "MASSIVE CAVERNS"
+      },
+      "body": {
+        "en": "Water percolating through porous carbonate platforms created some of the largest cave complexes in the Americas. Blind cave fish and bats navigate dark chambers where massive calcite draperies and sinkholes connect with surface valleys."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gran_Caverna_de_Santo_Tom%C3%A1s"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cu.coral-terraces",
+      "countries": [
+        "CU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CU": {
+          "type": "place",
+          "lat": 19.9,
+          "lon": -77.6
+        }
+      },
+      "text": {
+        "en": "Staircases of fossilized coral terraces record ancient sea levels."
+      },
+      "label": {
+        "en": "STEPPED SHORES"
+      },
+      "body": {
+        "en": "Tectonic uplift combined with fluctuating Ice Age sea levels elevated former barrier reefs out of the ocean. Successive wave-cut limestone benches climb dozens of metres above the waves like giant stone staircases."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Desembarco_del_Granma_National_Park"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cu.barrier-cays",
+      "countries": [
+        "CU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CU": {
+          "type": "place",
+          "lat": 22.2,
+          "lon": -78.5
+        }
+      },
+      "text": {
+        "en": "Chains of sandy limestone cays protect shallow turquoise lagoons."
+      },
+      "label": {
+        "en": "CORAL BARRIERS"
+      },
+      "body": {
+        "en": "Thousands of low coral cays and mangrove islets rim the island's outer shelves. These extensive barrier reefs break the force of Atlantic waves, creating calm, hypersaline coastal flats rich in bonefish and corals."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jardines_del_Rey"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cu.peat-wetlands",
+      "countries": [
+        "CU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CU": {
+          "type": "place",
+          "lat": 22.3,
+          "lon": -81.5
+        }
+      },
+      "text": {
+        "en": "The largest wetland in the region covers an enormous low-lying peninsula."
+      },
+      "label": {
+        "en": "CARIBBEAN SWAMP"
+      },
+      "body": {
+        "en": "A vast depression barely above sea level traps freshwater runoff behind coastal ridges. The resulting immense swamp of sawgrass, peat, and mangrove channels acts as a giant natural filter and refuge for rare wildlife."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zapata_Swamp"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cu.vanishing-rivers",
+      "countries": [
+        "CU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CU": {
+          "type": "place",
+          "lat": 22.6,
+          "lon": -83.8
+        }
+      },
+      "text": {
+        "en": "Surface streams plunge into swallow holes and travel through bedrock."
+      },
+      "label": {
+        "en": "VANISHING RIVERS"
+      },
+      "body": {
+        "en": "Because soluble limestone dominates the island's geology, surface water frequently disappears into deep sinkholes. Entire rivers flow unseen through flooded cave conduits before emerging miles away as crystal-clear coastal springs."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Cuba"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cu.pouch-harbours",
+      "countries": [
+        "CU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CU": {
+          "type": "place",
+          "lat": 21.4,
+          "lon": -77.2
+        }
+      },
+      "text": {
+        "en": "Narrow rocky throats open into expansive protected saltwater basins."
+      },
+      "label": {
+        "en": "POCKET HARBOURS"
+      },
+      "body": {
+        "en": "Ancient river valleys drowned by rising sea levels formed sheltered pouch-like bays along limestone coasts. Narrow entrances shield deep, calm interior basins from ocean hurricanes, creating legendary natural anchorages."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bay_of_Nipe"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cu.freshwater-crocodiles",
+      "countries": [
+        "CU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CU": {
+          "type": "place",
+          "lat": 22.3,
+          "lon": -81.3
+        }
+      },
+      "text": {
+        "en": "A specialized freshwater crocodile gallops on strong legs through marshes."
+      },
+      "label": {
+        "en": "SWAMP CROCODILES"
+      },
+      "body": {
+        "en": "Confined primarily to a single extensive southern peat swamp, this critically endangered reptile possesses long, powerful legs capable of galloping overland. Heavy pebble-like scales and striking yellow-and-black patterns camouflage it among reedbeds."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cuban_crocodile"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cu.tiny-hummingbird",
+      "countries": [
+        "CU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CU": {
+          "type": "place",
+          "lat": 22.4,
+          "lon": -81.5
+        }
+      },
+      "text": {
+        "en": "The world's smallest bird weighs less than a coin and hovers over flowers."
+      },
+      "label": {
+        "en": "DWARF FLYERS"
+      },
+      "body": {
+        "en": "Evolving in isolation on the island, this miniature iridescent bird measures barely five centimetres from bill to tail. Flapping its wings eighty times a second, it feeds exclusively on nectar from specialized tubular wildflowers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bee_hummingbird"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cu.royal-palms",
+      "countries": [
+        "CU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CU": {
+          "type": "place",
+          "lat": 21.9,
+          "lon": -79.4
+        }
+      },
+      "text": {
+        "en": "Tall swollen-trunk palms dominate rolling fertile interior plains."
+      },
+      "label": {
+        "en": "STATELY PALMS"
+      },
+      "body": {
+        "en": "Reaching over twenty metres high, smooth grey marble-like trunks with prominent green crowns thrive across rich agricultural lowlands. The trees drop nutrient-rich berries that feed birds and pigs while their leaves provide traditional roofing thatch."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Roystonea_regia"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cu.coastal-manatees",
+      "countries": [
+        "CU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CU": {
+          "type": "place",
+          "lat": 21.8,
+          "lon": -80.0
+        }
+      },
+      "text": {
+        "en": "Sheltered coastal mangrove channels provide calm grazing for gentle sea cows."
+      },
+      "label": {
+        "en": "MANGROVE NURSERIES"
+      },
+      "body": {
+        "en": "Extensive red mangrove stands along shallow southern bays produce dense underwater root thickets. These quiet channels protect West Indian manatees as they graze on submerged seagrasses free from rough ocean swells."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/West_Indian_manatee"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

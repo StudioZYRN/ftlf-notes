@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "BD",
+  "notes": [
+    {
+      "id": "outlines.bd.alluvial-delta",
+      "countries": [
+        "BD"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "BD": {
+          "type": "place",
+          "lat": 23.5,
+          "lon": 89.8
+        }
+      },
+      "text": {
+        "en": "Himalayan rivers dump a billion tonnes of silt annually onto flat plains."
+      },
+      "label": {
+        "en": "SILT DELTA"
+      },
+      "body": {
+        "en": "Massive rivers fed by melting snow and monsoon deluges carry enormous sediment loads down from the mountains. Where the gradient flattens near sea level, the sediment drops out, building new mudbanks and extraordinarily fertile floodplain."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ganges_Delta"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.bd.shifting-chars",
+      "countries": [
+        "BD"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "BD": {
+          "type": "place",
+          "lat": 24.3,
+          "lon": 89.7
+        }
+      },
+      "text": {
+        "en": "Monsoon floods constantly build and wash away braided sandbars."
+      },
+      "label": {
+        "en": "SHIFTING ISLANDS"
+      },
+      "body": {
+        "en": "Violent seasonal river currents erode banks and redeposit huge sandbars in mid-channel. Millions of farmers migrate onto these temporary islands to cultivate newly exposed river silt despite the threat of sudden erosion."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Char_(landform)"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.bd.eastern-ridges",
+      "countries": [
+        "BD"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "BD": {
+          "type": "place",
+          "lat": 22.3,
+          "lon": 92.2
+        }
+      },
+      "text": {
+        "en": "Parallel jungle-clad anticlines buckle the eastern border."
+      },
+      "label": {
+        "en": "FOLDED RIDGES"
+      },
+      "body": {
+        "en": "Unlike the surrounding flat delta, the eastern hill range formed where advancing oceanic crust crumpled against continental rock. Long, parallel sandstone ridges separated by deep strike valleys rise sharply out of the lowlands."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chittagong_Hill_Tracts"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.bd.raised-clay-terraces",
+      "countries": [
+        "BD"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "BD": {
+          "type": "place",
+          "lat": 24.3,
+          "lon": 90.1
+        }
+      },
+      "text": {
+        "en": "Ancient uplifted clay terraces stand well above annual monsoon floodwaters."
+      },
+      "label": {
+        "en": "RED TERRACES"
+      },
+      "body": {
+        "en": "Tectonic faulting millions of years ago elevated blocks of older sediment several metres above the surrounding delta. These weathered reddish-brown clay tracts resist floodwaters and support fruit orchards while the plains below submerge."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Madhupur_Tract"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.bd.braided-confluence",
+      "countries": [
+        "BD"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "BD": {
+          "type": "place",
+          "lat": 23.3,
+          "lon": 90.5
+        }
+      },
+      "text": {
+        "en": "Two of Asia's mightiest glacier-fed rivers merge into a vast waterway."
+      },
+      "label": {
+        "en": "JOINING TORRENTS"
+      },
+      "body": {
+        "en": "High mountain meltwater and heavy monsoon rainfall converge where two enormous braided river systems meet. The combined channel swells to over ten kilometres wide, discharging massive freshwater pulses into the ocean."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Padma_River"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.bd.northeast-wetlands",
+      "countries": [
+        "BD"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "BD": {
+          "type": "place",
+          "lat": 24.6,
+          "lon": 91.3
+        }
+      },
+      "text": {
+        "en": "Subsiding tectonic bowls transform into inland seas every monsoon."
+      },
+      "label": {
+        "en": "SINKING BASINS"
+      },
+      "body": {
+        "en": "Tectonic sagging at the foot of high northern plateaus created deep saucer-shaped depressions. During the monsoon, runoff turns the entire basin into a single vast lake where villages sit like isolated islands atop raised earth mounds."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Haor"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.bd.tidal-surge",
+      "countries": [
+        "BD"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "BD": {
+          "type": "place",
+          "lat": 22.8,
+          "lon": 90.5
+        }
+      },
+      "text": {
+        "en": "A funnel-shaped shallow bay magnifies ocean tides into lethal surges."
+      },
+      "label": {
+        "en": "FUNNEL TIDES"
+      },
+      "body": {
+        "en": "The triangular head of the southern bay squeezes incoming ocean tides into narrow channels. When tropical cyclones strike during spring tides, sea walls are overwhelmed as massive walls of saltwater push tens of kilometres inland."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bay_of_Bengal"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.bd.monsoon-pulse",
+      "countries": [
+        "BD"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "BD": {
+          "type": "place",
+          "lat": 23.8,
+          "lon": 90.0
+        }
+      },
+      "text": {
+        "en": "Annual monsoon flooding submerges up to a third of the country's land."
+      },
+      "label": {
+        "en": "ANNUAL FLOOD"
+      },
+      "body": {
+        "en": "Heavy summer rains and upstream meltwater naturally overflow shallow riverbanks each year. Rather than a disaster, this regular gentle flood renews soil nutrients with fresh silt and refills fisheries, anchoring traditional rice cycles."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Floods_in_Bangladesh"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.bd.tidal-mangrove",
+      "countries": [
+        "BD"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "BD": {
+          "type": "place",
+          "lat": 22.1,
+          "lon": 89.4
+        }
+      },
+      "text": {
+        "en": "The world's largest mangrove forest buffers lowlands from ocean cyclones."
+      },
+      "label": {
+        "en": "MANGROVE SHIELD"
+      },
+      "body": {
+        "en": "Spanning the seaward edge of the delta, dense mangrove woodlands absorb the impact of deadly cyclone waves. Trees produce pencil-like breathing roots that stick out of oxygen-poor mud to survive twice-daily tidal inundations."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sundarbans"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.bd.swamp-tigers",
+      "countries": [
+        "BD"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "BD": {
+          "type": "place",
+          "lat": 22.0,
+          "lon": 89.6
+        }
+      },
+      "text": {
+        "en": "Apex predators adapted to swimming across wide, murky tidal channels."
+      },
+      "label": {
+        "en": "SWAMP HUNTERS"
+      },
+      "body": {
+        "en": "Living in saline mangrove channels, these large striped cats have developed powerful swimming abilities and drink brackish water. They navigate tangled aerial roots to hunt spotted deer and wild boar across shifting muddy islands."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bengal_tiger"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.bd.blind-dolphins",
+      "countries": [
+        "BD"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "BD": {
+          "type": "place",
+          "lat": 23.1,
+          "lon": 89.9
+        }
+      },
+      "text": {
+        "en": "Murky silt-laden rivers led freshwater dolphins to hunt by echolocation."
+      },
+      "label": {
+        "en": "BLIND SWIMMERS"
+      },
+      "body": {
+        "en": "Centuries of swimming through thick muddy sediment rendered these river dolphins functionally blind. Instead of sight, they rely entirely on precise ultrasonic clicking to locate fish and crustaceans in zero-visibility waters."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/South_Asian_river_dolphin"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.bd.floating-rice",
+      "countries": [
+        "BD"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "BD": {
+          "type": "place",
+          "lat": 24.1,
+          "lon": 90.8
+        }
+      },
+      "text": {
+        "en": "Deepwater rice varieties grow upward with rising floods to keep heads dry."
+      },
+      "label": {
+        "en": "FLOATING STEMS"
+      },
+      "body": {
+        "en": "Farmers in low-lying floodplains plant specialized floating rice capable of extending its stems by several centimetres a day as monsoon waters rise. The plants can reach lengths of four metres, keeping grain heads above deep water."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Deepwater_rice"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

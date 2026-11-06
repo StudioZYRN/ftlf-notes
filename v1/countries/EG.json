@@ -1,0 +1,372 @@
+{
+  "version": 1,
+  "country": "EG",
+  "notes": [
+    {
+      "id": "outlines.eg.chalk",
+      "countries": [
+        "EG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "EG": {
+          "type": "place",
+          "lat": 27.3,
+          "lon": 28.1
+        }
+      },
+      "text": {
+        "en": "Wind-blown sand carves white chalk into mushrooms and monuments."
+      },
+      "label": {
+        "en": "SCULPTED CHALK"
+      },
+      "body": {
+        "en": "The chalk is made from the shells of tiny sea creatures that lived in a shallow sea long ago. Grit carried by wind sandblasts it, and softer layers wear faster than hard ones, so the rock is carved into mushrooms, pillars and domes. Strong, steady winds do the work with almost no rain to interrupt."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/White_Desert_National_Park"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.eg.riftpeaks",
+      "countries": [
+        "EG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "EG": {
+          "type": "place",
+          "lat": 28.5,
+          "lon": 33.95
+        }
+      },
+      "text": {
+        "en": "A triangular block of ancient granite lifted between two rifts."
+      },
+      "label": {
+        "en": "RIFT PEAKS"
+      },
+      "body": {
+        "en": "Two rifts of the Red Sea fork around a block of the crust, which was raised into a rugged knot of granite peaks. The bare rock, with almost no soil, is more than half a billion years old. Occasional storms cut deep gorges, and snow can fall on the highest summits."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sinai_Peninsula",
+        "https://en.wikipedia.org/wiki/Red_Sea_Rift"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.eg.depression",
+      "countries": [
+        "EG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "EG": {
+          "type": "place",
+          "lat": 29.9,
+          "lon": 27.5
+        }
+      },
+      "text": {
+        "en": "Wind scoured a huge hollow far below sea level in the desert."
+      },
+      "label": {
+        "en": "WIND-CARVED PIT"
+      },
+      "body": {
+        "en": "Wind and the occasional water slowly removed soft rock until the floor sank toward the water table, ending up about 130 metres below sea level. The bottom is salt marsh and crusted flats, too soft and salty to cross or farm. Only the water table stopped the digging."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Qattara_Depression"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.eg.dunes",
+      "countries": [
+        "EG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "EG": {
+          "type": "place",
+          "lat": 26.0,
+          "lon": 26.0
+        }
+      },
+      "text": {
+        "en": "Sand piled into long parallel ridges that point along the wind."
+      },
+      "label": {
+        "en": "LINEAR DUNES"
+      },
+      "body": {
+        "en": "Steady winds blowing from one direction build dunes into straight ridges many kilometres long, parallel to the wind, with corridors of bare ground between them. Some ridges are over a hundred metres tall. They slowly creep across the desert, and that shifts tracks and buries old sites."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_Sand_Sea",
+        "https://en.wikipedia.org/wiki/Dune"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.eg.nile",
+      "countries": [
+        "EG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "EG": {
+          "type": "place",
+          "lat": 25.7,
+          "lon": 32.6
+        }
+      },
+      "text": {
+        "en": "A thin green strip of farmland runs through the desert beside one river."
+      },
+      "label": {
+        "en": "GREEN RIBBON"
+      },
+      "body": {
+        "en": "Almost no rain falls here, so the river is the country's lifeline. Its valley and delta hold nearly all the farmland and most of the people, while the desert on both sides stays empty. Floods once laid fresh silt each year; a great dam upstream now steadies the flow."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nile"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.eg.distantflood",
+      "countries": [
+        "EG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "EG": {
+          "type": "place",
+          "lat": 26.0,
+          "lon": 32.7
+        }
+      },
+      "text": {
+        "en": "The river's yearly flood came from rain that fell thousands of kilometres away."
+      },
+      "label": {
+        "en": "FLOOD FROM AFAR"
+      },
+      "body": {
+        "en": "The summer flood was fed by monsoon rain on highlands far to the south, not by rain here. It arrived at the driest time of year, leaving black silt in the fields. Planting and harvest followed it. The dam now holds that silt back, so farmers need fertilizer."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nile",
+        "https://en.wikipedia.org/wiki/Aswan_High_Dam"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.eg.delta",
+      "countries": [
+        "EG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "EG": {
+          "type": "place",
+          "lat": 30.6,
+          "lon": 31.0
+        }
+      },
+      "text": {
+        "en": "A river spreads into a flat fan, but without silt the fan is sinking."
+      },
+      "label": {
+        "en": "FAN OF SILT"
+      },
+      "body": {
+        "en": "Where the river meets the sea it slows and drops its silt, building a flat, triangular delta over thousands of years. The fertile ground holds a large share of the farmland. With the silt now held behind a dam, the delta sinks and the sea eats away its coast and salts the soil."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nile_Delta"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.eg.oasisdepression",
+      "countries": [
+        "EG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "EG": {
+          "type": "place",
+          "lat": 29.47,
+          "lon": 30.65
+        }
+      },
+      "text": {
+        "en": "A salty lake sits in a desert hollow, fed by a branch of the river."
+      },
+      "label": {
+        "en": "HOLLOW LAKE"
+      },
+      "body": {
+        "en": "A hollow in the desert lies below sea level, and a branch of the river feeds water into it. With no outlet, water evaporates and salts accumulate, so the lake has grown steadily saltier. The lake and the farmland around the hollow form a green island among bare desert."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Qarun",
+        "https://en.wikipedia.org/wiki/Faiyum_Oasis"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.eg.nubianaquifer",
+      "countries": [
+        "EG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "EG": {
+          "type": "place",
+          "lat": 25.4,
+          "lon": 30.5
+        }
+      },
+      "text": {
+        "en": "Oases survive on ancient water stored deep in sandstone."
+      },
+      "label": {
+        "en": "DEEP DESERT WATER"
+      },
+      "body": {
+        "en": "Under the desert lies one of the largest groundwater reserves on Earth, trapped in thick sandstone since wetter times. Wells and springs reach it, so oases dot the desert in low depressions. This water barely refills, so the more that is pumped out, the lower the levels go."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nubian_Aquifer_System"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.eg.whales",
+      "countries": [
+        "EG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "EG": {
+          "type": "place",
+          "lat": 29.27,
+          "lon": 30.04
+        }
+      },
+      "text": {
+        "en": "Fossil whales with tiny legs lie in the middle of a desert."
+      },
+      "label": {
+        "en": "DESERT WHALES"
+      },
+      "body": {
+        "en": "Around 40 million years ago a warm sea covered this land, and early whales swam in it. Some still had small hind limbs, which shows how whales evolved from land animals. Seabed sediments buried the skeletons, and later the sea withdrew, so they now lie exposed in dry, wind-cut hills."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wadi_El_Hitan",
+        "https://en.wikipedia.org/wiki/Basilosaurus"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.eg.fennec",
+      "countries": [
+        "EG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "EG": {
+          "type": "place",
+          "lat": 28.0,
+          "lon": 29.0
+        }
+      },
+      "text": {
+        "en": "A tiny fox sheds heat through huge ears and digs by night."
+      },
+      "label": {
+        "en": "RADIATOR EARS"
+      },
+      "body": {
+        "en": "In a desert with scorching days, this fox shelters in a burrow and hunts at night. Its oversized ears are full of blood vessels that let body heat escape, and also catch the faint sounds of insects moving beneath the sand. Furry feet protect it on hot sand."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fennec_fox"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.eg.flyway",
+      "countries": [
+        "EG"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "EG": {
+          "type": "place",
+          "lat": 30.0,
+          "lon": 33.0
+        }
+      },
+      "text": {
+        "en": "Migrating birds funnel through a narrow land route between two seas."
+      },
+      "label": {
+        "en": "BIRD BOTTLENECK"
+      },
+      "body": {
+        "en": "Large birds such as storks, pelicans and eagles ride rising warm air and cannot fly far over open water. On the route between Europe and Africa, they funnel through the narrow land bridges at the ends of the seas. Hundreds of thousands pass through each autumn and spring."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Birds_of_Egypt",
+        "https://en.wikipedia.org/wiki/Bird_migration"
+      ],
+      "review": "checked",
+      "version": 2
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "version": 1,
+  "country": "BE",
+  "notes": [
+    {
+      "id": "outlines.be.worn-plateau",
+      "countries": [
+        "BE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "BE": {
+          "type": "place",
+          "lat": 50.1,
+          "lon": 5.5
+        }
+      },
+      "text": {
+        "en": "Hard old rock, cut by deep valleys, makes a forested, thinly settled plateau"
+      },
+      "label": {
+        "en": "WORN PLATEAU"
+      },
+      "body": {
+        "en": "An old mountain chain was worn down into a plateau of hard rock and then slowly lifted. Rivers cut winding valleys into it as it rose.\n\nThe climate is cold and wet, and the soil is thin and acidic, so spruce forest covers much of it. It has far fewer people than the flat lands to the north."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ardennes"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.be.coal-belt",
+      "countries": [
+        "BE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "BE": {
+          "type": "place",
+          "lat": 50.45,
+          "lon": 4.75
+        }
+      },
+      "text": {
+        "en": "Coal from ancient swamp forests fed the continent's first industrial region."
+      },
+      "label": {
+        "en": "BURIED SWAMP FUEL"
+      },
+      "body": {
+        "en": "About 300 million years ago, this land was swamp forest. Layers of dead plants were buried and slowly turned to coal, and later folding tilted the seams so they reached the surface along one valley.\n\nEarly miners could reach them easily, and iron and steel works grew nearby. The cone-shaped slag heaps from mining still dot the landscape."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Coal",
+        "https://en.wikipedia.org/wiki/Sillon_industriel"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.be.tide-river",
+      "countries": [
+        "BE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "BE": {
+          "type": "place",
+          "lat": 51.1,
+          "lon": 4.25
+        }
+      },
+      "text": {
+        "en": "Ocean tides reach far up a flat river, so big ships can sail deep inland."
+      },
+      "label": {
+        "en": "TIDE ROAD"
+      },
+      "body": {
+        "en": "The land is so flat and low that the tide travels many kilometres up this river. Twice a day, the water rises and falls by several metres, even far from the sea.\n\nThat lets large ships reach a port deep inland. But it also means storm surges are a flood risk, and the river is lined with flood barriers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scheldt",
+        "https://en.wikipedia.org/wiki/Tide"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.be.deep-loops",
+      "countries": [
+        "BE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "BE": {
+          "type": "place",
+          "lat": 50.3,
+          "lon": 4.9
+        }
+      },
+      "text": {
+        "en": "A river cut winding gorges as the plateau slowly rose around it."
+      },
+      "label": {
+        "en": "DEEP LOOPS"
+      },
+      "body": {
+        "en": "This river was flowing across low ground when the plateau began to rise. It cut down as fast as the land lifted and kept its winding course, forming deep bends with steep rock walls.\n\nThe narrow valley floor limits farmland, so towns squeeze between cliffs and river."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Meuse",
+        "https://en.wikipedia.org/wiki/Entrenched_river"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.be.loess-plateau",
+      "countries": [
+        "BE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "BE": {
+          "type": "place",
+          "lat": 50.6,
+          "lon": 5.2
+        }
+      },
+      "text": {
+        "en": "Ice-age dust deposited deep, fertile soil that grows wheat and sugar beet."
+      },
+      "label": {
+        "en": "WIND-BLOWN SOIL"
+      },
+      "body": {
+        "en": "During the ice ages, cold winds blew fine dust from bare gravel plains and dropped it across the uplands as loess. It weathered into deep, fertile soil that holds water well.\n\nThe flat, rich plateau is some of the best arable land in the country."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Loess",
+        "https://en.wikipedia.org/wiki/Hesbaye"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.be.pine-heath",
+      "countries": [
+        "BE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "BE": {
+          "type": "place",
+          "lat": 51.2,
+          "lon": 5.2
+        }
+      },
+      "text": {
+        "en": "Poor sandy soil grew heath until pines were planted to prop up coal mines."
+      },
+      "label": {
+        "en": "PIT-PROP PINES"
+      },
+      "body": {
+        "en": "Sand deposited by ancient rivers makes poor, acid soil that was once heath and shifting dunes. Farmers could do little with it.\n\nWhen nearby coal mines needed timber to prop up their tunnels, pines were planted across it. Pine woods and heath now cover the region."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Campine",
+        "https://en.wikipedia.org/wiki/Heath_(habitat)"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

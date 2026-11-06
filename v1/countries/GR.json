@@ -1,0 +1,377 @@
+{
+  "version": 1,
+  "country": "GR",
+  "notes": [
+    {
+      "id": "outlines.gr.mountains",
+      "countries": [
+        "GR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "GR": {
+          "type": "place",
+          "lat": 39.7,
+          "lon": 21.5
+        }
+      },
+      "text": {
+        "en": "Mountains fill most of the land, leaving little flat ground for farms."
+      },
+      "label": {
+        "en": "ROCKY LAND"
+      },
+      "body": {
+        "en": "Two plates squeeze together here, folding and lifting limestone ranges that run down the mainland, while the sea fills the lower ground and breaks the rest into peninsulas and islands. Steep slopes and thin soil suit olives, vines and goats better than grain, and villages cluster in the few valleys and plains."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Greece",
+        "https://en.wikipedia.org/wiki/Pindus"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.gr.rift",
+      "countries": [
+        "GR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "GR": {
+          "type": "place",
+          "lat": 38.4,
+          "lon": 22.2
+        }
+      },
+      "text": {
+        "en": "Central parts of the land are being pulled apart, a few centimetres a year."
+      },
+      "label": {
+        "en": "CRACKING OPEN"
+      },
+      "body": {
+        "en": "As one plate dives beneath another to the south, the crust behind it stretches and splits. Blocks drop along faults, forming steep-sided gulfs and valleys, and the land widens by a centimetre or more each year. The same stretching makes this one of the most earthquake-prone parts of Europe."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gulf_of_Corinth",
+        "https://en.wikipedia.org/wiki/Hellenic_arc"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gr.plain",
+      "countries": [
+        "GR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "GR": {
+          "type": "place",
+          "lat": 39.6,
+          "lon": 22.2
+        }
+      },
+      "text": {
+        "en": "A flat basin ringed by mountains is the largest plain in the land."
+      },
+      "label": {
+        "en": "ONE BIG PLAIN"
+      },
+      "body": {
+        "en": "Mountains closed in a broad basin that once held a lake and filled with river silt over a very long time. The silt made flat, fertile ground, and drainage turned the wetland into fields of wheat and cotton. Steep slopes surround the plain on every side, so it is a rare place for big farms."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thessaly"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gr.pillars",
+      "countries": [
+        "GR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "GR": {
+          "type": "place",
+          "lat": 39.72,
+          "lon": 21.63
+        }
+      },
+      "text": {
+        "en": "Rivers once dumped gravel in a lake; now it stands as towering rock columns."
+      },
+      "label": {
+        "en": "STONE PILLARS"
+      },
+      "body": {
+        "en": "Some 30 million years ago, rivers poured gravel into a delta that cemented into a thick layer of conglomerate. Earth movements lifted it and cracked it, and rain, frost and wind carved the cracks into tall, sheer pillars. Their isolation made them natural refuges, and people later built on top of them."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Meteora",
+        "https://en.wikipedia.org/wiki/Conglomerate_(geology)"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gr.vanishing",
+      "countries": [
+        "GR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "GR": {
+          "type": "place",
+          "lat": 39.6,
+          "lon": 21.2
+        }
+      },
+      "text": {
+        "en": "Rivers vanish into holes in the limestone and reappear miles away."
+      },
+      "label": {
+        "en": "VANISHING STREAMS"
+      },
+      "body": {
+        "en": "Limestone dissolves in slightly acidic rain, forming cracks, sinkholes and caves. Streams drop into these holes and flow underground before bursting out at large springs. Flat basins in the limestone often flood in winter, because water can only escape down these natural drains; in summer the same basins dry out."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Karst",
+        "https://en.wikipedia.org/wiki/Swallow_hole"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gr.dry-rivers",
+      "countries": [
+        "GR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "GR": {
+          "type": "place",
+          "lat": 38.8,
+          "lon": 22.0
+        }
+      },
+      "text": {
+        "en": "Winter rain fills the riverbeds, then summer leaves many of them bare."
+      },
+      "label": {
+        "en": "SUMMER-DRY RIVERS"
+      },
+      "body": {
+        "en": "A Mediterranean climate brings most rain in winter and almost none in summer. Short, steep streams roar after storms, carrying gravel to the plains, then dry to a trickle or to stones. Farmers therefore irrigate from wells and reservoirs, and long gravel-filled riverbeds scar the hills."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mediterranean_climate",
+        "https://en.wikipedia.org/wiki/Intermittent_river"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gr.rain-west-east",
+      "countries": [
+        "GR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "GR": {
+          "type": "place",
+          "lat": 39.3,
+          "lon": 21.6
+        }
+      },
+      "text": {
+        "en": "Mountains soak up the rain from the west and leave the east parched."
+      },
+      "label": {
+        "en": "RAIN SHADOW"
+      },
+      "body": {
+        "en": "Moist air from the western sea is lifted by the high ranges and drops one to two metres of rain on the western side. By the time it crosses, little is left, and the eastern lowlands receive less than half as much, some under 400 millimetres. As a result, the west is green and wooded while the east is drier and more open."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rain_shadow",
+        "https://en.wikipedia.org/wiki/Climate_of_Greece"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gr.maquis",
+      "countries": [
+        "GR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "GR": {
+          "type": "place",
+          "lat": 37.6,
+          "lon": 22.3
+        }
+      },
+      "text": {
+        "en": "Dry summers make a thicket of tough, oily shrubs that burn and regrow."
+      },
+      "label": {
+        "en": "FIRE-READY SCRUB"
+      },
+      "body": {
+        "en": "Hot, dry summers favour small leathery leaves that lose little water and contain oils that smell of herbs. Those oils also burn fiercely. Fire sweeps the thickets often, and many shrubs resprout from their roots or drop seeds that germinate after fire. Grazing, clearing and a warming climate increase the risk."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maquis_shrubland",
+        "https://en.wikipedia.org/wiki/Garrigue"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.gr.endemics",
+      "countries": [
+        "GR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "GR": {
+          "type": "place",
+          "lat": 39.9,
+          "lon": 21.4
+        }
+      },
+      "text": {
+        "en": "Isolated peaks and islands grew plants that grow nowhere else."
+      },
+      "label": {
+        "en": "PLANT REFUGES"
+      },
+      "body": {
+        "en": "Ice-age cold pushed plants to the south, and warming left them stranded on high peaks and separated islands. Isolation lets each population change on its own, so over a thousand plant types are found only in the country. Rugged ground and many islands mean the effect repeats in hundreds of separate pockets."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Flora_of_Greece",
+        "https://en.wikipedia.org/wiki/Endemism"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gr.olives",
+      "countries": [
+        "GR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "GR": {
+          "type": "place",
+          "lat": 38.5,
+          "lon": 22.5
+        }
+      },
+      "text": {
+        "en": "Olive trees survive the summer drought and can live for centuries."
+      },
+      "label": {
+        "en": "DEEP-ROOT TREES"
+      },
+      "body": {
+        "en": "Olive trees have deep roots, narrow silvery leaves that hold water, and thick trunks that regrow after frost or fire. They tolerate thin, stony slopes where little else will grow. That is why groves cover hillsides across the region, and some trees are many centuries old."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Olive",
+        "https://en.wikipedia.org/wiki/Agriculture_in_Greece"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.gr.wolves",
+      "countries": [
+        "GR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "GR": {
+          "type": "place",
+          "lat": 40.2,
+          "lon": 21.0
+        }
+      },
+      "text": {
+        "en": "Steep, remote forest still shelters bears and wolves."
+      },
+      "label": {
+        "en": "LAST WILD HIGHLANDS"
+      },
+      "body": {
+        "en": "The northern mountains are rugged, forested and thinly settled, so brown bears and grey wolves survive where they vanished from lowlands. These mountains connect with ranges in neighbouring lands, letting animals move between them. Shepherds there still use large guard dogs to protect their flocks."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Brown_bear",
+        "https://en.wikipedia.org/wiki/Wildlife_of_Greece"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.gr.hot-springs",
+      "countries": [
+        "GR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "GR": {
+          "type": "place",
+          "lat": 38.85,
+          "lon": 22.25
+        }
+      },
+      "text": {
+        "en": "Rain sinks deep along cracks in the crust, warms up and rises as hot springs."
+      },
+      "label": {
+        "en": "FAULT SPRINGS"
+      },
+      "body": {
+        "en": "Active faults cut deep through the rock here. Rainwater seeps down them, is heated by the warm crust, then rises along the cracks as hot mineral springs. Because the land keeps being pulled apart, the cracks stay open, and baths have been fed from the same springs for thousands of years."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hot_spring",
+        "https://en.wikipedia.org/wiki/Renewable_energy_in_Greece"
+      ],
+      "review": "checked",
+      "version": 2
+    }
+  ]
+}

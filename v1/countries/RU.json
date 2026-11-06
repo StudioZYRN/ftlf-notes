@@ -1,0 +1,402 @@
+{
+  "version": 1,
+  "country": "RU",
+  "notes": [
+    {
+      "id": "outlines.ru.oldrange",
+      "countries": [
+        "RU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "RU": {
+          "type": "place",
+          "lat": 57.5,
+          "lon": 59.8
+        }
+      },
+      "text": {
+        "en": "Two ancient landmasses collided here and the mountains have eroded low."
+      },
+      "label": {
+        "en": "WORN SUTURE"
+      },
+      "body": {
+        "en": "About 300 million years ago two great landmasses collided and pushed up a mountain chain. Time has worn it low, with rounded peaks and wide passes, but the old crushed rocks are packed with iron, copper, gold and gemstones. The range marks the line where two blocks of crust were welded into one continent."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ural_Mountains"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ru.swamplowland",
+      "countries": [
+        "RU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "RU": {
+          "type": "place",
+          "lat": 61.0,
+          "lon": 72.0
+        }
+      },
+      "text": {
+        "en": "A lowland so flat that spring melt floods an area bigger than a country."
+      },
+      "label": {
+        "en": "FLAT AND FLOODED"
+      },
+      "body": {
+        "en": "The land is almost level for over a thousand kilometres, and its rivers flow north toward the Arctic. In spring the southern stretches thaw first, but the northern stretches are still frozen, so meltwater has nowhere to go and spills across the land. The huge swampy area holds oil and gas below."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/West_Siberian_Plain"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ru.volcanobelt",
+      "countries": [
+        "RU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "RU": {
+          "type": "place",
+          "lat": 56.06,
+          "lon": 160.64
+        }
+      },
+      "text": {
+        "en": "A peninsula strung with volcanoes where an ocean plate dives under."
+      },
+      "label": {
+        "en": "PACIFIC FIRE"
+      },
+      "body": {
+        "en": "The Pacific plate sinks under this peninsula, and the melting rock feeds a line of more than a hundred volcanoes, dozens still active. One of them is the tallest active volcano in Eurasia, well over 4,500 metres, and it erupts often. The region also has geysers and hot springs."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Klyuchevskaya_Sopka",
+        "https://en.wikipedia.org/wiki/Volcanoes_of_Kamchatka"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ru.traps",
+      "countries": [
+        "RU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "RU": {
+          "type": "place",
+          "lat": 68.5,
+          "lon": 95.0
+        }
+      },
+      "text": {
+        "en": "A flood of lava covered a vast area and cooled in stacked steps."
+      },
+      "label": {
+        "en": "FROZEN LAVA FLOOD"
+      },
+      "body": {
+        "en": "About 250 million years ago, vast eruptions covered a huge area with basalt several kilometres thick. The gases may have helped trigger the largest mass extinction known. Rivers have since cut the stacked lava into stepped canyons, and the molten rock carried nickel and copper that are now mined."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Siberian_Traps",
+        "https://en.wikipedia.org/wiki/Putorana_Plateau"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ru.permafrost",
+      "countries": [
+        "RU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "RU": {
+          "type": "place",
+          "lat": 66.0,
+          "lon": 125.0
+        }
+      },
+      "text": {
+        "en": "Ground stays frozen year-round, and warming makes it sink."
+      },
+      "label": {
+        "en": "ALWAYS-FROZEN GROUND"
+      },
+      "body": {
+        "en": "Where winters are extreme, ground stays frozen far below the surface, and over half the country sits on it. Buildings must stand on stilts, or their warmth would melt the soil and tilt them. As the climate warms, thawing ground collapses and releases greenhouse gases."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Permafrost",
+        "https://en.wikipedia.org/wiki/Thermokarst"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ru.deeprift",
+      "countries": [
+        "RU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "RU": {
+          "type": "place",
+          "lat": 53.5,
+          "lon": 108.2
+        }
+      },
+      "text": {
+        "en": "The deepest lake on Earth sits in a crack where the crust pulls apart."
+      },
+      "label": {
+        "en": "TORN-OPEN LAKE"
+      },
+      "body": {
+        "en": "The crust is slowly stretching apart here, and the gap has sunk to over 1,600 metres below the surface. The lake holds around a fifth of the world's unfrozen fresh water and is clear because of its depth. It also supports seals and many species found nowhere else."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Baikal"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ru.iceroads",
+      "countries": [
+        "RU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "RU": {
+          "type": "place",
+          "lat": 62.0,
+          "lon": 129.7
+        }
+      },
+      "text": {
+        "en": "In deep winter frozen rivers become roads for trucks."
+      },
+      "label": {
+        "en": "ICE HIGHWAYS"
+      },
+      "body": {
+        "en": "Winter temperatures far below freezing freeze the rivers solid. With few roads over a huge area, trucks drive over thick ice, which also links villages cut off by water the rest of the year. As the climate warms, the season when the ice holds is getting shorter."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ice_road"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ru.glaciallakes",
+      "countries": [
+        "RU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "RU": {
+          "type": "place",
+          "lat": 61.0,
+          "lon": 31.5
+        }
+      },
+      "text": {
+        "en": "Ice sheets scraped hollows in hard rock, and thousands of lakes filled them."
+      },
+      "label": {
+        "en": "SCOURED BASINS"
+      },
+      "body": {
+        "en": "Ice sheets once covered this region and ground across hard rock, scooping out basins. When they melted the basins filled, leaving the biggest lake in Europe and thousands of smaller ones. Rivers between them are short and linked by rapids, because the land is so recently shaped."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Ladoga",
+        "https://en.wikipedia.org/wiki/Glacial_lake"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ru.taiga",
+      "countries": [
+        "RU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "RU": {
+          "type": "place",
+          "lat": 60.0,
+          "lon": 95.0
+        }
+      },
+      "text": {
+        "en": "Across the cold north, conifer forest stretches for thousands of kilometres."
+      },
+      "label": {
+        "en": "COLD FOREST"
+      },
+      "body": {
+        "en": "Winters are long and bitter and summers short, so hardy conifers such as spruce, larch and pine outcompete other trees. The forest stores huge amounts of carbon in its wood and in cold, waterlogged soil."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taiga"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.ru.tundra",
+      "countries": [
+        "RU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "RU": {
+          "type": "place",
+          "lat": 68.0,
+          "lon": 71.0
+        }
+      },
+      "text": {
+        "en": "Frozen soil below stops roots, so only moss and low shrubs grow."
+      },
+      "label": {
+        "en": "TREELESS PLAIN"
+      },
+      "body": {
+        "en": "Summer is short and cool, and the ground just below the surface never thaws. Roots cannot go deep, so trees give way to mosses, lichens and dwarf shrubs. Reindeer feed on lichen and migrate hundreds of kilometres, and meltwater pools across the flat ground to form swarms of mosquitoes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tundra"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ru.blackearth",
+      "countries": [
+        "RU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "RU": {
+          "type": "place",
+          "lat": 51.5,
+          "lon": 40.0
+        }
+      },
+      "text": {
+        "en": "Deep-rooted grass built soil so rich in humus that it is nearly black."
+      },
+      "label": {
+        "en": "BLACK EARTH"
+      },
+      "body": {
+        "en": "For thousands of years prairie grasses grew and died here, and their deep roots added humus to the soil. Cool, dry winters slowed decay, so the dark layer built up to a metre or more. It is among the most fertile farmland in the world, and most of the original grassland is now ploughed."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chernozem"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ru.mixedforest",
+      "countries": [
+        "RU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "RU": {
+          "type": "place",
+          "lat": 45.6,
+          "lon": 136.2
+        }
+      },
+      "text": {
+        "en": "Northern and southern species meet in one forest, tigers among them."
+      },
+      "label": {
+        "en": "CROSSING WILDLIFE"
+      },
+      "body": {
+        "en": "In this mountain forest, cold-loving northern trees such as spruce grow beside southern species such as oak and vines. The coast sits where cold northern and warm southern climates overlap, so species of both live together. The mix supports the largest cat of its kind, and leopards too."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sikhote-Alin",
+        "https://en.wikipedia.org/wiki/Siberian_tiger"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ru.mammoth",
+      "countries": [
+        "RU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "RU": {
+          "type": "place",
+          "lat": 68.5,
+          "lon": 140.0
+        }
+      },
+      "text": {
+        "en": "Permafrost keeps ice-age animals so well preserved that fur and flesh survive."
+      },
+      "label": {
+        "en": "FROZEN ARCHIVE"
+      },
+      "body": {
+        "en": "The ground has stayed frozen for tens of thousands of years, and animals that died in it were preserved with skin, hair and stomach contents. Mammoths, woolly rhinoceroses and cave lions have been found, which tells scientists how ice-age life lived and died. Thawing now exposes more of them."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Woolly_mammoth",
+        "https://en.wikipedia.org/wiki/Permafrost"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

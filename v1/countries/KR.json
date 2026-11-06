@@ -1,0 +1,249 @@
+{
+  "version": 1,
+  "country": "KR",
+  "notes": [
+    {
+      "id": "outlines.kr.tilted",
+      "countries": [
+        "KR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "KR": {
+          "type": "place",
+          "lat": 37.3,
+          "lon": 128.9
+        }
+      },
+      "text": {
+        "en": "A mountain spine runs close to one coast, with steep and gentle sides."
+      },
+      "label": {
+        "en": "TILTED RANGE"
+      },
+      "body": {
+        "en": "A long range runs near the eastern coast, where the land was tilted upward. The east side drops steeply to the sea, and the gentle west side slopes down in long ridges and valleys. Rivers therefore flow west and south, and most farmland and people lie in the broad western lowlands."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taebaek_Mountains"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.kr.lavadome",
+      "countries": [
+        "KR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "KR": {
+          "type": "place",
+          "lat": 33.38,
+          "lon": 126.55
+        }
+      },
+      "text": {
+        "en": "An island built entirely from lava, crowned by a lake-filled crater."
+      },
+      "label": {
+        "en": "ISLAND VOLCANO"
+      },
+      "body": {
+        "en": "Eruptions piled basalt lava on the seabed until it rose as a broad shield volcano with a lake in its crater. Lava flowing through tunnels hardened to leave long caves, among the longest lava tubes known. The dark volcanic rock is also what islanders used to build walls against the wind."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hallasan",
+        "https://en.wikipedia.org/wiki/Manjanggul"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.kr.cones",
+      "countries": [
+        "KR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "KR": {
+          "type": "place",
+          "lat": 33.43,
+          "lon": 126.7
+        }
+      },
+      "text": {
+        "en": "Hundreds of small cones dot the slopes of one big volcano."
+      },
+      "label": {
+        "en": "SIDE CONES"
+      },
+      "body": {
+        "en": "Besides the main eruption site, magma broke out on the volcano's flanks and built hundreds of small cinder cones, each of which formed in a single short eruption. Grass and heather now cover many, and they serve as lookouts and pasture. The scatter shows how long the volcano kept erupting."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Oreum",
+        "https://en.wikipedia.org/wiki/Jeju_Island"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.kr.shape",
+      "countries": [
+        "KR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "shape",
+      "anchors": {
+        "KR": {
+          "type": "whole"
+        }
+      },
+      "text": {
+        "en": "The east coast is steep and straight; the west is ragged with islands."
+      },
+      "label": {
+        "en": "LOPSIDED PENINSULA"
+      },
+      "body": {
+        "en": "Because the range is tilted, the east coast drops quickly into deep water and is nearly straight. On the west, the land slopes gently into a shallow sea with huge tides, and the sea drowned river valleys and left thousands of islands and wide mud flats. Two coasts of one peninsula look nothing alike."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_South_Korea",
+        "https://en.wikipedia.org/wiki/Korean_Peninsula"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.kr.summerrain",
+      "countries": [
+        "KR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "KR": {
+          "type": "place",
+          "lat": 36.45,
+          "lon": 127.5
+        }
+      },
+      "text": {
+        "en": "Most of the year's rain falls in a few summer months."
+      },
+      "label": {
+        "en": "SUMMER FLOODS"
+      },
+      "body": {
+        "en": "Monsoon rain and typhoons deliver more than half the year's rain between June and September. Rivers run high then and nearly dry out in winter, so reservoirs and dams store the summer water for rice fields and cities. The wet-dry swing is why so many reservoirs dot the countryside."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_South_Korea",
+        "https://en.wikipedia.org/wiki/East_Asian_rainy_season"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.kr.porousisland",
+      "countries": [
+        "KR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "KR": {
+          "type": "place",
+          "lat": 33.4,
+          "lon": 126.5
+        }
+      },
+      "text": {
+        "en": "Rain sinks straight into porous volcanic rock, leaving dry streambeds."
+      },
+      "label": {
+        "en": "NO RIVERS RUN"
+      },
+      "body": {
+        "en": "Lava rock is full of cracks and holes, so heavy rain soaks in instead of running off. Most streams on the island are dry except after storms. Springs at the foot of the slopes and groundwater supply nearly all of the drinking water."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jeju_Island"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.kr.autumn",
+      "countries": [
+        "KR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "KR": {
+          "type": "place",
+          "lat": 36.5,
+          "lon": 128.0
+        }
+      },
+      "text": {
+        "en": "Cold, dry autumns turn broadleaf forest to red and gold."
+      },
+      "label": {
+        "en": "RED LEAVES"
+      },
+      "body": {
+        "en": "Winters are cold and dry, with strong contrast to the humid summers. Maples and other deciduous trees stop making green chlorophyll as days shorten and nights cool, which reveals red and yellow pigments. Clear, cool autumn weather makes the colours more intense."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Autumn_leaf_color"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.kr.verticalzones",
+      "countries": [
+        "KR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "KR": {
+          "type": "place",
+          "lat": 33.36,
+          "lon": 126.55
+        }
+      },
+      "text": {
+        "en": "Subtropical to alpine plants stack up one mountain."
+      },
+      "label": {
+        "en": "PLANT LAYERS"
+      },
+      "body": {
+        "en": "Climbing a single volcano passes through bands of vegetation that elsewhere would take hundreds of kilometres of latitude. Evergreens grow on the warm lower slopes, broadleaf forest higher up and low alpine shrubs near the summit. Each band sits where the temperature suits it."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hallasan",
+        "https://en.wikipedia.org/wiki/Altitudinal_zonation"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

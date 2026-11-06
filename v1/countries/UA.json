@@ -1,0 +1,376 @@
+{
+  "version": 1,
+  "country": "UA",
+  "notes": [
+    {
+      "id": "outlines.ua.carpathians",
+      "countries": [
+        "UA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "UA": {
+          "type": "place",
+          "lat": 48.7,
+          "lon": 24.4
+        }
+      },
+      "text": {
+        "en": "A long arc of rounded, forested mountains closes off the west."
+      },
+      "label": {
+        "en": "FOLDED FOREST RIDGES"
+      },
+      "body": {
+        "en": "These ridges were made as an old seabed was squeezed and folded upward. Layers of sandstone and shale weather into long, smooth crests rather than sharp peaks, and forests cover them. The ranges block moist westerly air, which gives them heavy rain and snow, and their streams feed rivers on both sides."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carpathian_Mountains",
+        "https://en.wikipedia.org/wiki/Flysch"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ua.gullies",
+      "countries": [
+        "UA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "UA": {
+          "type": "place",
+          "lat": 49.5,
+          "lon": 31.0
+        }
+      },
+      "text": {
+        "en": "Soft windblown dust is easy for rain to cut into deep ravines."
+      },
+      "label": {
+        "en": "GULLY LAND"
+      },
+      "body": {
+        "en": "The upland west of the great river is capped with loess, a fine, crumbly dust that holds together when dry but dissolves when wet. Heavy rain and snowmelt cut it into steep gullies and ravines, which grow when fields are ploughed down the slope. Erosion eats farmland, so farmers terrace and plant strips of trees to slow it."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Loess",
+        "https://en.wikipedia.org/wiki/Gully_erosion"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ua.shield",
+      "countries": [
+        "UA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "UA": {
+          "type": "place",
+          "lat": 48.0,
+          "lon": 33.3
+        }
+      },
+      "text": {
+        "en": "Rock billions of years old lies close to the surface, rich in iron."
+      },
+      "label": {
+        "en": "ANCIENT IRON"
+      },
+      "body": {
+        "en": "A broad shield of hard crystalline rock, among the oldest on Earth, lies just below the surface here. It contains banded iron formations laid down on ancient sea floors, then folded and hardened. Mining those beds turned the area into a steel-making region, and where the shield pokes through, granite shows in river valleys."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ukrainian_Shield",
+        "https://en.wikipedia.org/wiki/Banded_iron_formation"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ua.steppe-plain",
+      "countries": [
+        "UA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "UA": {
+          "type": "place",
+          "lat": 47.5,
+          "lon": 35.0
+        }
+      },
+      "text": {
+        "en": "Hundreds of kilometres of level plain slope gently toward the sea."
+      },
+      "label": {
+        "en": "ENDLESS FLAT"
+      },
+      "body": {
+        "en": "A thin layer of young sediment covers old rock in the south, and the surface hardly rises or falls. With no hills to stop it, the wind blows across freely, and with little rainfall this region is a grass-covered steppe. The sameness made long-distance farming simple, but dry winds and drought threaten crops."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pontic–Caspian_steppe",
+        "https://en.wikipedia.org/wiki/Black_Sea_Lowland"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ua.dammed-river",
+      "countries": [
+        "UA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "UA": {
+          "type": "place",
+          "lat": 49.7,
+          "lon": 31.5
+        }
+      },
+      "text": {
+        "en": "One great river was turned into a chain of lakes to make power."
+      },
+      "label": {
+        "en": "RIVER STAIRS"
+      },
+      "body": {
+        "en": "The river crosses the country from north to south on a gentle slope, collecting meltwater from a large plain. Since the mid-20th century, a series of dams has turned much of its length into a string of long reservoirs. They produce power, store irrigation water and hold up barges, and they drowned many floodplain meadows."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dnieper",
+        "https://en.wikipedia.org/wiki/Dnieper_Hydroelectric_Station"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ua.marshes",
+      "countries": [
+        "UA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "UA": {
+          "type": "place",
+          "lat": 51.5,
+          "lon": 28.5
+        }
+      },
+      "text": {
+        "en": "Sandy lowland with no slope cannot drain, so it floods and becomes bog."
+      },
+      "label": {
+        "en": "FLAT WET LAND"
+      },
+      "body": {
+        "en": "Meltwater from the ice sheet laid sand over a flat plain in the north. Rivers there have almost no slope and meander slowly, so every spring they spill across the lowland and soak it. Peat bogs, alder swamps and meadows form a mosaic, and the poor sandy soil is better suited to forest than crops."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Polesia",
+        "https://en.wikipedia.org/wiki/Pripet_Marshes"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ua.flashy-headwaters",
+      "countries": [
+        "UA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "UA": {
+          "type": "place",
+          "lat": 48.3,
+          "lon": 23.8
+        }
+      },
+      "text": {
+        "en": "Mountain streams swell fast, and floods run down to the plain."
+      },
+      "label": {
+        "en": "FLASHY HEADWATERS"
+      },
+      "body": {
+        "en": "Heavy rain and snowmelt on steep, forested slopes pour into narrow valleys with a short path to the lowland. Rivers rise by metres in hours, and the flood wave follows downstream into one of Europe's flattest basins. Deforestation on the slopes makes it worse, since bare ground holds less water."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tisza",
+        "https://en.wikipedia.org/wiki/Flash_flood"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ua.canyon",
+      "countries": [
+        "UA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "UA": {
+          "type": "place",
+          "lat": 48.6,
+          "lon": 26.3
+        }
+      },
+      "text": {
+        "en": "As the plateau rose, a winding river sliced a deep canyon into it."
+      },
+      "label": {
+        "en": "CUT-DOWN CANYON"
+      },
+      "body": {
+        "en": "The land here was slowly lifted, and the river kept cutting down in the same winding course instead of changing path. This produced a deep canyon with meanders, whose limestone walls rise 100 metres or more above the water. The canyon floor is milder and shaded, so it shelters plants that elsewhere need a very different climate."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dniester",
+        "https://en.wikipedia.org/wiki/Incised_meander"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ua.blacksoil",
+      "countries": [
+        "UA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "UA": {
+          "type": "place",
+          "lat": 49.0,
+          "lon": 32.0
+        }
+      },
+      "text": {
+        "en": "Deep, dark soil built under grassland makes very rich farmland."
+      },
+      "label": {
+        "en": "BLACK SOIL"
+      },
+      "body": {
+        "en": "Over ages, grass roots and dead plants built a thick, dark layer rich in humus. With flat land and enough rain, the grassland steppe became wheat and sunflower country. The soil layer can be a metre or more deep, and it feeds many people beyond its borders, though erosion and ploughing wear it down."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chernozem"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.ua.three-belts",
+      "countries": [
+        "UA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "UA": {
+          "type": "place",
+          "lat": 49.9,
+          "lon": 33.5
+        }
+      },
+      "text": {
+        "en": "Moving south you cross forest, then wooded grassland, then open steppe."
+      },
+      "label": {
+        "en": "THREE GREEN BELTS"
+      },
+      "body": {
+        "en": "Rainfall falls and summers get hotter from north to south. Forest needs enough water to outgrow grass, so it thins to patches among grassland in the middle, then gives way to open steppe. The belts run roughly east-west across the plain, and nearly all the original vegetation has since been ploughed."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Forest_steppe",
+        "https://en.wikipedia.org/wiki/Steppe"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ua.wild-steppe",
+      "countries": [
+        "UA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "UA": {
+          "type": "place",
+          "lat": 46.6,
+          "lon": 33.5
+        }
+      },
+      "text": {
+        "en": "Almost all steppe has been ploughed, but tiny patches were never turned."
+      },
+      "label": {
+        "en": "LAST WILD GRASS"
+      },
+      "body": {
+        "en": "The deep soil that makes steppe good farmland means nearly all of it has been ploughed. A few areas, kept as reserves, still hold native feather grass and tulips. Wild horses from central Asia live on one of them, a glimpse of what the open plain once looked like."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Askania-Nova",
+        "https://en.wikipedia.org/wiki/Steppe"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ua.beech",
+      "countries": [
+        "UA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "UA": {
+          "type": "place",
+          "lat": 48.4,
+          "lon": 23.6
+        }
+      },
+      "text": {
+        "en": "Beech spread north from small refuges after the ice age."
+      },
+      "label": {
+        "en": "ANCIENT BEECH"
+      },
+      "body": {
+        "en": "During the ice ages, beech survived in a few warmer pockets in the south. As the climate warmed it spread north and west, and on damp mountain slopes it formed dense, shady forests that were rarely cut. Some of the least disturbed stands are now protected as a shared heritage site across several countries."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ancient_and_Primeval_Beech_Forests_of_the_Carpathians_and_Other_Regions_of_Europe"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

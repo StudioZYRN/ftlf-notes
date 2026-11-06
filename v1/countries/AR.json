@@ -1,0 +1,403 @@
+{
+  "version": 1,
+  "country": "AR",
+  "notes": [
+    {
+      "id": "outlines.ar.highpeak",
+      "countries": [
+        "AR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AR": {
+          "type": "place",
+          "lat": -32.75,
+          "lon": -69.6
+        }
+      },
+      "text": {
+        "en": "The tallest peak outside Asia is folded rock, not a volcano."
+      },
+      "label": {
+        "en": "UNERUPTED GIANT"
+      },
+      "body": {
+        "en": "Where the ocean plate dives at a shallow angle, no wedge of hot mantle sits above it, so volcanoes stop for hundreds of kilometres. Squeezing makes up for it: the crust folds and thickens until it stands almost 7,000 m high.\n\nThe summit is ancient layered rock pushed up by the squeeze. Volcanoes stand again only where the plate dips more steeply."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aconcagua",
+        "https://en.wikipedia.org/wiki/Flat-slab_subduction"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ar.salares",
+      "countries": [
+        "AR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AR": {
+          "type": "place",
+          "lat": -23.6,
+          "lon": -65.9
+        }
+      },
+      "text": {
+        "en": "High basins with no outlet dry out and leave white salt crusts."
+      },
+      "label": {
+        "en": "SALT PANS"
+      },
+      "body": {
+        "en": "Between the Andes' ranges the plateau cradles basins that no river leaves. Streams and snowmelt run in, the thin dry air evaporates the water, and the salts stay behind as white flats.\n\nBrines under the crust hold lithium, which is why this high desert now draws miners and battery makers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Salar",
+        "https://en.wikipedia.org/wiki/Lithium_Triangle"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ar.stranded-ranges",
+      "countries": [
+        "AR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AR": {
+          "type": "place",
+          "lat": -31.5,
+          "lon": -64.5
+        }
+      },
+      "text": {
+        "en": "Blocks of old rock rise from the plain, far inland from the trench."
+      },
+      "label": {
+        "en": "STRANDED RANGES"
+      },
+      "body": {
+        "en": "Where the diving ocean plate flattens out, it drags on the underside of the continent hundreds of kilometres inland. The squeeze breaks the crust along faults and tilts blocks of old rock upward, so ranges stand alone on the plain instead of forming one chain.\n\nRivers from these blocks feed the farms and towns around their feet."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sierras_Pampeanas"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ar.back-arc-cones",
+      "countries": [
+        "AR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AR": {
+          "type": "place",
+          "lat": -36.4,
+          "lon": -69.2
+        }
+      },
+      "text": {
+        "en": "Hundreds of small volcanoes dot a plain far east of the main range."
+      },
+      "label": {
+        "en": "BACK-ARC CONES"
+      },
+      "body": {
+        "en": "Far behind the main range, where the sinking plate steepens again, magma finds a way up through thinned crust. The result is a field of more than 800 small cones and lava flows, with dark basalt spread over pale steppe.\n\nMost are small cinder cones; a few are broad shield volcanoes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pay%C3%BAn_Matr%C3%BA"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.ar.muddy-funnel",
+      "countries": [
+        "AR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AR": {
+          "type": "place",
+          "lat": -32.5,
+          "lon": -60.6
+        }
+      },
+      "text": {
+        "en": "Great rivers meet in a funnel so wide it was first mistaken for a sea."
+      },
+      "label": {
+        "en": "MUDDY FUNNEL"
+      },
+      "body": {
+        "en": "Rivers draining much of the continent's south-centre gather into one muddy estuary nearly 200 km wide at its mouth. The first sailors to reach it took it for a sea and called it the Sweet Sea.\n\nIts silt keeps building shallow banks, so big ships must follow dredged channels."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/R%C3%ADo_de_la_Plata",
+        "https://en.wikipedia.org/wiki/Paran%C3%A1_River"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ar.glacier-lakes",
+      "countries": [
+        "AR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AR": {
+          "type": "place",
+          "lat": -41.1,
+          "lon": -71.4
+        }
+      },
+      "text": {
+        "en": "Long lakes fill valleys that ice dug out and rubble dammed."
+      },
+      "label": {
+        "en": "GLACIER-CARVED LAKES"
+      },
+      "body": {
+        "en": "During the ice ages glaciers flowed east out of the mountains and gouged deep valleys. When the ice melted, ridges of rubble it had pushed ahead of itself held the water in, leaving long, deep lakes at the foot of the range.\n\nTheir cold, clear water and steep shores now draw hikers and anglers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nahuel_Huapi_Lake",
+        "https://en.wikipedia.org/wiki/Moraine"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ar.salt-sea",
+      "countries": [
+        "AR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AR": {
+          "type": "place",
+          "lat": -30.7,
+          "lon": -62.6
+        }
+      },
+      "text": {
+        "en": "A lake with no exit swells and shrinks over decades of wet and dry."
+      },
+      "label": {
+        "en": "EXITLESS SALT SEA"
+      },
+      "body": {
+        "en": "Rivers from nearby ranges run into a shallow basin with no outflow. Evaporation leaves it salty, and its level follows the rain: after wet decades it spread and flooded a lakeside town, and in dry spells it pulled back and left salt crusts.\n\nFlamingos and other waterbirds feed in its shallows."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mar_Chiquita_Lake"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ar.floating-swamp",
+      "countries": [
+        "AR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AR": {
+          "type": "place",
+          "lat": -28.5,
+          "lon": -57.2
+        }
+      },
+      "text": {
+        "en": "A flat old river bed fills with rain and clogs with floating islands."
+      },
+      "label": {
+        "en": "FLOATING SWAMP"
+      },
+      "body": {
+        "en": "A once-active river channel left a shallow, almost level basin where rain has nowhere to drain. Water fills it across thousands of square kilometres, and mats of roots and plants form floating islands that drift with the wind.\n\nCapybaras, caimans and marsh deer thrive in the slow, still water."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ibera_Wetlands"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ar.melt-oases",
+      "countries": [
+        "AR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AR": {
+          "type": "place",
+          "lat": -33.0,
+          "lon": -68.5
+        }
+      },
+      "text": {
+        "en": "Rivers of mountain snowmelt turn desert plains into vineyards."
+      },
+      "label": {
+        "en": "MELT OASES"
+      },
+      "body": {
+        "en": "Almost no rain reaches these western plains, but snow piles up on the range above. In spring the melt runs down in rivers, and canals built centuries ago spread it over the dry ground.\n\nGreen strips of vineyards and orchards sit in a desert, and when a snowy winter fails, so does the water."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cuyo",
+        "https://en.wikipedia.org/wiki/Irrigation"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ar.pampas",
+      "countries": [
+        "AR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AR": {
+          "type": "place",
+          "lat": -34.5,
+          "lon": -61.5
+        }
+      },
+      "text": {
+        "en": "Flat, deep-soiled grassland with steady rain feeds herds and wheat fields."
+      },
+      "label": {
+        "en": "FLAT GRASSLAND"
+      },
+      "body": {
+        "en": "Grass roots built dark, fertile soil over ages, and windblown dust from the mountains added to it. Rain falls evenly across the flat plain.\n\nWith no mountains or forests to clear, it became cattle and grain country, and the main farming heartland."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pampas"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.ar.rainshadow",
+      "countries": [
+        "AR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AR": {
+          "type": "place",
+          "lat": -45.0,
+          "lon": -70.0
+        }
+      },
+      "text": {
+        "en": "Mountains wring rain from ocean winds, leaving the far side dry steppe."
+      },
+      "label": {
+        "en": "RAIN SHADOW"
+      },
+      "body": {
+        "en": "Westerly winds drop their moisture as they rise over the Andes. By the time the air reaches the eastern side it is dry, so the land there is windswept grass and scrub rather than forest.\n\nThe wind blows almost without pause, and sheep ranching suits the land best."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rain_shadow",
+        "https://en.wikipedia.org/wiki/Patagonian_Desert"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.ar.thorny-lowlands",
+      "countries": [
+        "AR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AR": {
+          "type": "place",
+          "lat": -26.5,
+          "lon": -61.5
+        }
+      },
+      "text": {
+        "en": "Hot plains drown in summer rain and bake dry in winter."
+      },
+      "label": {
+        "en": "THORNY LOWLANDS"
+      },
+      "body": {
+        "en": "Rain comes in summer, and the low, flat ground floods; then months of almost none leave rivers thin and soils salty. Only thorny shrubs and hardwood trees with deep roots or water-storing trunks survive both extremes.\n\nThe forest is now being cleared for cattle and soy."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gran_Chaco"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ar.red-earth",
+      "countries": [
+        "AR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AR": {
+          "type": "place",
+          "lat": -27.0,
+          "lon": -54.8
+        }
+      },
+      "text": {
+        "en": "Ancient lava rotted into red clay under rain in every season."
+      },
+      "label": {
+        "en": "RED EARTH"
+      },
+      "body": {
+        "en": "Lava flows from the time South America split from Africa buried this region in basalt. Warm rain in every season rots the rock into iron-rich red clay, and a green subtropical forest grows from it.\n\nPlanters use the same soil for tea and yerba mate."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Paran%C3%A1_and_Etendeka_traps",
+        "https://en.wikipedia.org/wiki/Misiones_Province"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

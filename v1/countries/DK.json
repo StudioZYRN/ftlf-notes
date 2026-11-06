@@ -1,0 +1,311 @@
+{
+  "version": 1,
+  "country": "DK",
+  "notes": [
+    {
+      "id": "outlines.dk.tillplain",
+      "countries": [
+        "DK"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "DK": {
+          "type": "place",
+          "lat": 56.0,
+          "lon": 9.45
+        }
+      },
+      "text": {
+        "en": "The highest ground is only a pile of rubble dropped by a vanished ice sheet."
+      },
+      "label": {
+        "en": "MELTED-ICE HILLS"
+      },
+      "body": {
+        "en": "An ice sheet pushed over this land, grinding rock into clay, sand and boulders and dumping it as it melted. The result is a gently rolling plain of till, with low hills rarely much above 100 metres. Nothing here is solid mountain: the whole landscape is glacial leftovers, which is also why the soil is so easy to plough."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Denmark",
+        "https://en.wikipedia.org/wiki/Till"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.dk.outwash",
+      "countries": [
+        "DK"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "DK": {
+          "type": "place",
+          "lat": 55.95,
+          "lon": 8.9
+        }
+      },
+      "text": {
+        "en": "Meltwater washed sand out from the ice edge into a flat western plain."
+      },
+      "label": {
+        "en": "SAND APRON"
+      },
+      "body": {
+        "en": "At the edge of the last ice sheet, streams of meltwater spread sand and gravel over a wide apron, flattening it. West of that line the ground is level and sandy and drains fast, while east of it lies the lumpy till. Poor, dry soils here stayed as heath or were planted with conifers, while the richer clay to the east became farmland."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Outwash_plain",
+        "https://en.wikipedia.org/wiki/Geography_of_Denmark"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.dk.tunnelvalleys",
+      "countries": [
+        "DK"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "DK": {
+          "type": "place",
+          "lat": 56.1,
+          "lon": 9.6
+        }
+      },
+      "text": {
+        "en": "Narrow lakes and valleys were cut by water flowing under the ice."
+      },
+      "label": {
+        "en": "ICE TUNNELS"
+      },
+      "body": {
+        "en": "Meltwater trapped beneath an ice sheet builds up pressure and rushes through tunnels, scouring deep channels in the ground. When the ice is gone, those channels remain as long, narrow valleys, often holding chains of lakes. Seen from above, they run in parallel, all pointing in the direction the ice once flowed."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tunnel_valley"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.dk.slowrivers",
+      "countries": [
+        "DK"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "DK": {
+          "type": "place",
+          "lat": 56.15,
+          "lon": 9.8
+        }
+      },
+      "text": {
+        "en": "With almost no slope, rivers wander slowly and spread into lakes."
+      },
+      "label": {
+        "en": "LAZY RIVERS"
+      },
+      "body": {
+        "en": "The longest rivers here drop only a few tens of metres over their whole course. They drift through lakes and wet meadows that flood in winter. Because the water barely moves, it picks up and holds nutrients from farmland, which feeds algae in lakes and inlets downstream."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Denmark",
+        "https://en.wikipedia.org/wiki/Gudenå"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.dk.groundwater",
+      "countries": [
+        "DK"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "DK": {
+          "type": "place",
+          "lat": 55.9,
+          "lon": 9.9
+        }
+      },
+      "text": {
+        "en": "Sand and chalk beneath the fields store water that needs almost no treatment."
+      },
+      "label": {
+        "en": "UNDERGROUND DRINKING"
+      },
+      "body": {
+        "en": "Rain soaks through thick layers of sand and gravel left by the ice and collects in aquifers. As it filters down it is cleaned, so nearly all drinking water comes straight from wells with little processing. The fields above are the threat: fertilisers and pesticides can seep down, so farming has been restricted around the main supply areas."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Groundwater",
+        "https://en.wikipedia.org/wiki/Aquifer"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.dk.deadicelakes",
+      "countries": [
+        "DK"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "DK": {
+          "type": "place",
+          "lat": 56.0,
+          "lon": 9.3
+        }
+      },
+      "text": {
+        "en": "Blocks of ice stranded in the ground melted into round ponds."
+      },
+      "label": {
+        "en": "BURIED ICE LAKES"
+      },
+      "body": {
+        "en": "When the ice sheet melted, big chunks broke off and were buried under sand and gravel. They melted slowly, and the ground above them sank into bowl-shaped hollows that filled with water. These round ponds, called kettles, dot the rolling till plain, and many have no stream in or out, fed only by rain and groundwater."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kettle_(landform)"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.dk.heath",
+      "countries": [
+        "DK"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "DK": {
+          "type": "place",
+          "lat": 56.0,
+          "lon": 8.8
+        }
+      },
+      "text": {
+        "en": "Open purple heath exists because people cleared the forest and grazed it."
+      },
+      "label": {
+        "en": "HUMAN HEATH"
+      },
+      "body": {
+        "en": "On poor sandy soil, once the trees were cut and sheep and cattle grazed the land for centuries, heather took over and the soil turned acid and thin. Heath was once widespread; when grazing stopped, it was ploughed or planted with conifers, and now what remains survives only where people burn, cut or graze it to stop trees returning."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heath_(habitat)",
+        "https://en.wikipedia.org/wiki/Lowland_heath"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.dk.beech",
+      "countries": [
+        "DK"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "DK": {
+          "type": "place",
+          "lat": 55.55,
+          "lon": 11.8
+        }
+      },
+      "text": {
+        "en": "Chalky ice-age clay suits beech, which shades everything else out."
+      },
+      "label": {
+        "en": "LIME-LOVING WOODS"
+      },
+      "body": {
+        "en": "Till rich in lime, with plenty of rain and mild winters, makes ideal ground for beech. Its dense canopy leaves the forest floor dark, so spring flowers rush to bloom before the leaves open. Beech spread across the lowlands as the ice retreated and still forms the typical native woodland, now broken into small stands among fields."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Beech",
+        "https://en.wikipedia.org/wiki/Fagus_sylvatica"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.dk.farmland",
+      "countries": [
+        "DK"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "DK": {
+          "type": "place",
+          "lat": 55.6,
+          "lon": 9.4
+        }
+      },
+      "text": {
+        "en": "Gentle slopes and fertile till mean most of the land is under the plough."
+      },
+      "label": {
+        "en": "FARMED FLAT"
+      },
+      "body": {
+        "en": "Low relief, mild wet weather and clay-rich soils left by the ice make farming easy almost everywhere. About three-fifths of the land is cultivated, one of the highest shares in the world, so little natural habitat is left. Wildlife survives in hedgerows, bogs, dunes and small woods that were too wet or too poor to plough."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Agriculture_in_Denmark"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.dk.drowned-islands",
+      "countries": [
+        "DK"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "shape",
+      "anchors": {
+        "DK": {
+          "type": "whole"
+        }
+      },
+      "text": {
+        "en": "Rising seas flooded a low plain and left one peninsula and hundreds of islands."
+      },
+      "label": {
+        "en": "DROWNED LOWLAND"
+      },
+      "body": {
+        "en": "After the ice sheets melted, the sea rose faster than the land. Low, rolling ground was flooded wherever it sat below the new waterline, leaving only the hilltops and ridges dry. The result is a broad peninsula attached to the mainland, and a scatter of islands, many separated from each other by only a few kilometres of shallow water."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Denmark",
+        "https://en.wikipedia.org/wiki/Postglacial_rebound"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

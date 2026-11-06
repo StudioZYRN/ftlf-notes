@@ -1,0 +1,341 @@
+{
+  "version": 1,
+  "country": "JP",
+  "notes": [
+    {
+      "id": "outlines.jp.fuji",
+      "countries": [
+        "JP"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "JP": {
+          "type": "place",
+          "lat": 35.36,
+          "lon": 138.73
+        }
+      },
+      "text": {
+        "en": "This cone stands near where three plates meet, the root of many volcanoes."
+      },
+      "label": {
+        "en": "TRIPLE JUNCTION"
+      },
+      "body": {
+        "en": "Ocean plates sink beneath the land here, which gives the islands about a tenth of the world's active volcanoes and frequent earthquakes. This near-perfect cone sits close to a meeting point of three plates and last erupted in 1707. Volcanic ash makes the soil fertile, and the heat below feeds the hot springs."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mount_Fuji",
+        "https://en.wikipedia.org/wiki/List_of_volcanoes_in_Japan"
+      ],
+      "review": "checked",
+      "version": 3
+    },
+    {
+      "id": "outlines.jp.mountainspine",
+      "countries": [
+        "JP"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "JP": {
+          "type": "place",
+          "lat": 36.3,
+          "lon": 137.7
+        }
+      },
+      "text": {
+        "en": "Squeezing plates fold the land into peaks and leave little flat ground."
+      },
+      "label": {
+        "en": "CRUMPLED ISLANDS"
+      },
+      "body": {
+        "en": "Plates pressing together have crumpled these islands into steep ranges, so around three quarters of the land is mountain or hill. Farms and cities crowd into the few narrow plains along the coast. Steep slopes also mean landslides after heavy rain."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Japan",
+        "https://en.wikipedia.org/wiki/Japanese_Alps"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.jp.caldera",
+      "countries": [
+        "JP"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "JP": {
+          "type": "place",
+          "lat": 32.88,
+          "lon": 131.1
+        }
+      },
+      "text": {
+        "en": "A volcano blew itself apart, and farms and towns now fill the crater."
+      },
+      "label": {
+        "en": "CRATER WITH TOWNS"
+      },
+      "body": {
+        "en": "Huge eruptions emptied the magma chamber under this volcano, and the roof collapsed to leave a crater about 25 kilometres across. Lakes drained and ash made the floor flat and fertile. Rice fields and towns now fill the bowl, with new cones rising in the middle."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mount_Aso",
+        "https://en.wikipedia.org/wiki/Caldera"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.jp.shape",
+      "countries": [
+        "JP"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "shape",
+      "anchors": {
+        "JP": {
+          "type": "whole"
+        }
+      },
+      "text": {
+        "en": "The islands curve in a long arc that follows the plate trench offshore."
+      },
+      "label": {
+        "en": "CURVED CHAIN"
+      },
+      "body": {
+        "en": "A plate dives under the land along a curved trench offshore, and the volcanoes rise in a line behind it. This gives the whole country its long, bent shape, with the coastline running parallel to the trench. Nowhere inland is far from the sea."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Japanese_archipelago",
+        "https://en.wikipedia.org/wiki/Island_arc"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.jp.steeprivers",
+      "countries": [
+        "JP"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "JP": {
+          "type": "place",
+          "lat": 36.45,
+          "lon": 138.2
+        }
+      },
+      "text": {
+        "en": "Rivers drop fast over short distances, so floods come quickly."
+      },
+      "label": {
+        "en": "SHORT, STEEP RIVERS"
+      },
+      "body": {
+        "en": "The mountains are close to the sea, so rivers have little room to slow down. Rainfall of a day or two can swell them into torrents, and floods arrive quickly with little warning. The same drop gives hydropower, but it also makes large ships impractical on most rivers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rivers_of_Japan"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.jp.oldlake",
+      "countries": [
+        "JP"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "JP": {
+          "type": "place",
+          "lat": 35.2,
+          "lon": 135.97
+        }
+      },
+      "text": {
+        "en": "A lake about four million years old, in a basin where the crust sank."
+      },
+      "label": {
+        "en": "ANCIENT LAKE"
+      },
+      "body": {
+        "en": "The crust sinks along faults here and holds a deep basin that has filled with water for millions of years, which makes it one of the oldest lakes anywhere. Many of its fish and snails are found nowhere else. Millions of people downstream drink its water."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Biwa"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.jp.hotsprings",
+      "countries": [
+        "JP"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "JP": {
+          "type": "place",
+          "lat": 36.62,
+          "lon": 138.6
+        }
+      },
+      "text": {
+        "en": "Rain soaks underground, is heated by volcanic rock and returns as hot springs."
+      },
+      "label": {
+        "en": "HEATED GROUNDWATER"
+      },
+      "body": {
+        "en": "Rain and snowmelt seep deep, heat up beside volcanic rock and rise through cracks as hot springs. There are thousands across the islands, and some are strongly acidic from volcanic gas. People have bathed in them for centuries, and whole towns are built around them."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Onsen",
+        "https://en.wikipedia.org/wiki/Hot_spring"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.jp.snowcountry",
+      "countries": [
+        "JP"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "JP": {
+          "type": "place",
+          "lat": 36.9,
+          "lon": 138.6
+        }
+      },
+      "text": {
+        "en": "Winter winds pick up moisture over a warm sea and bury one coast in snow."
+      },
+      "label": {
+        "en": "SNOW MACHINE"
+      },
+      "body": {
+        "en": "Cold, dry winter winds blow from the continent across a warmer sea, where they soak up moisture. When they hit the mountains they rise and dump it as snow, which can reach several metres. The other side of the mountains stays dry and sunny. Meltwater in spring feeds rivers and rice fields."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Snow_country",
+        "https://en.wikipedia.org/wiki/Lake-effect_snow"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.jp.snowmonkeys",
+      "countries": [
+        "JP"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "JP": {
+          "type": "place",
+          "lat": 36.73,
+          "lon": 138.46
+        }
+      },
+      "text": {
+        "en": "Monkeys that bathe in hot springs to survive snowy mountain winters."
+      },
+      "label": {
+        "en": "HOT-SPRING MONKEYS"
+      },
+      "body": {
+        "en": "These macaques live farther north than any other monkey, in valleys that are deep under snow for months. They sit in naturally heated pools to warm up, a habit that spread through the troop. The same springs make the valley warmer, and the monkeys eat bark, buds and seeds through winter."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Japanese_macaque"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.jp.blossomfront",
+      "countries": [
+        "JP"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "JP": {
+          "type": "place",
+          "lat": 36.0,
+          "lon": 138.0
+        }
+      },
+      "text": {
+        "en": "Spring arrives from south to north, and blossom sweeps across with it."
+      },
+      "label": {
+        "en": "FLOWERING FRONT"
+      },
+      "body": {
+        "en": "The islands stretch across a wide range of latitudes, so warmth reaches them at very different times. Cherry trees bloom in the far south in March and in the far north in May, so the blossom travels as a front. People track the forecast to time the viewing."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cherry_blossom_front",
+        "https://en.wikipedia.org/wiki/Cherry_blossom"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.jp.beech",
+      "countries": [
+        "JP"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "JP": {
+          "type": "place",
+          "lat": 40.5,
+          "lon": 140.2
+        }
+      },
+      "text": {
+        "en": "A beech forest thrives under heavy snow, with almost no roads."
+      },
+      "label": {
+        "en": "SNOW-FED FOREST"
+      },
+      "body": {
+        "en": "Heavy snow insulates the ground and soaks the soil as it melts, which suits broad-leaved beech trees. This steep mountain area was hard to log, so a large stand of old beech forest survived untouched. Bears, antelope-like serows and woodpeckers live under its canopy."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Shirakami-Sanchi"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

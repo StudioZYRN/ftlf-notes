@@ -1,0 +1,190 @@
+{
+  "version": 1,
+  "country": "NL",
+  "notes": [
+    {
+      "id": "outlines.nl.push-hills",
+      "countries": [
+        "NL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "NL": {
+          "type": "place",
+          "lat": 52.15,
+          "lon": 5.8
+        }
+      },
+      "text": {
+        "en": "The highest ground is a heap of sand and gravel shoved up by an ice sheet."
+      },
+      "label": {
+        "en": "ICE-PUSHED HILLS"
+      },
+      "body": {
+        "en": "During the ice ages, the front edge of the ice sheet pushed sand and gravel ahead of it into long ridges. These stayed as the highest hills in a mostly flat land.\n\nThe soil is sandy, dry and poor, so heath and forest cover it instead of farms. Rain sinks deep into it and feeds springs at the base."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Veluwe",
+        "https://en.wikipedia.org/wiki/Push_moraine"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.nl.river-delta",
+      "countries": [
+        "NL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "NL": {
+          "type": "place",
+          "lat": 51.9,
+          "lon": 5.4
+        }
+      },
+      "text": {
+        "en": "Rivers have built a delta, and now flow higher than the fields beside them."
+      },
+      "label": {
+        "en": "RIVERS ABOVE LAND"
+      },
+      "body": {
+        "en": "Big rivers that drain the Alps and other uplands meet the sea here. Over thousands of years, they dropped silt, building a flat delta that is very low.\n\nSilt raised the river beds above the surrounding land, so the rivers need dikes. A failure of a dike floods lowland farms, so people have maintained them for centuries."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rhine–Meuse–Scheldt_delta"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.nl.sinking-peat",
+      "countries": [
+        "NL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "NL": {
+          "type": "place",
+          "lat": 52.05,
+          "lon": 4.9
+        }
+      },
+      "text": {
+        "en": "Draining peat makes it shrink, so the land sinks and must be drained again."
+      },
+      "label": {
+        "en": "SINKING PEAT"
+      },
+      "body": {
+        "en": "Thick peat once covered the low lands. People dug ditches to drain it for pasture, and drained peat shrinks and rots away.\n\nSo the land sinks about a centimetre a year, and the water table must be lowered again. The cycle began with windmills, which pumped water up into canals, and continues with modern pumping stations."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Groene_Hart",
+        "https://en.wikipedia.org/wiki/Subsidence"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.nl.salt-to-fresh",
+      "countries": [
+        "NL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "NL": {
+          "type": "place",
+          "lat": 52.75,
+          "lon": 5.35
+        }
+      },
+      "text": {
+        "en": "A long dam turned a salty sea inlet into a freshwater lake."
+      },
+      "label": {
+        "en": "SEA MADE LAKE"
+      },
+      "body": {
+        "en": "In 1932 a 30-km dam closed off an arm of the sea. Rivers flowing in slowly flushed out the salt, and the inlet became a freshwater lake.\n\nIt shortened the coast to defend, supplied fresh water for farms, and let people reclaim parts of the old seabed as new land."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/IJsselmeer",
+        "https://en.wikipedia.org/wiki/Afsluitdijk"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.nl.meadow-birds",
+      "countries": [
+        "NL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "NL": {
+          "type": "place",
+          "lat": 52.95,
+          "lon": 5.95
+        }
+      },
+      "text": {
+        "en": "Wet grasslands host ground-nesting birds, but drains and mowing wipe out nests."
+      },
+      "label": {
+        "en": "MEADOW BIRDS"
+      },
+      "body": {
+        "en": "Damp, flat grassland with high water is good habitat for waders such as godwits, which nest on the ground in spring.\n\nBut modern drainage, fertiliser and early mowing destroy nests and chicks, and numbers have fallen. Farmers are now paid to delay mowing and keep fields wet."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Black-tailed_godwit",
+        "https://en.wikipedia.org/wiki/Wet_meadow"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.nl.polders",
+      "countries": [
+        "NL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "shape",
+      "anchors": {
+        "NL": {
+          "type": "place",
+          "lat": 52.5,
+          "lon": 5.5
+        }
+      },
+      "text": {
+        "en": "Dikes and pumps hold back the sea and keep low farmland dry."
+      },
+      "label": {
+        "en": "LAND FROM SEA"
+      },
+      "body": {
+        "en": "A big share of the land lies below sea level. Over centuries, people built dikes, drained lakes and bays, and pumped the water out to make new farmland called polders.\n\nConstant care keeps the water out. Water boards, among the oldest democratic bodies in Europe, manage the dikes and pumps and charge a tax for it."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Polder"
+      ],
+      "review": "checked",
+      "version": 2
+    }
+  ]
+}

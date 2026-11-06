@@ -1,0 +1,402 @@
+{
+  "version": 1,
+  "country": "IT",
+  "notes": [
+    {
+      "id": "outlines.it.spine",
+      "countries": [
+        "IT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IT": {
+          "type": "place",
+          "lat": 42.47,
+          "lon": 13.57
+        }
+      },
+      "text": {
+        "en": "A crumpled mountain chain runs down the land, so quakes are common."
+      },
+      "label": {
+        "en": "BENT SPINE"
+      },
+      "body": {
+        "en": "Plates are still pressing together and pulling apart here, and the crust has crumpled into a long limestone chain along the middle. Faults along it slip often and cause frequent earthquakes.\n\nThe chain leaves only narrow plains on each side, so rivers are short and steep, and towns climb the hillsides."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Apennine_Mountains"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.it.fertile-furnace",
+      "countries": [
+        "IT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IT": {
+          "type": "place",
+          "lat": 37.75,
+          "lon": 14.99
+        }
+      },
+      "text": {
+        "en": "One of the most active volcanoes, yet its slopes are farmed to great height."
+      },
+      "label": {
+        "en": "FERTILE FURNACE"
+      },
+      "body": {
+        "en": "Africa's plate dives under Europe here, and the melting rock feeds an almost constantly erupting volcano that has grown thousands of metres above the sea.\n\nBroken lava and ash weather into rich soil, so orchards and vineyards climb right up its flanks despite the danger. A lot of people live on it for that reason."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mount_Etna"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.it.reef-peaks",
+      "countries": [
+        "IT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IT": {
+          "type": "place",
+          "lat": 46.45,
+          "lon": 11.85
+        }
+      },
+      "text": {
+        "en": "Pale rock towers began as tropical coral reefs on a shallow sea floor."
+      },
+      "label": {
+        "en": "REEF PEAKS"
+      },
+      "body": {
+        "en": "About 250 million years ago a warm, shallow sea here grew reefs of coral and lime-secreting algae. When Africa pushed into Europe, the old reefs were lifted thousands of metres into steep spires.\n\nThe pale rock glows pink at dusk and is brittle, so frost keeps peeling cliffs and building fans of scree at their feet."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dolomites"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.it.clay-badlands",
+      "countries": [
+        "IT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IT": {
+          "type": "place",
+          "lat": 43.25,
+          "lon": 11.55
+        }
+      },
+      "text": {
+        "en": "Soft sea-bed clay on bare slopes washes into gullies in each downpour."
+      },
+      "label": {
+        "en": "CLAY BADLANDS"
+      },
+      "body": {
+        "en": "These hills are made of clay laid down in an old seabed, which is soft and nearly waterproof. When heavy rain hits bare slopes, it runs off the surface and carves deep gullies and sharp ridges.\n\nThe slopes keep eroding, so farmers have found them hard to crop. The landscape is grey and treeless instead of the usual green of hills."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Badlands",
+        "https://en.wikipedia.org/wiki/Crete_Senesi"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.it.po",
+      "countries": [
+        "IT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IT": {
+          "type": "place",
+          "lat": 45.12,
+          "lon": 10.02
+        }
+      },
+      "text": {
+        "en": "Alpine silt filled a shallow sea into rich farmland and an industrial heart."
+      },
+      "label": {
+        "en": "SILT PLAIN"
+      },
+      "body": {
+        "en": "Rivers from the Alps and the surrounding hills carried silt into a shallow sea for millions of years and filled it into a flat plain, which one big river now crosses on its way to the Adriatic.\n\nFertile soil and plenty of water made it a rich farming region, and later an industrial one. The same flatness lets floods spread far, so levees line the river."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Po_(river)",
+        "https://en.wikipedia.org/wiki/Po_Valley"
+      ],
+      "review": "checked",
+      "version": 3
+    },
+    {
+      "id": "outlines.it.thirsty-limestone",
+      "countries": [
+        "IT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IT": {
+          "type": "place",
+          "lat": 40.9,
+          "lon": 16.6
+        }
+      },
+      "text": {
+        "en": "Rain vanishes into cracks, leaving a land with almost no rivers."
+      },
+      "label": {
+        "en": "THIRSTY LIMESTONE"
+      },
+      "body": {
+        "en": "The ground here is porous limestone full of cracks. Rain sinks straight in and runs underground to the sea, so there are almost no rivers, only dry gullies and sinkholes.\n\nFarmers once depended on wells and cisterns. In the 1900s a long aqueduct from the mountains to the west was built to supply this dry land."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Karst",
+        "https://en.wikipedia.org/wiki/Murge"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.it.crater-lake",
+      "countries": [
+        "IT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IT": {
+          "type": "place",
+          "lat": 42.6,
+          "lon": 11.9
+        }
+      },
+      "text": {
+        "en": "A round lake fills the collapsed hollow of a volcano's emptied magma chamber."
+      },
+      "label": {
+        "en": "SUNKEN CRATER"
+      },
+      "body": {
+        "en": "When a big volcano emptied its magma chamber, the roof collapsed and left a wide hollow called a caldera. Rain and groundwater filled it.\n\nThe lake is almost circular, and the rim around it has rich volcanic soil. The volcano is now extinct, but the area is still warm below ground."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Bolsena",
+        "https://en.wikipedia.org/wiki/Caldera"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.it.mild-lake",
+      "countries": [
+        "IT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IT": {
+          "type": "place",
+          "lat": 45.65,
+          "lon": 10.7
+        }
+      },
+      "text": {
+        "en": "A deep glacier-carved lake keeps winters mild enough for olives and lemons."
+      },
+      "label": {
+        "en": "HEAT BANK"
+      },
+      "body": {
+        "en": "A glacier gouged this lake out at the foot of the Alps, and ridges of rubble dammed the end. The water is so deep that it stores summer heat and releases it in winter, and mountains behind block cold northern air.\n\nThat protected shore is mild enough for olive groves far north of where they usually grow."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Garda"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.it.alpine-rice",
+      "countries": [
+        "IT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IT": {
+          "type": "place",
+          "lat": 45.3,
+          "lon": 8.45
+        }
+      },
+      "text": {
+        "en": "Snowmelt channelled onto flat clay floods paddies in the heart of Europe."
+      },
+      "label": {
+        "en": "ALPINE RICE"
+      },
+      "body": {
+        "en": "Alpine rivers carry snowmelt across a flat plain with heavy clay soil that holds water. Canals spread it over the fields, and in spring the fields are flooded and sown.\n\nSummers are hot and humid enough for rice, and the supply of water is reliable. This is among the biggest rice-growing regions in Europe."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rice",
+        "https://en.wikipedia.org/wiki/Vercelli"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.it.mountain-refuge",
+      "countries": [
+        "IT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IT": {
+          "type": "place",
+          "lat": 41.85,
+          "lon": 13.9
+        }
+      },
+      "text": {
+        "en": "Remote beech forests kept wolves and bears alive when they vanished elsewhere."
+      },
+      "label": {
+        "en": "MOUNTAIN REFUGE"
+      },
+      "body": {
+        "en": "A chain of rugged mountains with old beech forest was hard to farm or settle. Wolves and a small bear population survived there when hunting wiped them out on the plains.\n\nWolves were down to about a hundred in the 1970s. After they were protected, they spread out of the mountains and now live across the peninsula."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Italian_wolf",
+        "https://en.wikipedia.org/wiki/Abruzzo,_Lazio_and_Molise_National_Park"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.it.red-dust",
+      "countries": [
+        "IT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IT": {
+          "type": "place",
+          "lat": 37.6,
+          "lon": 14.2
+        }
+      },
+      "text": {
+        "en": "Hot winds from the desert drop red dust that stains rain and snow."
+      },
+      "label": {
+        "en": "RED DUST"
+      },
+      "body": {
+        "en": "When a hot, dry wind blows from the Sahara, it lifts fine dust high into the air and carries it across the sea. Rain then washes it out, leaving a reddish film on cars, roofs and even Alpine snow.\n\nThe dust brings minerals to land and sea, but it also adds to air pollution."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saharan_Air_Layer",
+        "https://en.wikipedia.org/wiki/Sirocco"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.it.fire-scrub",
+      "countries": [
+        "IT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IT": {
+          "type": "place",
+          "lat": 40.1,
+          "lon": 9.0
+        }
+      },
+      "text": {
+        "en": "Dry summers and thin soils favour tough shrubs that regrow after fires."
+      },
+      "label": {
+        "en": "FIRE SCRUB"
+      },
+      "body": {
+        "en": "Winters are mild and wet but summers are dry, and soils on steep hills are thin. Thick evergreen shrubs with small leathery leaves can survive the summer drought.\n\nMany contain flammable oils and burn easily, but they resprout from their roots afterward. Grazing and fire have kept this scrub open for thousands of years."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Maquis_shrubland",
+        "https://en.wikipedia.org/wiki/Garrigue"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.it.narrow-spine",
+      "countries": [
+        "IT"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "shape",
+      "anchors": {
+        "IT": {
+          "type": "whole"
+        }
+      },
+      "text": {
+        "en": "A long, thin land follows a mountain chain, so the sea is never far."
+      },
+      "label": {
+        "en": "NARROW LAND"
+      },
+      "body": {
+        "en": "The land is the exposed tip of a mountain chain that runs between two seas, so it is very long and narrow. Almost no place is far from the coast.\n\nRivers are short and steep, and main roads and railways run along the coasts instead of across the rugged middle."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Italian_Peninsula"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

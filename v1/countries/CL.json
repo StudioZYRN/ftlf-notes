@@ -1,0 +1,394 @@
+{
+  "version": 1,
+  "country": "CL",
+  "notes": [
+    {
+      "id": "outlines.cl.volcanic-cordillera",
+      "countries": [
+        "CL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CL": {
+          "type": "place",
+          "lat": -33.4,
+          "lon": -70.3
+        }
+      },
+      "text": {
+        "en": "An oceanic plate plunging under the continent lifts fiery Andean peaks."
+      },
+      "label": {
+        "en": "PACIFIC SUBDUCTION"
+      },
+      "body": {
+        "en": "Where the dense oceanic plate dives beneath the continental crust, intense friction and melting rock feed a massive volcanic chain. Frequent earthquakes continually reshape the rugged spine of the Andes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Andes"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cl.longitudinal-trough",
+      "countries": [
+        "CL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CL": {
+          "type": "place",
+          "lat": -35.2,
+          "lon": -71.3
+        }
+      },
+      "text": {
+        "en": "A sheltered graben between mountain ranges forms the agricultural heart."
+      },
+      "label": {
+        "en": "VALLEY TROUGH"
+      },
+      "body": {
+        "en": "Trapped between the high eastern cordillera and the coastal range, a sunken tectonic depression collected rich volcanic ash and river gravels. Meltwater streams irrigate lush orchards and vineyards across the temperate valley floor."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chilean_Central_Valley"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cl.coastal-rampart",
+      "countries": [
+        "CL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CL": {
+          "type": "place",
+          "lat": -24.5,
+          "lon": -70.2
+        }
+      },
+      "text": {
+        "en": "An ancient coastal mountain barrier plunges directly into deep waters."
+      },
+      "label": {
+        "en": "COASTAL CLIFFS"
+      },
+      "body": {
+        "en": "Older than the high eastern cordillera, this weathered coastal range runs parallel to the shore. Its steep ocean-facing cliffs block moist marine air from penetrating inland, creating an extreme rain shadow immediately behind it."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chilean_Coast_Range"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cl.granite-horns",
+      "countries": [
+        "CL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CL": {
+          "type": "place",
+          "lat": -51.2,
+          "lon": -73.0
+        }
+      },
+      "text": {
+        "en": "Giant glaciers carved sheer vertical monoliths from deep-seated granite."
+      },
+      "label": {
+        "en": "GLACIAL SPIRES"
+      },
+      "body": {
+        "en": "Subterranean magma chambers cooled into hard granite under a roof of sedimentary rock. Massive Pleistocene ice caps stripped away the softer cover, sculpting vertical grey spires and calving directly into glacial lakes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cordillera_Paine"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cl.drowned-fjords",
+      "countries": [
+        "CL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CL": {
+          "type": "place",
+          "lat": -45.5,
+          "lon": -73.5
+        }
+      },
+      "text": {
+        "en": "Drowned glacial troughs fracture the southern coast into many islands."
+      },
+      "label": {
+        "en": "SOUTHERN FJORDS"
+      },
+      "body": {
+        "en": "During past ice ages, enormous valley glaciers gouged deep troughs far below sea level. When the ice melted and sea levels rose, the ocean flooded the carved valleys, creating a labyrinth of deep, protected fjords and archipelagoes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fjords_and_channels_of_Chile"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cl.cold-current",
+      "countries": [
+        "CL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CL": {
+          "type": "place",
+          "lat": -30.0,
+          "lon": -71.2
+        }
+      },
+      "text": {
+        "en": "An icy polar current brings nutrient-rich upwelling along the long coast."
+      },
+      "label": {
+        "en": "COLD UPWELLING"
+      },
+      "body": {
+        "en": "Driven by prevailing winds, this cold northward oceanic current draws frigid, nutrient-laden deep water to the sunlit surface. The resulting explosion of plankton supports one of the world's most productive marine fisheries."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Humboldt_Current"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cl.snowmelt-torrents",
+      "countries": [
+        "CL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CL": {
+          "type": "place",
+          "lat": -37.5,
+          "lon": -72.0
+        }
+      },
+      "text": {
+        "en": "Short steep rivers rush from glaciated peaks down to the ocean."
+      },
+      "label": {
+        "en": "TORRENTIAL RIVERS"
+      },
+      "body": {
+        "en": "Because the continental divide sits only one or two hundred kilometres from the sea, rivers drop thousands of vertical metres in short distances. Rushing over boulder-filled rapids, they carve deep canyons and drive hydroelectric plants."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/B%C3%ADo_B%C3%ADo_River"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cl.high-salares",
+      "countries": [
+        "CL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CL": {
+          "type": "place",
+          "lat": -23.5,
+          "lon": -68.3
+        }
+      },
+      "text": {
+        "en": "Enclosed desert basins evaporate mineral-laden runoff into brine crusts."
+      },
+      "label": {
+        "en": "SALT BASINS"
+      },
+      "body": {
+        "en": "Because surrounding mountains prevent water from escaping to the sea, rare runoff collects in closed desert depressions. Rapid solar evaporation leaves vast crusts of white salt, concentrating massive underground reserves of lithium."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Salar_de_Atacama"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cl.fog-desert",
+      "countries": [
+        "CL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CL": {
+          "type": "place",
+          "lat": -25.0,
+          "lon": -70.2
+        }
+      },
+      "text": {
+        "en": "Dense marine fog banks sustain rare cacti along a rainless coast."
+      },
+      "label": {
+        "en": "FOG FORESTS"
+      },
+      "body": {
+        "en": "Cold ocean upwelling creates temperature inversions that trap low clouds against coastal cliffs. Although rain rarely falls for decades, condensation from thick morning fog supports specialized cacti and lichens that harvest airborne droplets."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Camanchaca"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cl.temperate-rainforest",
+      "countries": [
+        "CL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CL": {
+          "type": "place",
+          "lat": -40.0,
+          "lon": -72.5
+        }
+      },
+      "text": {
+        "en": "Pacific westerly gales drench ancient broadleaf forests and conifers."
+      },
+      "label": {
+        "en": "ANCIENT WOODS"
+      },
+      "body": {
+        "en": "Moist winds slamming into the southern mountains dump several metres of rain every year. This creates dense temperate rainforests dominated by ancient southern beeches and long-lived alerce trees that survive for thousands of years."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Valdivian_temperate_rain_forest"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cl.high-bofedales",
+      "countries": [
+        "CL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CL": {
+          "type": "place",
+          "lat": -18.8,
+          "lon": -69.2
+        }
+      },
+      "text": {
+        "en": "Glacier-fed peat bogs cushion arid alpine plateaus for grazing herds."
+      },
+      "label": {
+        "en": "PEAT BOGS"
+      },
+      "body": {
+        "en": "In freezing desert highlands above four thousand metres, slow-moving glacial meltwater creates spongy peat cushions. These resilient wetlands stay green year-round, offering vital forage for wild vicuñas and domesticated llamas."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bofedal"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cl.thermal-gliders",
+      "countries": [
+        "CL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CL": {
+          "type": "place",
+          "lat": -34.0,
+          "lon": -70.5
+        }
+      },
+      "text": {
+        "en": "Enormous scavengers harness mountain updrafts to patrol rugged cordilleras."
+      },
+      "label": {
+        "en": "GIANT SOARERS"
+      },
+      "body": {
+        "en": "With wingspans exceeding three metres, these giant raptors ride powerful thermal currents and cliff updrafts along the mountain spine. They soar for hundreds of kilometres without flapping, scanning valleys for carrion."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Andean_condor"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.cl.mountain-ribbon",
+      "countries": [
+        "CL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "shape",
+      "anchors": {
+        "CL": {
+          "type": "whole"
+        }
+      },
+      "text": {
+        "en": "A long ribbon pinned between the continent's crest and the ocean trench."
+      },
+      "label": {
+        "en": "NARROW RIBBON"
+      },
+      "body": {
+        "en": "The territory averages only 175 kilometres in width while stretching over 4,200 kilometres from north to south. Its natural borders follow the highest watershed crest of the Andes to the east and the Pacific coastline to the west."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Chile"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

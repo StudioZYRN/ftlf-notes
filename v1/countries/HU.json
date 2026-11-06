@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "HU",
+  "notes": [
+    {
+      "id": "outlines.hu.pannonian-plain",
+      "countries": [
+        "HU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "HU": {
+          "type": "place",
+          "lat": 47.0,
+          "lon": 20.5
+        }
+      },
+      "text": {
+        "en": "Sinking continental crust created a broad flat sediment-filled basin."
+      },
+      "label": {
+        "en": "VAST LOWLANDS"
+      },
+      "body": {
+        "en": "Surrounded by mountain arcs, this deep crustal depression filled with thousands of metres of river silt, windblown loess, and ancient lake sediments. The resulting expansive plains provide exceptionally flat, fertile terrain for extensive cereal cultivation."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pannonian_Basin"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hu.loess-plateaus",
+      "countries": [
+        "HU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "HU": {
+          "type": "place",
+          "lat": 46.8,
+          "lon": 18.9
+        }
+      },
+      "text": {
+        "en": "Windblown Ice Age dust formed high bluffs and undulating fertile tablelands."
+      },
+      "label": {
+        "en": "LOESS HILLS"
+      },
+      "body": {
+        "en": "Glacial winds during the Pleistocene blew fine rock flour out of dried riverbeds, depositing it in thick blankets across the lowlands. Rivers later incised these soft deposits, leaving steep yellow loess bluffs overlooking the wide floodplain."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mez%C5%91f%C3%B6ld"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hu.volcanic-ridges",
+      "countries": [
+        "HU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "HU": {
+          "type": "place",
+          "lat": 47.9,
+          "lon": 19.9
+        }
+      },
+      "text": {
+        "en": "Weathered andesite calderas and limestone plateaus rise above the plains."
+      },
+      "label": {
+        "en": "VOLCANIC HILLS"
+      },
+      "body": {
+        "en": "Subduction along the mountain rim triggered widespread Miocene volcanism. Ancient andesite and rhyolite cones eroded into rounded forested ridges where volcanic ash enriched the soil, creating sun-drenched southern slopes prized for hillside vineyards."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/North_Hungarian_Mountains"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hu.karst-caverns",
+      "countries": [
+        "HU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "HU": {
+          "type": "place",
+          "lat": 48.5,
+          "lon": 20.5
+        }
+      },
+      "text": {
+        "en": "Underground streams dissolved colossal multi-tiered limestone galleries."
+      },
+      "label": {
+        "en": "DRIPSTONE CAVES"
+      },
+      "body": {
+        "en": "Rainwater filtering through Triassic limestone along the northern border dissolved extensive cavern systems stretching for tens of kilometres. Towering stalagmites and subterranean river chambers shelter specialized cave bats and blind crustaceans."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Baradla_cave"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hu.shallow-steppelake",
+      "countries": [
+        "HU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "HU": {
+          "type": "place",
+          "lat": 46.8,
+          "lon": 17.7
+        }
+      },
+      "text": {
+        "en": "A long tectonic graben holds Central Europe's largest freshwater lake."
+      },
+      "label": {
+        "en": "SHALLOW BASIN"
+      },
+      "body": {
+        "en": "Faulting along parallel geological fractures created a series of shallow depressions that merged thousands of years ago. Averaging only three metres in depth, the lake warms rapidly in summer, its milky turquoise water enriched by fine suspended minerals."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Balaton"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hu.thermal-waters",
+      "countries": [
+        "HU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "HU": {
+          "type": "place",
+          "lat": 46.8,
+          "lon": 17.2
+        }
+      },
+      "text": {
+        "en": "Unusually thin continental crust heats vast reservoirs of artesian water."
+      },
+      "label": {
+        "en": "THERMAL SPRINGS"
+      },
+      "body": {
+        "en": "Because the underlying tectonic plate is stretched thin here, the Earth's geothermal gradient is far steeper than normal. Deeply circulating groundwater absorbs subterranean heat and minerals, rising as hundreds of steaming mineral springs and natural thermal lakes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thermal_baths_in_Budapest"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hu.meandering-arteries",
+      "countries": [
+        "HU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "HU": {
+          "type": "place",
+          "lat": 46.6,
+          "lon": 20.1
+        }
+      },
+      "text": {
+        "en": "Two great rivers bisect the land from north to south across flat lowlands."
+      },
+      "label": {
+        "en": "TWIN RIVERS"
+      },
+      "body": {
+        "en": "With extremely low slope gradients across the basin floor, rivers naturally meander in wide looping oxbows. Silt deposited during historic seasonal overflows built wide natural levees that separate the main channels from sprawling backwater marshes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tisza"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hu.steaming-lake",
+      "countries": [
+        "HU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "HU": {
+          "type": "place",
+          "lat": 46.79,
+          "lon": 17.19
+        }
+      },
+      "text": {
+        "en": "The world's largest swimmable natural thermal lake stays warm in winter."
+      },
+      "label": {
+        "en": "WARM LAKE"
+      },
+      "body": {
+        "en": "Fed by mineral-rich springs gushing from a deep underwater peat cave, this unique lake renews its entire water volume every few days. Warm currents keep water temperatures above twenty degrees Celsius even when snow covers surrounding parklands."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_H%C3%A9v%C3%ADz"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hu.puszta-grasslands",
+      "countries": [
+        "HU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "HU": {
+          "type": "place",
+          "lat": 47.6,
+          "lon": 21.1
+        }
+      },
+      "text": {
+        "en": "Expansive alkaline shortgrass plains support iconic horned grey cattle."
+      },
+      "label": {
+        "en": "SALT STEPPE"
+      },
+      "body": {
+        "en": "Centuries of river regulation and high evaporation left sodium salts in the topsoil, inhibiting tree growth. The resulting treeless steppe hosts specialized salt-tolerant grasses, mirages on shimmering horizons, and ancient pastoral grazing traditions."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hortob%C3%A1gy_National_Park"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hu.giant-bustards",
+      "countries": [
+        "HU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "HU": {
+          "type": "place",
+          "lat": 47.0,
+          "lon": 20.8
+        }
+      },
+      "text": {
+        "en": "Europe's heaviest flying birds perform elaborate courtship displays on plains."
+      },
+      "label": {
+        "en": "HEAVY FLYERS"
+      },
+      "body": {
+        "en": "The vast, undisturbed open grasslands of the eastern basin preserve vital breeding grounds for these massive ground-nesting birds. Males weighing up to eighteen kilograms flash white plumage during spectacular spring mating dances across the steppe."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Great_bustard"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hu.crane-migration",
+      "countries": [
+        "HU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "HU": {
+          "type": "place",
+          "lat": 47.5,
+          "lon": 21.2
+        }
+      },
+      "text": {
+        "en": "Over a hundred thousand migrating cranes roost in shallow soda pans."
+      },
+      "label": {
+        "en": "CRANE GATHERING"
+      },
+      "body": {
+        "en": "Each autumn, migrating flocks traveling from northern breeding grounds gather in protected salt marshes. The cranes forage in surrounding maize fields by day and retreat to the safety of shallow alkaline waters at sunset to evade predators."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Common_crane"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hu.gallery-woodlands",
+      "countries": [
+        "HU"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "HU": {
+          "type": "place",
+          "lat": 46.2,
+          "lon": 18.9
+        }
+      },
+      "text": {
+        "en": "Flood-adapted hardwood forests line meandering riverbanks and oxbow lakes."
+      },
+      "label": {
+        "en": "RIVER WOODLANDS"
+      },
+      "body": {
+        "en": "Dense ribbons of willow, poplar, and oak flourish on damp river terraces. These lush gallery woodlands survive prolonged seasonal inundation and provide essential nesting trees for black storks and white-tailed sea eagles."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Danube-Drava_National_Park"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "version": 1,
+  "country": "CH",
+  "notes": [
+    {
+      "id": "outlines.ch.uvalleys",
+      "countries": [
+        "CH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CH": {
+          "type": "place",
+          "lat": 46.6,
+          "lon": 7.95
+        }
+      },
+      "text": {
+        "en": "Rivers cut V-shaped gorges; ice later bulldozed them into wide U-shapes."
+      },
+      "label": {
+        "en": "U-SHAPED VALLEYS"
+      },
+      "body": {
+        "en": "During the ice ages, glaciers filled the valleys and ground their floors and walls flat. When the ice melted, the valleys were left with steep sides and broad bottoms, and small side streams now leap from hanging valleys high up the walls as waterfalls. The flat floors are where most roads, fields and villages sit."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/U-shaped_valley",
+        "https://en.wikipedia.org/wiki/Hanging_valley"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ch.aletsch",
+      "countries": [
+        "CH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CH": {
+          "type": "place",
+          "lat": 46.5,
+          "lon": 8.05
+        }
+      },
+      "text": {
+        "en": "A river of ice more than twenty kilometres long is melting back each year."
+      },
+      "label": {
+        "en": "RETREATING ICE"
+      },
+      "body": {
+        "en": "Snow piles up on high basins, compacts into ice and creeps downhill under its own weight. This glacier is the longest in these mountains, but warming now strips off metres of thickness a year and its tongue retreats up the valley. Meltwater from such ice feeds rivers through summer, so shrinking glaciers will change when and how much water flows."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aletsch_Glacier"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ch.jura",
+      "countries": [
+        "CH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CH": {
+          "type": "place",
+          "lat": 47.15,
+          "lon": 7.1
+        }
+      },
+      "text": {
+        "en": "Far from the high peaks, rock layers were crumpled into long parallel ridges."
+      },
+      "label": {
+        "en": "WRINKLED FORELAND"
+      },
+      "body": {
+        "en": "As the great range to the south rose, the push was passed along a soft layer of salt and gypsum that works like a slippery sled. Limestone above it buckled into long ridges and valleys, like a rug pushed across a floor. Water sinks straight into this limestone, so the ridges are dry on top and rich in caves and springs."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jura_Mountains",
+        "https://en.wikipedia.org/wiki/Thin-skinned_deformation"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ch.threeseas",
+      "countries": [
+        "CH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CH": {
+          "type": "place",
+          "lat": 46.6,
+          "lon": 8.6
+        }
+      },
+      "text": {
+        "en": "From one knot of peaks, rivers set off toward three or four different seas."
+      },
+      "label": {
+        "en": "WATER TOWER"
+      },
+      "body": {
+        "en": "A high ridge here splits the rain and snowmelt. Streams run north to the North Sea, west and south toward the Mediterranean, and southeast toward the Adriatic, with a neighbouring valley draining on toward the Black Sea. Because so much water starts high and cold, the land feeds the lower reaches of several of Europe's great rivers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/European_watershed",
+        "https://en.wikipedia.org/wiki/Gotthard_Massif"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.ch.moraine-lakes",
+      "countries": [
+        "CH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CH": {
+          "type": "place",
+          "lat": 47.0,
+          "lon": 8.45
+        }
+      },
+      "text": {
+        "en": "Long lakes fill hollows that glaciers scooped and then dammed with rubble."
+      },
+      "label": {
+        "en": "ICE-DAMMED LAKES"
+      },
+      "body": {
+        "en": "A glacier gouges the valley floor deepest where the ice is thick, and at its end it dumps a ridge of rock and gravel. When the ice melts, water collects behind that ridge in the overdeepened basin. The lakes are long and steep-sided, some more than 200 metres deep, and they now soften winters and summers for the towns along their shores."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Glacial_lake",
+        "https://en.wikipedia.org/wiki/Overdeepening"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ch.hydropower",
+      "countries": [
+        "CH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CH": {
+          "type": "place",
+          "lat": 46.15,
+          "lon": 7.45
+        }
+      },
+      "text": {
+        "en": "Dams in steep valleys trap summer melt and turn it into winter power."
+      },
+      "label": {
+        "en": "STORED SUMMER"
+      },
+      "body": {
+        "en": "Heavy rain and snow on tall slopes give rivers a long, steep drop, which is exactly what turbines need. Huge dams in high valleys hold back glacier melt in summer and release it when demand peaks in winter. Falling water supplies well over half of the country's electricity, but shrinking glaciers will thin that summer inflow."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hydropower_in_Switzerland"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.ch.altitude-zones",
+      "countries": [
+        "CH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CH": {
+          "type": "place",
+          "lat": 46.7,
+          "lon": 9.8
+        }
+      },
+      "text": {
+        "en": "Climbing a slope here is like travelling from lowlands to the Arctic."
+      },
+      "label": {
+        "en": "LIFE IN LAYERS"
+      },
+      "body": {
+        "en": "Every 100 metres of height cools the air by about 0.6 degrees, so plants stack in bands: broadleaf woods in the valley, spruce forest above, then dwarf shrubs, meadow, bare rock and ice. The treeline sits where summers are too short for trees to ripen their wood. In a day's walk you cross zones that would take thousands of kilometres of latitude."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Montane_ecosystems",
+        "https://en.wikipedia.org/wiki/Tree_line"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.ch.summer-pastures",
+      "countries": [
+        "CH"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CH": {
+          "type": "place",
+          "lat": 46.75,
+          "lon": 9.2
+        }
+      },
+      "text": {
+        "en": "Herds climb with the snowline because valley grass cannot feed them all year."
+      },
+      "label": {
+        "en": "SUMMER PASTURES"
+      },
+      "body": {
+        "en": "Thin mountain soils and long winters leave little hay, but the high meadows burst into growth once the snow melts. For centuries herds have walked up to them each summer and come down in autumn, grazing the slopes. That grazing keeps the meadows open: left alone, most would turn back into forest, and many flowers would disappear."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Transhumance",
+        "https://en.wikipedia.org/wiki/Alpine_grassland"
+      ],
+      "review": "checked",
+      "version": 2
+    }
+  ]
+}

@@ -1,0 +1,433 @@
+{
+  "version": 1,
+  "country": "MX",
+  "notes": [
+    {
+      "id": "outlines.mx.volcanoes",
+      "countries": [
+        "MX"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "MX": {
+          "type": "place",
+          "lat": 19.0,
+          "lon": -99.0
+        }
+      },
+      "text": {
+        "en": "A plate dives beneath the land, feeding a chain of volcanoes across the middle."
+      },
+      "label": {
+        "en": "VOLCANO BELT"
+      },
+      "body": {
+        "en": "An ocean plate sinks under the continent along the Pacific coast, and the melting rock rises to build a band of tall volcanoes running east-west across the highlands.\n\nAsh weathers into rich soil, so the valleys among them hold dense farmland, and many people live within range of an eruption."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Trans-Mexican_Volcanic_Belt"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.mx.twin-walls",
+      "countries": [
+        "MX"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "MX": {
+          "type": "place",
+          "lat": 25.5,
+          "lon": -106.2
+        }
+      },
+      "text": {
+        "en": "Two mountain walls flank a high dry plateau and trap its rain."
+      },
+      "label": {
+        "en": "TWIN WALLS"
+      },
+      "body": {
+        "en": "A wide volcanic range runs along the west and a folded limestone range along the east, with a high plateau between them. Both catch moist air from the sea on their outer slopes, leaving the plateau dry.\n\nThe western range's volcanic rock holds rich veins of silver and other metals, which long drew miners into its canyons."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sierra_Madre_Occidental",
+        "https://en.wikipedia.org/wiki/Sierra_Madre_Oriental"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.mx.crater-ring",
+      "countries": [
+        "MX"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "MX": {
+          "type": "place",
+          "lat": 20.7,
+          "lon": -89.3
+        }
+      },
+      "text": {
+        "en": "A buried impact crater still decides where groundwater surfaces."
+      },
+      "label": {
+        "en": "CRATER RING"
+      },
+      "body": {
+        "en": "About 66 million years ago an asteroid struck here, and the crater it left was buried under younger limestone. Fractures around its rim let the rock collapse into water-filled sinkholes, so a ring of them marks the buried crater.\n\nThe same impact is linked to the extinction of the dinosaurs."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chicxulub_crater"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.mx.born-in-a-field",
+      "countries": [
+        "MX"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "MX": {
+          "type": "place",
+          "lat": 19.49,
+          "lon": -102.25
+        }
+      },
+      "text": {
+        "en": "A volcano grew from a farmer's field in a single year."
+      },
+      "label": {
+        "en": "CORNFIELD VOLCANO"
+      },
+      "body": {
+        "en": "In 1943 the ground opened in a cornfield and a cinder cone rose some 300 m in its first year, burying nearby villages in ash and lava.\n\nIt belongs to a field of more than a thousand small vents, where each volcano erupts once and then dies, so a new one can start almost anywhere."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Par%C3%ADcutin",
+        "https://en.wikipedia.org/wiki/Michoac%C3%A1n-Guanajuato_volcanic_field"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.mx.cenotes",
+      "countries": [
+        "MX"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "MX": {
+          "type": "place",
+          "lat": 20.7,
+          "lon": -88.6
+        }
+      },
+      "text": {
+        "en": "Limestone caves collapse into water-filled pits, since no rivers run on top."
+      },
+      "label": {
+        "en": "SINKHOLE POOLS"
+      },
+      "body": {
+        "en": "Rain sinks straight through the porous limestone, so few rivers flow at the surface. Underground, water dissolves caves of its own.\n\nWhen a cave roof falls in, a deep pool called a cenote opens to the sky, and it has long been the dependable source of fresh water here."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cenote"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.mx.sinking-lakebed",
+      "countries": [
+        "MX"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "MX": {
+          "type": "place",
+          "lat": 19.4,
+          "lon": -99.1
+        }
+      },
+      "text": {
+        "en": "A high valley once held lakes; now the soft clay they left is slumping."
+      },
+      "label": {
+        "en": "SINKING LAKEBED"
+      },
+      "body": {
+        "en": "The central highlands form a closed basin that once held shallow lakes with no outlet to the sea. They have been drained and built over, and the soft lake clay below compresses as people pump groundwater faster than rain refills it.\n\nSome districts sink several centimetres every year, cracking buildings and pipes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Land_subsidence",
+        "https://en.wikipedia.org/wiki/Lake_Texcoco"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.mx.river-that-stops",
+      "countries": [
+        "MX"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "MX": {
+          "type": "place",
+          "lat": 32.1,
+          "lon": -115.0
+        }
+      },
+      "text": {
+        "en": "A mountain river is drained by farms and cities before it reaches the sea."
+      },
+      "label": {
+        "en": "RIVER THAT STOPS"
+      },
+      "body": {
+        "en": "Fed by snow in distant mountains, this river waters millions of people and huge irrigated fields along its way. Little is left at its end, so its delta, once a lush marsh, is dry cracked mud for most of the year.\n\nOccasional floods still revive strips of green."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Colorado_River_Delta"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.mx.wrong-way-rain",
+      "countries": [
+        "MX"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "MX": {
+          "type": "place",
+          "lat": 17.6,
+          "lon": -92.6
+        }
+      },
+      "text": {
+        "en": "Most water falls in the wet south, far from most farms and people."
+      },
+      "label": {
+        "en": "WRONG-WAY RAIN"
+      },
+      "body": {
+        "en": "Moist winds off the Gulf rise against southern mountains and drop rain nearly all year, filling the country's biggest rivers and flooding the coastal plain.\n\nThe dry north and centre, where most people, cities and irrigated fields are, get far less. So water is moved by canals and pipes or pumped from aquifers, and shortages are common."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Water_resources_management_in_Mexico",
+        "https://en.wikipedia.org/wiki/Grijalva_River"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.mx.desert-oasis",
+      "countries": [
+        "MX"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "MX": {
+          "type": "place",
+          "lat": 26.99,
+          "lon": -102.07
+        }
+      },
+      "text": {
+        "en": "Blue springs pool in the middle of a desert and shelter unique life."
+      },
+      "label": {
+        "en": "DESERT OASIS"
+      },
+      "body": {
+        "en": "Beneath the dry basin, deep water rises through cracks and fills about two hundred crystal pools. The basin has been isolated so long that fish, snails and microbes in each pool evolved separately, and some species exist nowhere else.\n\nPumping for farms threatens to lower the water and dry the pools."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cuatro_Ci%C3%A9negas"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.mx.desert-belt",
+      "countries": [
+        "MX"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "MX": {
+          "type": "place",
+          "lat": 29.4,
+          "lon": -110.7
+        }
+      },
+      "text": {
+        "en": "Dry air sinking from above and a mountain wall leave the north parched."
+      },
+      "label": {
+        "en": "DESERT BELT"
+      },
+      "body": {
+        "en": "Around 30 degrees north, air that rose near the equator sinks back down, warming and drying as it falls, and deserts form around the world. Mountains to the west add a rain shadow.\n\nCacti, which store water and open their pores at night, dominate here, and some grow taller than a person."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sonoran_Desert",
+        "https://en.wikipedia.org/wiki/Hadley_cell"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.mx.butterfly-winter",
+      "countries": [
+        "MX"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "MX": {
+          "type": "place",
+          "lat": 19.6,
+          "lon": -100.3
+        }
+      },
+      "text": {
+        "en": "Millions of orange butterflies cluster in cool mountain fir forests."
+      },
+      "label": {
+        "en": "BUTTERFLY WINTER"
+      },
+      "body": {
+        "en": "Monarchs from the northern forests and prairies fly thousands of kilometres south each autumn. They need high fir forests that stay cool enough to slow their metabolism yet rarely freeze, so they can spend the winter huddled on the trees.\n\nThey depend on a few patches of forest, so logging threatens the whole migration."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Monarch_butterfly_migration",
+        "https://en.wikipedia.org/wiki/Monarch_Butterfly_Biosphere_Reserve"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.mx.rain-gradient",
+      "countries": [
+        "MX"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "MX": {
+          "type": "place",
+          "lat": 20.0,
+          "lon": -89.4
+        }
+      },
+      "text": {
+        "en": "On a flat limestone slab, dry scrub gives way to rainforest."
+      },
+      "label": {
+        "en": "RAIN GRADIENT"
+      },
+      "body": {
+        "en": "The northern tip is flat and dry, with low thorny scrub. Rainfall climbs steadily southward, and so does the forest, from low dry woods through tall semi-evergreen forest to rainforest near the base.\n\nThere are no surface rivers, so trees depend on rain alone, and many drop their leaves in the dry season."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Yucat%C3%A1n_Peninsula",
+        "https://en.wikipedia.org/wiki/Yucat%C3%A1n_Peninsula#Climate"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.mx.mountain-islands",
+      "countries": [
+        "MX"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "MX": {
+          "type": "place",
+          "lat": 17.1,
+          "lon": -97.3
+        }
+      },
+      "text": {
+        "en": "Cool peaks rise like islands from hot lowlands, each with its own species."
+      },
+      "label": {
+        "en": "MOUNTAIN ISLANDS"
+      },
+      "body": {
+        "en": "Mountain ranges here meet two great ecological zones, northern and tropical. Their cool summits are separated by hot lowlands, so plants and animals that arrived in ice-age cold were stranded on separate peaks and have since diverged.\n\nThe result is among the richest collections of pines and oaks anywhere, many found nowhere else."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Madrean_pine%E2%80%93oak_woodlands",
+        "https://en.wikipedia.org/wiki/Sky_island"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.mx.torn-off-sliver",
+      "countries": [
+        "MX"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "shape",
+      "anchors": {
+        "MX": {
+          "type": "whole"
+        }
+      },
+      "text": {
+        "en": "A long peninsula is slowly splitting away along a plate boundary."
+      },
+      "label": {
+        "en": "TORN-OFF SLIVER"
+      },
+      "body": {
+        "en": "A plate boundary runs up the gulf and then through the land beside it. The plate carrying the peninsula slides north-west past the mainland, stretching the crust until the sea flooded the gap about six million years ago.\n\nThe slice keeps moving a few centimetres a year, drifting further from the mainland."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Baja_California_peninsula",
+        "https://en.wikipedia.org/wiki/Gulf_of_California"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

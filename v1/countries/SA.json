@@ -1,0 +1,312 @@
+{
+  "version": 1,
+  "country": "SA",
+  "notes": [
+    {
+      "id": "outlines.sa.riftshoulder",
+      "countries": [
+        "SA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "SA": {
+          "type": "place",
+          "lat": 19.0,
+          "lon": 42.5
+        }
+      },
+      "text": {
+        "en": "A plate pulling away from Africa raised a wall facing the sea."
+      },
+      "label": {
+        "en": "RIFT SHOULDER"
+      },
+      "body": {
+        "en": "As the Red Sea rift opens, the crust beside it has been lifted into a long escarpment that falls steeply to the coast. Moist sea air rises up this wall and drops rain, so the slopes are terraced and farmed. Just behind the crest, the land slopes away to desert."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Red_Sea_Rift",
+        "https://en.wikipedia.org/wiki/Asir_Mountains"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.sa.lavafields",
+      "countries": [
+        "SA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "SA": {
+          "type": "place",
+          "lat": 25.0,
+          "lon": 40.0
+        }
+      },
+      "text": {
+        "en": "Broad fields of dark lava lie scattered across a desert."
+      },
+      "label": {
+        "en": "BLACK LAVA SEA"
+      },
+      "body": {
+        "en": "Magma rising above the same rift has spread dark basalt flows and hundreds of cones over huge areas of the west. The rock is so black it stands out from space. Fresh eruptions are rare but not unknown, and the last big one was recorded in the 13th century."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Harrat_Rahat",
+        "https://en.wikipedia.org/wiki/Volcanic_field"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.sa.cuesta",
+      "countries": [
+        "SA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "SA": {
+          "type": "place",
+          "lat": 24.5,
+          "lon": 46.0
+        }
+      },
+      "text": {
+        "en": "Tilted rock layers wear away into a cliff hundreds of kilometres long."
+      },
+      "label": {
+        "en": "TILTED WALL"
+      },
+      "body": {
+        "en": "A hard limestone layer tilts gently toward the east, with softer rock below it. Erosion eats away the soft rock and leaves the hard layer as a long, steep cliff facing west, with a gentle back slope. The escarpment stretches hundreds of kilometres and has shaped the routes across the plateau."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tuwaiq",
+        "https://en.wikipedia.org/wiki/Cuesta"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.sa.shield",
+      "countries": [
+        "SA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "SA": {
+          "type": "place",
+          "lat": 23.0,
+          "lon": 42.0
+        }
+      },
+      "text": {
+        "en": "Ancient western bedrock holds gold and copper mined for millennia."
+      },
+      "label": {
+        "en": "OLD GOLD ROCK"
+      },
+      "body": {
+        "en": "A belt of very old rock formed from volcanic arcs more than half a billion years ago is exposed along the west. Hot fluids in cracks concentrated gold, copper and other metals. Mines here were worked in ancient times, and gold is still produced."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arabian_Shield"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.sa.fossilwater",
+      "countries": [
+        "SA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "SA": {
+          "type": "place",
+          "lat": 26.5,
+          "lon": 44.0
+        }
+      },
+      "text": {
+        "en": "Desert fields drink water that fell as rain thousands of years ago."
+      },
+      "label": {
+        "en": "FOSSIL WATER"
+      },
+      "body": {
+        "en": "Rain that fell in wetter climates tens of thousands of years ago soaked into deep sandstone and stayed. Wells pump it up for irrigation, and in some regions fields of wheat once spread across the desert. Almost none refills, so the reserves shrink with every season."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fossil_water",
+        "https://en.wikipedia.org/wiki/Water_supply_and_sanitation_in_Saudi_Arabia"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.sa.wadi",
+      "countries": [
+        "SA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "SA": {
+          "type": "place",
+          "lat": 24.0,
+          "lon": 46.0
+        }
+      },
+      "text": {
+        "en": "Valleys carved by water stay dry for years, then flood in an hour."
+      },
+      "label": {
+        "en": "DRY RIVERBEDS"
+      },
+      "body": {
+        "en": "Rain is rare but when storms hit, the hard, bare ground sheds water at once and it rushes down dry valleys in flash floods. These valleys were cut by water over many wetter ages. Between floods they are dry, and the water that seeps beneath the gravel supplies wells and farms."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wadi",
+        "https://en.wikipedia.org/wiki/Flash_flood"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.sa.oasis",
+      "countries": [
+        "SA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "SA": {
+          "type": "place",
+          "lat": 25.4,
+          "lon": 49.6
+        }
+      },
+      "text": {
+        "en": "Water from deep underground rises to the surface and feeds millions of palms."
+      },
+      "label": {
+        "en": "SPRINGS IN SAND"
+      },
+      "body": {
+        "en": "Water stored in deep rock layers is under pressure, so in a few places it flows up as springs. The water allows date palms to grow in a vast desert, and one oasis holds millions of palms. Springs have dropped as pumping has increased."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Al-Ahsa_Oasis"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.sa.sands",
+      "countries": [
+        "SA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "SA": {
+          "type": "place",
+          "lat": 21.0,
+          "lon": 50.5
+        }
+      },
+      "text": {
+        "en": "Wind piles sand into ridges hundreds of metres high across a vast, empty basin."
+      },
+      "label": {
+        "en": "SAND SEA"
+      },
+      "body": {
+        "en": "Almost no rain falls over this basin, and wind sorts the sand into huge dunes, some over 200 metres high. Few plants or animals live there, and nobody settles; yet in places oil and gas lie beneath the sand."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rub%27_al_Khali"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.sa.oryx",
+      "countries": [
+        "SA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "SA": {
+          "type": "place",
+          "lat": 20.5,
+          "lon": 46.5
+        }
+      },
+      "text": {
+        "en": "A pale antelope lives in the desert by tracking rare rain."
+      },
+      "label": {
+        "en": "RAIN SENSOR"
+      },
+      "body": {
+        "en": "A white coat reflects heat, and the animal can go long periods without drinking by feeding on plants that hold moisture. It wanders widely, apparently following distant rain, so it finds fresh growth. Hunting nearly wiped it out, and it was bred in zoos and reintroduced."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arabian_oryx"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.sa.mistforest",
+      "countries": [
+        "SA"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "SA": {
+          "type": "place",
+          "lat": 18.5,
+          "lon": 42.8
+        }
+      },
+      "text": {
+        "en": "Juniper woods cling to cool, misty highlands on a desert's edge."
+      },
+      "label": {
+        "en": "MIST FOREST"
+      },
+      "body": {
+        "en": "The wall that catches rain from the sea also wraps its upper slopes in fog. This feeds juniper and olive woods and wild fig trees, with baboons living among them, in a country that is mostly desert. The cool moist air makes it the most forested part of the land."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Asir_Mountains",
+        "https://en.wikipedia.org/wiki/Juniperus_procera"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

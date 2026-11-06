@@ -1,0 +1,408 @@
+{
+  "version": 1,
+  "country": "PL",
+  "notes": [
+    {
+      "id": "outlines.pl.plain",
+      "countries": [
+        "PL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "PL": {
+          "type": "place",
+          "lat": 52.2,
+          "lon": 19.5
+        }
+      },
+      "text": {
+        "en": "Ice sheets levelled the land, leaving a vast open lowland with no barriers."
+      },
+      "label": {
+        "en": "FLAT PLAIN"
+      },
+      "body": {
+        "en": "Most of the land lies below 200 metres. Ice sheets spread clay, sand and gravel over it and filled in the dips, and no mountain range interrupts the plain. The flatness made it easy to farm rye, potatoes and wheat, but it also left the area open to travellers and winds from all sides."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/North_European_Plain",
+        "https://en.wikipedia.org/wiki/Geography_of_Poland"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pl.loess",
+      "countries": [
+        "PL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "PL": {
+          "type": "place",
+          "lat": 50.8,
+          "lon": 22.0
+        }
+      },
+      "text": {
+        "en": "Dust blown off the ice edge became deep, fertile soil in the south."
+      },
+      "label": {
+        "en": "WIND-BLOWN SOIL"
+      },
+      "body": {
+        "en": "During the ice ages, strong winds picked up fine dust from the bare ground in front of the ice and dropped it to the south. Over thousands of years it built a thick, soft layer called loess. It holds water well and is rich in minerals, so these uplands became some of the best farmland in the country."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Loess",
+        "https://en.wikipedia.org/wiki/Lublin_Upland"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pl.old-hills",
+      "countries": [
+        "PL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "PL": {
+          "type": "place",
+          "lat": 50.9,
+          "lon": 21.0
+        }
+      },
+      "text": {
+        "en": "Low, rounded hills are worn-down stumps of folded rock 400 million years old."
+      },
+      "label": {
+        "en": "TIRED OLD RANGE"
+      },
+      "body": {
+        "en": "Rock here was folded into mountains in the distant past and has been eroding ever since. Hard quartzite ridges remain as long, forested crests only a few hundred metres high, with softer rock worn down between. Their age shows in the rocks: some of the oldest in the region lie exposed, with fossils from ancient seas."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Świętokrzyskie_Mountains",
+        "https://en.wikipedia.org/wiki/Paleozoic"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pl.flysch",
+      "countries": [
+        "PL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "PL": {
+          "type": "place",
+          "lat": 49.7,
+          "lon": 20.5
+        }
+      },
+      "text": {
+        "en": "Piled-up sand and mud from an old seabed form soft, rounded mountains."
+      },
+      "label": {
+        "en": "LAYERED RIDGES"
+      },
+      "body": {
+        "en": "Before the Carpathians rose, thick layers of sand and mud settled on the floor of a sea. Folding pushed them up as alternating hard and soft layers called flysch. Erosion has rounded them into forested ridges and broad valleys, quite unlike the sharp granite heights farther south, and landslides are common on the clay slopes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Flysch",
+        "https://en.wikipedia.org/wiki/Carpathian_Mountains"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pl.salt",
+      "countries": [
+        "PL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "PL": {
+          "type": "place",
+          "lat": 50.0,
+          "lon": 20.05
+        }
+      },
+      "text": {
+        "en": "Beds of salt are what remains of a sea that dried out."
+      },
+      "label": {
+        "en": "EVAPORATED SEA"
+      },
+      "body": {
+        "en": "About 14 million years ago, a shallow sea at the foot of the rising mountains dried up, leaving thick salt beds. Later layers buried and preserved them. Dissolving them in hot water or digging them out has been a major industry for centuries, and the chambers left in the rock became huge underground halls."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wieliczka_Salt_Mine",
+        "https://en.wikipedia.org/wiki/Evaporite"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pl.lakeland",
+      "countries": [
+        "PL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "PL": {
+          "type": "place",
+          "lat": 53.8,
+          "lon": 21.6
+        }
+      },
+      "text": {
+        "en": "Thousands of lakes mark where blocks of ice melted in the ground."
+      },
+      "label": {
+        "en": "BURIED ICE LAKES"
+      },
+      "body": {
+        "en": "The northern lowland was among the last areas covered by ice, so its landscape is fresh: hollows left by buried ice blocks, long channels cut by meltwater, and ridges of gravel. Together they hold thousands of lakes, joined by channels and rivers, and popular for sailing."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Masurian_Lake_District",
+        "https://en.wikipedia.org/wiki/Kettle_(landform)"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pl.urstromtal",
+      "countries": [
+        "PL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "PL": {
+          "type": "place",
+          "lat": 52.6,
+          "lon": 16.5
+        }
+      },
+      "text": {
+        "en": "Rivers flowing north turn west along wide valleys cut by meltwater."
+      },
+      "label": {
+        "en": "ICE-AGE CHANNELS"
+      },
+      "body": {
+        "en": "At the end of the ice age, huge amounts of meltwater drained along the ice front in broad east-west valleys. Today's rivers, flowing north from the hills, join these valleys and turn west for a while before they turn north again. The long channels are wide, flat and often marshy, and canals link the rivers along them."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Urstromtal",
+        "https://en.wikipedia.org/wiki/Proglacial_lake"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pl.flash-floods",
+      "countries": [
+        "PL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "PL": {
+          "type": "place",
+          "lat": 49.7,
+          "lon": 20.7
+        }
+      },
+      "text": {
+        "en": "Rain on steep, clay-rich slopes races into rivers within hours."
+      },
+      "label": {
+        "en": "FAST RUNOFF"
+      },
+      "body": {
+        "en": "The flysch hills shed water: clay layers do not let rain soak in, and the slopes are steep. After heavy rain or a quick thaw, small streams swell within hours and send flood waves into the lowlands. Floods in this region have hit many towns hard, which is why dams and flood channels were built along the rivers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Flysch",
+        "https://en.wikipedia.org/wiki/Flash_flood"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pl.floodplain",
+      "countries": [
+        "PL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "PL": {
+          "type": "place",
+          "lat": 53.4,
+          "lon": 22.7
+        }
+      },
+      "text": {
+        "en": "A river that is allowed to flood every spring builds a vast marsh."
+      },
+      "label": {
+        "en": "WILD FLOODPLAIN"
+      },
+      "body": {
+        "en": "A slow, unregulated river in a wide, flat valley overflows its banks each spring and covers meadows and peat for weeks. The flood drops nutrients, and the standing water feeds reeds, sedges and fish. When the water retreats, the marsh hosts huge numbers of nesting and migrating birds."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Biebrza_National_Park",
+        "https://en.wikipedia.org/wiki/Floodplain"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pl.primeval",
+      "countries": [
+        "PL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "PL": {
+          "type": "place",
+          "lat": 52.65,
+          "lon": 23.5
+        }
+      },
+      "text": {
+        "en": "One lowland forest was spared and still shelters Europe's largest land mammal."
+      },
+      "label": {
+        "en": "LOWLAND PRIMEVAL"
+      },
+      "body": {
+        "en": "Much of the lowland forest was cleared, but a patch on poor, wet ground survived, protected for centuries. Huge old oaks and spruce stand beside fallen logs left to rot, which feed beetles, fungi and woodpeckers. European bison, wiped out in the wild, were reintroduced here and now roam free in a small herd."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Białowieża_Forest",
+        "https://en.wikipedia.org/wiki/European_bison"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pl.storks",
+      "countries": [
+        "PL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "PL": {
+          "type": "place",
+          "lat": 53.4,
+          "lon": 22.6
+        }
+      },
+      "text": {
+        "en": "Wet meadows and old-style farms give storks more nesting space than anywhere."
+      },
+      "label": {
+        "en": "STORK NESTS"
+      },
+      "body": {
+        "en": "White storks hunt frogs, insects and mice in damp, unmown meadows and nest on rooftops and tall posts. Small farms, hay meadows and unspoilt wetlands supply the food. A large share of the world's white storks breed here each summer before flying to Africa, thousands of kilometres away."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/White_stork"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pl.pine-sand",
+      "countries": [
+        "PL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "PL": {
+          "type": "place",
+          "lat": 53.5,
+          "lon": 17.9
+        }
+      },
+      "text": {
+        "en": "Sandy outwash soils grew conifers because little else could thrive on them."
+      },
+      "label": {
+        "en": "PINE ON SAND"
+      },
+      "body": {
+        "en": "Meltwater left broad sheets of dry, sandy soil that hold few nutrients and little water. Scots pine copes with this, and it fills the large forests of the northern lowlands. Planted in rows for timber, these woods are less rich in wildlife than old mixed forest, and pine forests are prone to fire in dry summers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scots_pine",
+        "https://en.wikipedia.org/wiki/Tuchola_Forest"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.pl.carnivores",
+      "countries": [
+        "PL"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "PL": {
+          "type": "place",
+          "lat": 49.7,
+          "lon": 21.8
+        }
+      },
+      "text": {
+        "en": "Unbroken mountain forest shelters wolves, lynx and bears."
+      },
+      "label": {
+        "en": "LARGE CARNIVORES"
+      },
+      "body": {
+        "en": "The Carpathian forests form one of Europe's largest areas of continuous woodland, steep and thinly populated. That gives wolves, lynx and brown bears space to roam and hunt deer and wild boar. These animals vanished from much of western Europe, so the mountains act as a refuge from which they can recolonise."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Carpathian_Mountains",
+        "https://en.wikipedia.org/wiki/Brown_bear"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

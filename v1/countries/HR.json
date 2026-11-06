@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "HR",
+  "notes": [
+    {
+      "id": "outlines.hr.dinaric-karst",
+      "countries": [
+        "HR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "HR": {
+          "type": "place",
+          "lat": 44.8,
+          "lon": 15.2
+        }
+      },
+      "text": {
+        "en": "Colliding plates lifted soluble limestone into jagged barren ridges."
+      },
+      "label": {
+        "en": "KARST PLATEAUS"
+      },
+      "body": {
+        "en": "Where the Adriatic plate collides with Eurasia, thick carbonate platforms buckled into rugged crests. Rainwater continually dissolves the limestone, carving barren fields of sharp rock flutes, dolines, and dry valleys that run parallel to the sea."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dinaric_Alps"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hr.vertical-pits",
+      "countries": [
+        "HR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "HR": {
+          "type": "place",
+          "lat": 44.7,
+          "lon": 15.0
+        }
+      },
+      "text": {
+        "en": "Deep vertical cave shafts drop over a kilometre straight into bedrock."
+      },
+      "label": {
+        "en": "DEEP SHAFTS"
+      },
+      "body": {
+        "en": "Heavy mountain precipitation seeping along deep vertical tectonic fractures dissolved colossal vertical potholes through coastal limestone massifs. Underground streams flow through perpetual darkness, feeding icy coastal freshwater springs."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lukina_jama"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hr.pannonian-plains",
+      "countries": [
+        "HR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "HR": {
+          "type": "place",
+          "lat": 45.4,
+          "lon": 18.0
+        }
+      },
+      "text": {
+        "en": "Loess sediments deposited in an ancient sea floor create rich farmland."
+      },
+      "label": {
+        "en": "FERTILE LOWLANDS"
+      },
+      "body": {
+        "en": "In complete contrast to the rocky mountain spine, the eastern interior forms part of a vast subsiding basin. Windblown silt and broad river floodplains deposited deep, fertile loess soils that anchor grain agriculture and oak woodlands."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pannonian_Basin"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hr.dalmatian-ridges",
+      "countries": [
+        "HR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "HR": {
+          "type": "place",
+          "lat": 44.0,
+          "lon": 15.5
+        }
+      },
+      "text": {
+        "en": "Parallel folded limestone anticlines became long chains of islands."
+      },
+      "label": {
+        "en": "DROWNED RIDGES"
+      },
+      "body": {
+        "en": "When sea levels rose at the end of the last Ice Age, water invaded parallel tectonic valleys along the coast. The crests of the folded mountain ridges remained above water, creating a world-famous coast of long, narrow islands aligned with the mainland."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dalmatian_coast"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hr.travertine-dams",
+      "countries": [
+        "HR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "HR": {
+          "type": "place",
+          "lat": 44.9,
+          "lon": 15.6
+        }
+      },
+      "text": {
+        "en": "Moss and algae precipitate calcium carbonate into stepped natural dams."
+      },
+      "label": {
+        "en": "LIVING DAMS"
+      },
+      "body": {
+        "en": "Cold, mineral-saturated mountain rivers flow through forested limestone gorges. Microscopic plants and mosses extract carbon dioxide from the water, causing dissolved limestone to form porous tufa dams that steadily grow, impounding tiered crystal lakes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Plitvice_Lakes_National_Park"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hr.catabatic-bura",
+      "countries": [
+        "HR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "HR": {
+          "type": "place",
+          "lat": 44.9,
+          "lon": 15.0
+        }
+      },
+      "text": {
+        "en": "Freezing inland air masses spill violently over coastal mountain passes."
+      },
+      "label": {
+        "en": "GALE DOWNDRAFTS"
+      },
+      "body": {
+        "en": "When high pressure builds over continental Europe in winter, cold dense air cascades down steep coastal escarpments toward the warmer sea. These violent katabatic winds can exceed two hundred kilometres an hour, stripping vegetation and churning coastal waters."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bora_(wind)"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hr.submarine-springs",
+      "countries": [
+        "HR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "HR": {
+          "type": "place",
+          "lat": 43.4,
+          "lon": 16.9
+        }
+      },
+      "text": {
+        "en": "Pressurized subterranean rivers bubble up as cold freshwater boils at sea."
+      },
+      "label": {
+        "en": "SEA SPRINGS"
+      },
+      "body": {
+        "en": "Deep karst cave networks transport mountain snowmelt underground beneath coastal ridges. The pressurized conduits discharge directly out of the sea floor, creating churning circles of cold, brackish water on the azure surface of the bay."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vrulja"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hr.alluvial-marshes",
+      "countries": [
+        "HR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "HR": {
+          "type": "place",
+          "lat": 45.6,
+          "lon": 18.7
+        }
+      },
+      "text": {
+        "en": "Seasonally swelling rivers flood vast oak marshes and inland delta wetlands."
+      },
+      "label": {
+        "en": "INLAND DELTA"
+      },
+      "body": {
+        "en": "Where major rivers wind through flat eastern plains, annual spring meltwater spills into low-lying depressions. These expansive floodplain wetlands act as natural flood-relief sponges and provide prime spawning grounds for river fish."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Kopa%C4%8Dki_Rit"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hr.large-carnivores",
+      "countries": [
+        "HR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "HR": {
+          "type": "place",
+          "lat": 45.2,
+          "lon": 14.8
+        }
+      },
+      "text": {
+        "en": "Vast continuous beech and fir forests sustain healthy predator packs."
+      },
+      "label": {
+        "en": "FOREST HUNTERS"
+      },
+      "body": {
+        "en": "Remote limestone mountain ranges preserve extensive unbroken tracts of mixed forest. The rugged, cavernous terrain provides winter dens and plentiful beech nuts, supporting thriving populations of brown bears, grey wolves, and Eurasian lynx."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gorski_Kotar"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hr.blind-salamanders",
+      "countries": [
+        "HR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "HR": {
+          "type": "place",
+          "lat": 45.0,
+          "lon": 15.3
+        }
+      },
+      "text": {
+        "en": "Pale blind amphibians live for over a century in flooded karst caverns."
+      },
+      "label": {
+        "en": "CAVE SALAMANDERS"
+      },
+      "body": {
+        "en": "Confined to perpetual darkness in subterranean limestone conduits, these slender white salamanders have lost their eyes and skin pigment. Relying on heightened chemical and electrical senses, they can survive for years without food in cold cavern waters."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Olm"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hr.coastal-vultures",
+      "countries": [
+        "HR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "HR": {
+          "type": "place",
+          "lat": 45.0,
+          "lon": 14.4
+        }
+      },
+      "text": {
+        "en": "Massive scavengers nest on vertical sea cliffs and forage over islands."
+      },
+      "label": {
+        "en": "CLIFF SCAVENGERS"
+      },
+      "body": {
+        "en": "Unlike most mountain raptors that nest inland, colonies of these giant vultures breed directly on sheer sea cliffs overlooking the northern gulf. They utilize maritime thermal updrafts to glide over surrounding islands in search of fallen sheep."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Griffon_vulture"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.hr.lowland-oaks",
+      "countries": [
+        "HR"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "HR": {
+          "type": "place",
+          "lat": 45.1,
+          "lon": 18.7
+        }
+      },
+      "text": {
+        "en": "Giant pedunculate oaks thrive on mineral-rich river clay lowlands."
+      },
+      "label": {
+        "en": "FLOODPLAIN OAKS"
+      },
+      "body": {
+        "en": "In eastern river basins, centuries-old pedunculate oak forests grow on deep alluvial soils. The dense trees tolerate periodic spring flooding and yield massive acorn crops that traditionally sustained free-roaming herds of native swine."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Spa%C4%8Dva_basin"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

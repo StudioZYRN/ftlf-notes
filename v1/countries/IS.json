@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "IS",
+  "notes": [
+    {
+      "id": "outlines.is.tectonic-rift",
+      "countries": [
+        "IS"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IS": {
+          "type": "place",
+          "lat": 64.3,
+          "lon": -21.1
+        }
+      },
+      "text": {
+        "en": "The divergent seam between two continental plates splits open above water."
+      },
+      "label": {
+        "en": "TECTONIC SEAM"
+      },
+      "body": {
+        "en": "Where the North American and Eurasian plates pull apart by a few centimetres each year, the deep oceanic rift is elevated uniquely above sea level by a mantle plume. Giant fissures, sunken fault valleys, and stepping canyons scar the bare rock."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mid-Atlantic_Ridge"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.is.table-mountains",
+      "countries": [
+        "IS"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IS": {
+          "type": "place",
+          "lat": 64.9,
+          "lon": -16.8
+        }
+      },
+      "text": {
+        "en": "Volcanoes erupting beneath thick Ice Age glaciers formed flat-topped tuyas."
+      },
+      "label": {
+        "en": "TABLE MOUNTAINS"
+      },
+      "body": {
+        "en": "When subglacial basalt eruptions melted caverns inside thick ice caps, chilling meltwater quenched the lava into vertical mounds of glassy hyaloclastite. Once the lava breached the ice surface, it spread into flat subaerial lava caps with sheer cliff walls."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tuya"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.is.hexagonal-columns",
+      "countries": [
+        "IS"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IS": {
+          "type": "place",
+          "lat": 63.5,
+          "lon": -19.0
+        }
+      },
+      "text": {
+        "en": "Slow, uniform cooling of thick lava sheets cracked bedrock into basalt pillars."
+      },
+      "label": {
+        "en": "HEXAGONAL COLUMNS"
+      },
+      "body": {
+        "en": "When molten basalt pools in thick, sheltered flows, contracting rock fissures uniformly as heat dissipates evenly. Contraction joints propagate downward through the cooling mass, sculpting geometric hexagonal prisms that resemble giant stone organ pipes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Reynisfjara"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.is.black-sandur",
+      "countries": [
+        "IS"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "IS": {
+          "type": "place",
+          "lat": 63.8,
+          "lon": -17.5
+        }
+      },
+      "text": {
+        "en": "Catastrophic subglacial floods spread endless plains of black volcanic sand."
+      },
+      "label": {
+        "en": "BLACK SANDUR"
+      },
+      "body": {
+        "en": "When subglacial volcanoes erupt, billions of litres of trapped meltwater burst forth in sudden catastrophic glacial outbursts. These violent floods pulverize volcanic basalt into fine black sand and gravel, spreading immense, barren outwash plains along the coast."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sandur"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.is.erupting-geysers",
+      "countries": [
+        "IS"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IS": {
+          "type": "place",
+          "lat": 64.3,
+          "lon": -20.3
+        }
+      },
+      "text": {
+        "en": "Superheated subterranean groundwater flashes violently into steam fountains."
+      },
+      "label": {
+        "en": "SPOUTING STEAM"
+      },
+      "body": {
+        "en": "Shallow magma chambers boil circulating groundwater in narrow underground rock conduits. Because pressure deep in the vent keeps water liquid above its normal boiling point, the sudden release of steam at the surface triggers explosive towering fountains."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geysir"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.is.iceberg-lagoons",
+      "countries": [
+        "IS"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IS": {
+          "type": "place",
+          "lat": 64.05,
+          "lon": -16.2
+        }
+      },
+      "text": {
+        "en": "Retreating glacier tongues calve luminous blue icebergs into deep lagoons."
+      },
+      "label": {
+        "en": "GLACIAL LAGOONS"
+      },
+      "body": {
+        "en": "As warming temperatures melt coastal glacier lobes, meltwater fills deep over-deepened bedrock depressions. Giant blocks of centuries-old compacted ice calve off the glacier face, floating slowly toward the sea while waves wash them onto black beaches."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/J%C3%B6kuls%C3%A1rl%C3%B3n"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.is.thundering-cataracts",
+      "countries": [
+        "IS"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IS": {
+          "type": "place",
+          "lat": 65.8,
+          "lon": -16.4
+        }
+      },
+      "text": {
+        "en": "Mighty silt-laden glacial rivers tumble over stepped basalt fault lines."
+      },
+      "label": {
+        "en": "GLACIAL CATARACTS"
+      },
+      "body": {
+        "en": "Vast inland ice caps feed torrential braided rivers carrying heavy sediment loads. Slicing through deep tectonic faults and hard basalt steps, these rivers plunge into cavernous canyons, generating thundering roar and mist visible for kilometres."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dettifoss"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.is.carved-fjords",
+      "countries": [
+        "IS"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "IS": {
+          "type": "place",
+          "lat": 65.2,
+          "lon": -14.2
+        }
+      },
+      "text": {
+        "en": "Ancient ice sheets gouged steep narrow fjords along the older coastlines."
+      },
+      "label": {
+        "en": "GLACIATED FJORDS"
+      },
+      "body": {
+        "en": "In the older, non-volcanic eastern and northwestern peninsulas, repeated Ice Age valley glaciers carved deep U-shaped troughs into layered basalt sheets. Steep-sided fjords provide sheltered deepwater anchorages shielded from open Atlantic gales."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fjords_of_Iceland"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.is.tundra-foxes",
+      "countries": [
+        "IS"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IS": {
+          "type": "place",
+          "lat": 65.5,
+          "lon": -20.0
+        }
+      },
+      "text": {
+        "en": "The only native land mammal survived Ice Age blizzards on coastal shores."
+      },
+      "label": {
+        "en": "TUNDRA FORAGERS"
+      },
+      "body": {
+        "en": "Walking across frozen pack ice at the end of the last Ice Age, these small hardy canids colonized the subpolar island. Thick dense fur and circulating foot counter-currents allow them to endure fierce winter blizzards while scavenging seabirds on coastal cliffs."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arctic_fox"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.is.cliff-puffins",
+      "countries": [
+        "IS"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IS": {
+          "type": "place",
+          "lat": 63.7,
+          "lon": -19.5
+        }
+      },
+      "text": {
+        "en": "Millions of colourful seabirds burrow into turf-topped marine cliffs."
+      },
+      "label": {
+        "en": "COLONIAL PUFFINS"
+      },
+      "body": {
+        "en": "Rich cold ocean currents fuel immense populations of sand eels and capelin around the island. In summer, over half the world's Atlantic puffin population converges on grassy sea cliffs, digging deep nesting burrows in soft coastal turf."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Atlantic_puffin"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.is.mossy-lava-carpets",
+      "countries": [
+        "IS"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IS": {
+          "type": "place",
+          "lat": 63.7,
+          "lon": -18.1
+        }
+      },
+      "text": {
+        "en": "Spongy green moss carpets slow-weathering basalt rubble in thick layers."
+      },
+      "label": {
+        "en": "LAVA CARPETS"
+      },
+      "body": {
+        "en": "On barren historical lava flows where harsh winds prevent trees from rooting, pioneer woolly fringe moss establishes a delicate foothold. Over centuries, the moss forms a thick, cushiony green blanket up to thirty centimetres deep across jagged volcanic boulders."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eldhraun"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.is.dwarf-birch-scrub",
+      "countries": [
+        "IS"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "IS": {
+          "type": "place",
+          "lat": 65.1,
+          "lon": -14.7
+        }
+      },
+      "text": {
+        "en": "Low twisted birch scrub withstands subpolar winds and heavy sheep grazing."
+      },
+      "label": {
+        "en": "DWARF WOODS"
+      },
+      "body": {
+        "en": "Before human settlement and livestock grazing cleared the land, hardy downy birch and tea-leaved willow covered valley lowlands. Remaining protected woodlands feature stunted, twisting trunks that hug the ground to survive fierce Arctic gales."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Betula_pubescens"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

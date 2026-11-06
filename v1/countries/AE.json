@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "AE",
+  "notes": [
+    {
+      "id": "outlines.ae.hajar-range",
+      "countries": [
+        "AE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AE": {
+          "type": "place",
+          "lat": 25.1,
+          "lon": 56.1
+        }
+      },
+      "text": {
+        "en": "Thrust sheets of ancient ocean floor rose into rugged desert peaks."
+      },
+      "label": {
+        "en": "CRUMPLED MOUNTAINS"
+      },
+      "body": {
+        "en": "Continental collision squeezed the crust and pushed a slab of dense oceanic floor onto the land. These steep, jagged mountains capture rare rain and channel flash floods through narrow rocky gorges."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hajar_Mountains"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ae.shifting-dunes",
+      "countries": [
+        "AE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AE": {
+          "type": "place",
+          "lat": 23.6,
+          "lon": 54.5
+        }
+      },
+      "text": {
+        "en": "Winds shape towering sand ridges that migrate across the interior."
+      },
+      "label": {
+        "en": "RED DUNES"
+      },
+      "body": {
+        "en": "Constant desert winds heap loose quartz sand into giant crescent and star dunes that reach over a hundred metres tall. Iron oxide coats the sand grains, giving the vast interior sea of sand its deep amber and red glow."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rub%27_al_Khali"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ae.gravel-plains",
+      "countries": [
+        "AE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AE": {
+          "type": "place",
+          "lat": 25.3,
+          "lon": 55.8
+        }
+      },
+      "text": {
+        "en": "Torrents rushing off bare rock spread stone fans across the foothills."
+      },
+      "label": {
+        "en": "GRAVEL APRON"
+      },
+      "body": {
+        "en": "Occasional heavy storms wash weathered debris down steep mountain ravines. Where the water slows at the mountain foot, it deposits coarse gravel and silt in wide fans, creating level plains that store precious shallow groundwater."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_the_United_Arab_Emirates"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ae.salt-flats",
+      "countries": [
+        "AE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "AE": {
+          "type": "place",
+          "lat": 24.1,
+          "lon": 53.0
+        }
+      },
+      "text": {
+        "en": "Extreme heat and tidal floods crust low shores in thick salt."
+      },
+      "label": {
+        "en": "COASTAL SALT"
+      },
+      "body": {
+        "en": "Flat coastal margins sit barely above sea level, flooded periodically by high tides and shallow groundwater. Scorching desert sun evaporates the brine rapidly, cementing gypsum and mineral salts into wide, blinding white flats."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sabkha"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ae.mountain-wadis",
+      "countries": [
+        "AE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AE": {
+          "type": "place",
+          "lat": 25.1,
+          "lon": 56.2
+        }
+      },
+      "text": {
+        "en": "Dry stone beds become rushing torrents after sudden cloudbursts."
+      },
+      "label": {
+        "en": "CANYON FLASHFLOODS"
+      },
+      "body": {
+        "en": "Because barren rock cannot soak up rain, rare downpours run off instantly into steep valleys. The sudden floods carve deep gorges and fill temporary bedrock pools that sustain pocket oases."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Wadi"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ae.shallow-gulf",
+      "countries": [
+        "AE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AE": {
+          "type": "place",
+          "lat": 24.4,
+          "lon": 54.5
+        }
+      },
+      "text": {
+        "en": "High evaporation in a sheltered sea makes the water unusually salty."
+      },
+      "label": {
+        "en": "HYPERSALINE GULF"
+      },
+      "body": {
+        "en": "With almost no freshwater rivers emptying into this shallow, semi-enclosed sea and extreme summer heat evaporating surface water, salinity climbs far higher than open ocean levels, shaping hardy marine communities."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Persian_Gulf"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ae.inland-oases",
+      "countries": [
+        "AE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AE": {
+          "type": "place",
+          "lat": 24.2,
+          "lon": 55.6
+        }
+      },
+      "text": {
+        "en": "Underground aquifers rising near foothills support date palms."
+      },
+      "label": {
+        "en": "DESERT OASES"
+      },
+      "body": {
+        "en": "Rainwater filtering through the mountain limestone sinks underground and travels down slope beneath gravel beds. Where this water table nears the surface or is tapped by channels, dense palm groves flourish amid bare sands."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Oasis"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ae.tidal-creeks",
+      "countries": [
+        "AE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "AE": {
+          "type": "place",
+          "lat": 24.5,
+          "lon": 54.6
+        }
+      },
+      "text": {
+        "en": "Branching creeks sheltered by sand spits cut into the low coast."
+      },
+      "label": {
+        "en": "TIDAL INLETS"
+      },
+      "body": {
+        "en": "Gentle waves and longshore currents build chains of barrier islands and sandy shoals. Behind them, quiet tidal channels cut into the shore, trapping rich marine sediment and creating sheltered natural harbours."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Khor_(inlet)"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ae.salt-mangroves",
+      "countries": [
+        "AE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AE": {
+          "type": "place",
+          "lat": 24.4,
+          "lon": 54.8
+        }
+      },
+      "text": {
+        "en": "Salt-tolerant trees line sheltered lagoons and anchor sandy shores."
+      },
+      "label": {
+        "en": "DESERT MANGROVES"
+      },
+      "body": {
+        "en": "Despite blistering heat and high salinity, grey mangrove forests thrive along sheltered tidal channels. Their aerial roots stabilise muddy shores against storm surges and provide critical nurseries for fish and crabs."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Avicennia_marina"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ae.deep-rooted-trees",
+      "countries": [
+        "AE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AE": {
+          "type": "place",
+          "lat": 24.8,
+          "lon": 55.2
+        }
+      },
+      "text": {
+        "en": "Evergreen desert trees reach dozens of metres down to moisture."
+      },
+      "label": {
+        "en": "DEEP ROOTS"
+      },
+      "body": {
+        "en": "In sandy plains, hardy drought-resistant trees survive long dry spells by driving taproots up to thirty metres deep to reach water tables. Their foliage feeds desert herbivores and anchors moving dunes."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Prosopis_cineraria"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ae.desert-antelope",
+      "countries": [
+        "AE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AE": {
+          "type": "place",
+          "lat": 23.8,
+          "lon": 54.8
+        }
+      },
+      "text": {
+        "en": "Reflective white coats help desert antelopes survive summer heat."
+      },
+      "label": {
+        "en": "PALE HERDS"
+      },
+      "body": {
+        "en": "Adapted to waterless sand seas, these antelopes reflect blistering sun with pale coats and extract moisture from morning dew on desert shrubs. They can roam hundreds of kilometres following the scent of distant rain."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arabian_oryx"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.ae.seagrass-meadows",
+      "countries": [
+        "AE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "AE": {
+          "type": "place",
+          "lat": 24.0,
+          "lon": 53.0
+        }
+      },
+      "text": {
+        "en": "Shallow warm waters shelter the world's second largest dugong herd."
+      },
+      "label": {
+        "en": "SEAGRASS BEDS"
+      },
+      "body": {
+        "en": "Sunlight penetrates clear, shallow coastal waters, fueling extensive underwater meadows of seagrass. These vast grazing grounds support massive populations of sea cows and endangered green sea turtles."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dugong"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

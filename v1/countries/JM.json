@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "country": "JM",
+  "notes": [
+    {
+      "id": "outlines.jm.bluemountains",
+      "countries": [
+        "JM"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "JM": {
+          "type": "place",
+          "lat": 18.05,
+          "lon": -76.6
+        }
+      },
+      "text": {
+        "en": "A ridge in the east catches trade-wind rain, so the slopes are wet and cool."
+      },
+      "label": {
+        "en": "RAINY RIDGE"
+      },
+      "body": {
+        "en": "Moist winds from the sea blow up against the ridge, which tops 2,200 m, and drop rain on its windward side, while the far side and the southern coast stay drier.\n\nThe cool, misty slopes grow coffee and cloud forest."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Blue_Mountains_(Jamaica)"
+      ],
+      "review": "checked",
+      "version": 3
+    },
+    {
+      "id": "outlines.jm.cone-hills",
+      "countries": [
+        "JM"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "JM": {
+          "type": "place",
+          "lat": 18.3,
+          "lon": -77.65
+        }
+      },
+      "text": {
+        "en": "Rain dissolves limestone into steep cone hills and deep pits."
+      },
+      "label": {
+        "en": "CONE HILLS"
+      },
+      "body": {
+        "en": "About two thirds of the island is limestone. Slightly acidic rain dissolves it over time, eating the rock into many steep, rounded hills separated by star-shaped pits.\n\nWater vanishes into the rock rather than running over it, so the terrain is wild, hard to farm and mostly forest."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Karst",
+        "https://en.wikipedia.org/wiki/Cockpit_Country"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.jm.red-pockets",
+      "countries": [
+        "JM"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "JM": {
+          "type": "place",
+          "lat": 18.1,
+          "lon": -77.35
+        }
+      },
+      "text": {
+        "en": "Ore-rich red earth fills the pits between limestone hills."
+      },
+      "label": {
+        "en": "RED POCKETS"
+      },
+      "body": {
+        "en": "Over millions of years rain leached volcanic ash and impurities from the limestone, leaving a red residue rich in aluminium oxide. It collected in pits between the hills as bauxite, the ore of aluminium.\n\nMining it has long been a main export, and the red mud waste is a cleanup problem."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bauxite",
+        "https://en.wikipedia.org/wiki/Economy_of_Jamaica"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.jm.shaking-island",
+      "countries": [
+        "JM"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "JM": {
+          "type": "place",
+          "lat": 18.05,
+          "lon": -76.45
+        }
+      },
+      "text": {
+        "en": "The island sits on a plate boundary that has shaken it more than once."
+      },
+      "label": {
+        "en": "SHAKING ISLAND"
+      },
+      "body": {
+        "en": "The Caribbean plate slides past the North American plate along a fault that runs through the island. Strain builds for years or centuries, then releases as an earthquake.\n\nSteep slopes along the fault make quakes trigger landslides as well."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Enriquillo%E2%80%93Plantain_Garden_fault_zone"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.jm.flash-flood-streams",
+      "countries": [
+        "JM"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "JM": {
+          "type": "place",
+          "lat": 18.15,
+          "lon": -77.25
+        }
+      },
+      "text": {
+        "en": "Short, steep rivers rush to the sea and swell fast in storms."
+      },
+      "label": {
+        "en": "FLASH-FLOOD STREAMS"
+      },
+      "body": {
+        "en": "A mountainous spine only tens of kilometres from either coast gives rivers little room to flow. They drop steeply, run fast and rise within hours when a hurricane's rain hits the slopes.\n\nFloods carry soil and gravel to the coast and often wash out bridges."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Flash_flood"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.jm.vanishing-streams",
+      "countries": [
+        "JM"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "JM": {
+          "type": "place",
+          "lat": 18.3,
+          "lon": -77.8
+        }
+      },
+      "text": {
+        "en": "Streams sink into limestone and rise again as springs far away."
+      },
+      "label": {
+        "en": "VANISHING STREAMS"
+      },
+      "body": {
+        "en": "On limestone, rain does not run over the surface for long: it falls into pits and cracks and flows through caves underground. Much of the island's water supply comes from this groundwater and its springs.\n\nSo whatever happens on the land above, from farms to mines, can reach the taps below."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Karst_aquifer",
+        "https://en.wikipedia.org/wiki/Karst"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.jm.dry-leeward",
+      "countries": [
+        "JM"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "JM": {
+          "type": "place",
+          "lat": 17.95,
+          "lon": -77.2
+        }
+      },
+      "text": {
+        "en": "Trade winds drop their rain north of the ridge, leaving the south dry."
+      },
+      "label": {
+        "en": "DRY LEEWARD SOUTH"
+      },
+      "body": {
+        "en": "The sea air that rains on the north-east slopes is dry by the time it flows down the other side. The southern plains are so much drier than the wet north-east that cacti grow, and sugar cane needs irrigation.\n\nThe contrast makes two different climates within a short drive."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rain_shadow"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.jm.nowhere-else",
+      "countries": [
+        "JM"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "JM": {
+          "type": "place",
+          "lat": 18.2,
+          "lon": -77.4
+        }
+      },
+      "text": {
+        "en": "Isolated for millions of years, the island grew its own species."
+      },
+      "label": {
+        "en": "NOWHERE ELSE"
+      },
+      "body": {
+        "en": "Islands cut off by deep sea receive new species slowly, and what arrives evolves in its own way. This one has thousands of plant species, roughly a quarter found only here, plus endemic frogs, lizards and birds.\n\nClearing, invasive species and mining press on them."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Island_biogeography",
+        "https://en.wikipedia.org/wiki/Endemism"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.jm.stunted-cloud-forest",
+      "countries": [
+        "JM"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "JM": {
+          "type": "place",
+          "lat": 18.07,
+          "lon": -76.58
+        }
+      },
+      "text": {
+        "en": "Mist and wind keep ridge-top trees short and draped in moss."
+      },
+      "label": {
+        "en": "STUNTED CLOUD FOREST"
+      },
+      "body": {
+        "en": "Near the summits clouds rarely lift, winds are strong, and soils are thin and soaked. Trees stay short and twisted, covered with moss, orchids and ferns that take water straight from the mist.\n\nSuch cloud forests also comb moisture from the clouds and feed the streams below."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cloud_forest"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

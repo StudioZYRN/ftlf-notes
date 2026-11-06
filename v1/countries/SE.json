@@ -1,0 +1,375 @@
+{
+  "version": 1,
+  "country": "SE",
+  "notes": [
+    {
+      "id": "outlines.se.rebound",
+      "countries": [
+        "SE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "SE": {
+          "type": "place",
+          "lat": 63.7,
+          "lon": 17.0
+        }
+      },
+      "text": {
+        "en": "The land is still lifting after the weight of ice came off."
+      },
+      "label": {
+        "en": "RISING COAST"
+      },
+      "body": {
+        "en": "The ice sheet here was about two kilometres thick and pressed the crust down. Since it melted the land has been rising, and along the northern coast it is still rising by nearly a centimetre a year. Bays turn into meadow, harbours must be moved, and the head of the sea is slowly shrinking."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Post-glacial_rebound",
+        "https://en.wikipedia.org/wiki/High_Coast"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.se.esker",
+      "countries": [
+        "SE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "SE": {
+          "type": "place",
+          "lat": 59.95,
+          "lon": 17.3
+        }
+      },
+      "text": {
+        "en": "Gravel snakes left by rivers that once flowed inside the ice."
+      },
+      "label": {
+        "en": "ICE RIVER RIDGES"
+      },
+      "body": {
+        "en": "Meltwater streams ran in tunnels inside and under the ice sheet, dropping sand and gravel along the way. After the ice melted, the old channels were left standing as long, winding ridges, some stretching for hundreds of kilometres. Their dry, firm gravel made natural roads and farm sites in a land of bog and lake."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Esker"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.se.boulder-uplands",
+      "countries": [
+        "SE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "SE": {
+          "type": "place",
+          "lat": 57.3,
+          "lon": 15.0
+        }
+      },
+      "text": {
+        "en": "Thin, stony soil on hard rock kept the southern uplands wooded and poor."
+      },
+      "label": {
+        "en": "BOULDER UPLANDS"
+      },
+      "body": {
+        "en": "The southern highlands sit on hard granite and gneiss that the ice scraped bare and scattered with boulders. The soil is thin and acidic, full of stones, so farmers piled them into walls and fields were small. Forest and lakes cover much of this area, and it is much less productive than the plains farther south."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Småland",
+        "https://en.wikipedia.org/wiki/Glacial_erratic"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.se.impact-ring",
+      "countries": [
+        "SE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "SE": {
+          "type": "place",
+          "lat": 60.9,
+          "lon": 14.9
+        }
+      },
+      "text": {
+        "en": "A ring of lakes marks the scar of a meteorite from 380 million years ago."
+      },
+      "label": {
+        "en": "IMPACT RING"
+      },
+      "body": {
+        "en": "A rock from space hit this region, blasting a crater tens of kilometres wide. Erosion and later ice have since worn it down, but the shattered rock, deformed in a circle, still shows. Lakes now fill the weakest parts of the ring, and the deep rock was drilled for gas that scientists hoped would be of deep-Earth origin."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Siljan_Ring",
+        "https://en.wikipedia.org/wiki/Impact_crater"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.se.fault-lakes",
+      "countries": [
+        "SE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "SE": {
+          "type": "place",
+          "lat": 58.9,
+          "lon": 13.3
+        }
+      },
+      "text": {
+        "en": "The two largest lakes sit in basins where blocks of rock sank."
+      },
+      "label": {
+        "en": "FAULT LAKES"
+      },
+      "body": {
+        "en": "Long cracks in the rock let great blocks of crust drop down, forming sunken basins. Ice then deepened them and meltwater filled them. The largest lake, fed by many rivers, spills out to the west through a single outlet, while the one next to it is deeper and cold and clear enough that it is used for drinking water."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vänern",
+        "https://en.wikipedia.org/wiki/Vättern"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.se.parallel-rivers",
+      "countries": [
+        "SE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "SE": {
+          "type": "place",
+          "lat": 65.5,
+          "lon": 18.0
+        }
+      },
+      "text": {
+        "en": "Rivers run side by side from the mountains to the sea in the same direction."
+      },
+      "label": {
+        "en": "PARALLEL RIVERS"
+      },
+      "body": {
+        "en": "The land tilts gently from the mountain wall toward the Gulf, so rivers drain in near-parallel lines to the south-east. They fall steeply from the highlands, and a chain of dams on each now produces power in the north that is sent to the cities of the south. Their rapids are now mostly held in reservoirs."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Energy_in_Sweden"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.se.esker-aquifer",
+      "countries": [
+        "SE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "SE": {
+          "type": "place",
+          "lat": 60.0,
+          "lon": 16.6
+        }
+      },
+      "text": {
+        "en": "The gravel ridges left by ice are underground water tanks."
+      },
+      "label": {
+        "en": "GRAVEL AQUIFER"
+      },
+      "body": {
+        "en": "Gravel ridges let rain soak in and flow through, but the surrounding clay and bog hold water poorly. So the ridges store clean groundwater, and many towns draw their supply from beneath them. Because the gravel filters the water but offers no barrier to surface spills, protecting these ridges from pollution is a priority."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Esker",
+        "https://en.wikipedia.org/wiki/Aquifer"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.se.moose",
+      "countries": [
+        "SE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "SE": {
+          "type": "place",
+          "lat": 61.5,
+          "lon": 15.0
+        }
+      },
+      "text": {
+        "en": "Clear-cut forest grows the young shoots that moose love."
+      },
+      "label": {
+        "en": "MOOSE BOOM"
+      },
+      "body": {
+        "en": "Moose eat twigs and young shoots, which are scarce in dense old forest. Logging opens the canopy and sprouts a thick growth of young pine, birch and willow in its place, so moose do very well. Predators such as wolves are few, so hunting keeps the population in check, and collisions with vehicles are common."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Moose",
+        "https://en.wikipedia.org/wiki/Forestry_in_Sweden"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.se.twozones",
+      "countries": [
+        "SE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "SE": {
+          "type": "place",
+          "lat": 57.0,
+          "lon": 14.0
+        }
+      },
+      "text": {
+        "en": "A mild corner lets broadleaf woods grow where the rest is conifers."
+      },
+      "label": {
+        "en": "TWO FOREST ZONES"
+      },
+      "body": {
+        "en": "Warm Atlantic air makes the far south mild enough for beech, oak and hornbeam, trees found across western Europe. Move north and winters lengthen until spruce and pine take over, with a patchwork in between. The change takes place over a few hundred kilometres, which makes forests in the south look more like those of Germany."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nemoral",
+        "https://en.wikipedia.org/wiki/Hemiboreal"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.se.relict-char",
+      "countries": [
+        "SE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "SE": {
+          "type": "place",
+          "lat": 63.2,
+          "lon": 14.5
+        }
+      },
+      "text": {
+        "en": "Cold-water fish stuck in deep lakes when the ice retreated."
+      },
+      "label": {
+        "en": "ICE AGE FISH"
+      },
+      "body": {
+        "en": "Arctic char spread inland through meltwater as the ice sheet pulled back. When the land rose and the climate warmed, they stayed trapped in deep, cold lakes, far from the sea. They survive there as relicts of the ice age, and where lakes warm in summer, the char retreat to the cold deep water."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Arctic_char"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.se.taiga",
+      "countries": [
+        "SE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "SE": {
+          "type": "place",
+          "lat": 65.0,
+          "lon": 17.0
+        }
+      },
+      "text": {
+        "en": "Cold, short summers mean trees take generations to mature."
+      },
+      "label": {
+        "en": "SLOW-GROWN FOREST"
+      },
+      "body": {
+        "en": "Two thirds of the land is conifer forest of spruce and pine. A growing season of just a few months means trees may take a hundred years to reach logging size, and the dense, slow-grown wood is strong. The forest is a major resource, and it also stores carbon in the trees and in the soil beneath."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taiga",
+        "https://en.wikipedia.org/wiki/Forestry_in_Sweden"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.se.rock-flour",
+      "countries": [
+        "SE"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "SE": {
+          "type": "place",
+          "lat": 67.3,
+          "lon": 17.7
+        }
+      },
+      "text": {
+        "en": "Glaciers grind rock to flour, and rivers carry it off as pale turquoise water."
+      },
+      "label": {
+        "en": "MILKY MELTWATER"
+      },
+      "body": {
+        "en": "Glaciers act like slow grinders, crushing rock beneath them into silt as fine as flour. Meltwater carries it away, scattering light and turning rivers and lakes a milky blue-green. The silt settles when the water slows in a lake, and builds deltas, so each summer the glaciers' work shows up in the colour of the water below."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rock_flour",
+        "https://en.wikipedia.org/wiki/Glacial_lake"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

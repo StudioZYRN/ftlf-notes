@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "country": "CO",
+  "notes": [
+    {
+      "id": "outlines.co.three-cordilleras",
+      "countries": [
+        "CO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CO": {
+          "type": "place",
+          "lat": 5.0,
+          "lon": -75.5
+        }
+      },
+      "text": {
+        "en": "The mountain spine splits into three parallel ranges separated by trenches."
+      },
+      "label": {
+        "en": "TRIPLE CREST"
+      },
+      "body": {
+        "en": "As the northern Andes meet multiple tectonic blocks, the mountain chain fans out into three distinct ranges. Deep tectonic rift valleys between them isolate flora and fauna, fostering immense biodiversity across different elevation zones."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Andean_Region_(Colombia)"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.co.coastal-snowpeaks",
+      "countries": [
+        "CO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CO": {
+          "type": "place",
+          "lat": 10.8,
+          "lon": -73.7
+        }
+      },
+      "text": {
+        "en": "Glaciated massifs rise straight from tropical shores to snowy summits."
+      },
+      "label": {
+        "en": "ISOLATED PYRAMID"
+      },
+      "body": {
+        "en": "Sitting completely separate from the main mountain chain, this massive triangular block of granite was forced upward along major fault lines. It forms the world's highest coastal range, rising from sea level to perennial snow in under fifty kilometres."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sierra_Nevada_de_Santa_Marta"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.co.ancient-tepuis",
+      "countries": [
+        "CO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CO": {
+          "type": "place",
+          "lat": 2.3,
+          "lon": -73.8
+        }
+      },
+      "text": {
+        "en": "Precambrian sandstone plateaus rise like sheer islands above the jungle."
+      },
+      "label": {
+        "en": "ANCIENT TEPUIS"
+      },
+      "body": {
+        "en": "In the transitional zone where eastern savannahs meet the rainforest, remnants of the ancient continental shield form isolated flat-topped table mountains. Weathering over billions of years has carved dramatic arches and vertical pink sandstone cliffs."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Serran%C3%ADa_de_la_Macarena"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.co.mud-volcanoes",
+      "countries": [
+        "CO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "CO": {
+          "type": "place",
+          "lat": 10.7,
+          "lon": -75.2
+        }
+      },
+      "text": {
+        "en": "Subsurface methane vents push pressurized slurry into grey clay cones."
+      },
+      "label": {
+        "en": "BUBBLING MUD"
+      },
+      "body": {
+        "en": "Along the northern coastal margin, deeply buried marine sediments generate methane gas under extreme pressure. Escaping gas forces mineral-rich mud upward through crustal faults, building conical mounds that bubble cool grey slurry continuously."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/El_Totumo"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.co.interandean-artery",
+      "countries": [
+        "CO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CO": {
+          "type": "place",
+          "lat": 6.5,
+          "lon": -74.4
+        }
+      },
+      "text": {
+        "en": "Northward flowing rivers carve lush tectonic grabens through the peaks."
+      },
+      "label": {
+        "en": "VALLEY HIGHWAYS"
+      },
+      "body": {
+        "en": "Rivers flowing along fault lines between the three mountain ranges carved wide, fertile alluvial plains. These inter-mountain troughs served as primary transport arteries for millennia, linking interior highland basins with the sea."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Magdalena_River"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.co.bi-oceanic-coasts",
+      "countries": [
+        "CO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CO": {
+          "type": "place",
+          "lat": 8.5,
+          "lon": -76.8
+        }
+      },
+      "text": {
+        "en": "Coasts on both the Pacific Ocean and the Caribbean Sea frame the land."
+      },
+      "label": {
+        "en": "TWO OCEANS"
+      },
+      "body": {
+        "en": "Sitting at the continental junction, the territory touches both major oceans. The western coast receives torrential Pacific rainfall and massive tidal swings, while the northern shore experiences a drier climate with coral reefs and sandy barrier spits."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Colombia"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.co.river-of-colors",
+      "countries": [
+        "CO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CO": {
+          "type": "place",
+          "lat": 2.2,
+          "lon": -73.8
+        }
+      },
+      "text": {
+        "en": "Endemic riverweed blooms into brilliant crimson ribbons on rocky rapids."
+      },
+      "label": {
+        "en": "RAINBOW STREAM"
+      },
+      "body": {
+        "en": "Where clear streams cascade over ancient sandstone bedrock, unique endemic aquatic plants cling to rapids. Between wet and dry seasons, sunlight triggers the plants to bloom in vibrant shades of magenta, yellow, and red."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ca%C3%B1o_Cristales"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.co.pluvial-torrents",
+      "countries": [
+        "CO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "CO": {
+          "type": "place",
+          "lat": 5.7,
+          "lon": -76.6
+        }
+      },
+      "text": {
+        "en": "Warm Pacific trade winds dump over ten metres of rain a year onto jungles."
+      },
+      "label": {
+        "en": "RAIN BELT"
+      },
+      "body": {
+        "en": "Moist tropical winds sweeping off the warm ocean are abruptly trapped by the steep western mountain slopes. Rapid orographic lifting unleashes nearly continuous torrential downpours, fueling vast networks of silt-rich jungle rivers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Choc%C3%B3_Department"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.co.paramo-sponges",
+      "countries": [
+        "CO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CO": {
+          "type": "place",
+          "lat": 4.6,
+          "lon": -74.3
+        }
+      },
+      "text": {
+        "en": "High alpine moorlands absorb cloud moisture and regulate drinking water."
+      },
+      "label": {
+        "en": "WATER SPONGES"
+      },
+      "body": {
+        "en": "Above the Andean cloud forests, cold, windswept grasslands are dotted with giant rosette plants with thick hairy leaves. The mossy volcanic soil acts like a giant sponge, trapping fog droplets and steadily releasing water to major rivers."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/P%C3%A1ramo"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.co.flooded-savannahs",
+      "countries": [
+        "CO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CO": {
+          "type": "place",
+          "lat": 5.5,
+          "lon": -71.5
+        }
+      },
+      "text": {
+        "en": "Vast eastern grasslands alternate between severe drought and deep swamps."
+      },
+      "label": {
+        "en": "SEASONAL PLAINS"
+      },
+      "body": {
+        "en": "In the immense lowlands drained toward the Orinoco, flat clay soils impede drainage. Monsoon rains submerge millions of hectares into shallow inland marshes teeming with capybaras and caimans, before dry winds bake the plains into dust."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Llanos"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.co.southern-canopy",
+      "countries": [
+        "CO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CO": {
+          "type": "place",
+          "lat": -1.0,
+          "lon": -71.0
+        }
+      },
+      "text": {
+        "en": "Dense multi-layered rainforest shelters unmatched bird and plant life."
+      },
+      "label": {
+        "en": "JUNGLE CANOPY"
+      },
+      "body": {
+        "en": "In the southern lowlands, continuous equatorial humidity sustains immense tracts of primary rainforest. Massive kapok and rubber trees form a closed canopy forty metres up, shading a complex understory where thousands of tree species co-exist."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amazon_rainforest"
+      ],
+      "review": "draft",
+      "version": 1
+    },
+    {
+      "id": "outlines.co.cloudforest-flyers",
+      "countries": [
+        "CO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "CO": {
+          "type": "place",
+          "lat": 4.8,
+          "lon": -75.6
+        }
+      },
+      "text": {
+        "en": "Steep elevational microclimates spurred hundreds of hummingbird species."
+      },
+      "label": {
+        "en": "NECTAR FEEDERS"
+      },
+      "body": {
+        "en": "Because mountain walls create isolated ecological niches every few hundred vertical metres, flowering plants and pollinators evolved in close isolation. Over a hundred distinct hummingbird species co-exist by specializing on specific blossoms."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/List_of_birds_of_Colombia"
+      ],
+      "review": "draft",
+      "version": 1
+    }
+  ]
+}

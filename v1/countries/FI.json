@@ -1,0 +1,375 @@
+{
+  "version": 1,
+  "country": "FI",
+  "notes": [
+    {
+      "id": "outlines.fi.oldrock",
+      "countries": [
+        "FI"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "FI": {
+          "type": "place",
+          "lat": 63.5,
+          "lon": 28.5
+        }
+      },
+      "text": {
+        "en": "Some of the oldest rock in Europe has been worn down to a low plain."
+      },
+      "label": {
+        "en": "ANCIENT FLAT ROCK"
+      },
+      "body": {
+        "en": "The bedrock here is billions of years old, the stump of mountain ranges that eroded away long ago. What is left is a hard, flat shield of granite and gneiss with almost no relief, which the ice sheets then scoured. Because the surface is so level, water cannot run off, and the land is dotted with lakes, bogs and low, rounded hills."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Baltic_Shield",
+        "https://en.wikipedia.org/wiki/Geography_of_Finland"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fi.rebound",
+      "countries": [
+        "FI"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "FI": {
+          "type": "place",
+          "lat": 63.0,
+          "lon": 23.0
+        }
+      },
+      "text": {
+        "en": "The land is still springing back after the weight of ice came off."
+      },
+      "label": {
+        "en": "RISING SEABED"
+      },
+      "body": {
+        "en": "A kilometres-thick ice sheet pressed the crust down. Since it melted the land has been bouncing up, in this region by about a centimetre a year. Shallow bays turn to meadow, harbours silt up and islands merge with the shore. Over centuries the coastline moves seaward, and the country slowly gains land."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Post-glacial_rebound",
+        "https://en.wikipedia.org/wiki/Isostasy"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fi.ridges",
+      "countries": [
+        "FI"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "FI": {
+          "type": "place",
+          "lat": 61.0,
+          "lon": 26.0
+        }
+      },
+      "text": {
+        "en": "A stalled ice front piled up long ridges of gravel and sand."
+      },
+      "label": {
+        "en": "ICE EDGE RIDGES"
+      },
+      "body": {
+        "en": "About 12,000 years ago, the melting ice edge paused for centuries in a cold snap. Rivers and the ice dumped rubble at the front in long, arcing ridges, and the ridges today run for hundreds of kilometres across the southern landscape. Their well-drained gravel and sand make firm routes for roads and a source of clean groundwater."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Salpausselkä",
+        "https://en.wikipedia.org/wiki/Terminal_moraine"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fi.fells",
+      "countries": [
+        "FI"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "FI": {
+          "type": "place",
+          "lat": 68.4,
+          "lon": 27.0
+        }
+      },
+      "text": {
+        "en": "Old mountains in the far north are low domes, not jagged peaks."
+      },
+      "label": {
+        "en": "ROUNDED FELLS"
+      },
+      "body": {
+        "en": "These hills are the last roots of ancient mountain ranges, worn smooth by hundreds of millions of years of erosion and then rubbed round by ice. Their tops are bare of trees because the wind and cold are too harsh, and they rise gently from the forest. Without steep slopes, snow lies deep and long, which suits reindeer and winter sports."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fell_(landform)",
+        "https://en.wikipedia.org/wiki/Geography_of_Finland"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fi.lakes",
+      "countries": [
+        "FI"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "FI": {
+          "type": "place",
+          "lat": 62.5,
+          "lon": 27.5
+        }
+      },
+      "text": {
+        "en": "Moving ice scooped out a maze of hollows that filled with water."
+      },
+      "label": {
+        "en": "SCOURED BASINS"
+      },
+      "body": {
+        "en": "Ice sheets scraped the hard, flat rock and left shallow basins and ridges of gravel. Meltwater and rain filled the hollows, giving the country close to two hundred thousand lakes. They join in long chains, and wooded islands fill them, so that water and land interlock across a large part of the country."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Finnish_Lakeland",
+        "https://en.wikipedia.org/wiki/Lakes_of_Finland"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.fi.shallowbowls",
+      "countries": [
+        "FI"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "FI": {
+          "type": "place",
+          "lat": 62.8,
+          "lon": 26.5
+        }
+      },
+      "text": {
+        "en": "Because the land is flat, even huge lakes are only a few metres deep."
+      },
+      "label": {
+        "en": "SHALLOW BOWLS"
+      },
+      "body": {
+        "en": "The ice scoured wide, flat hollows rather than deep gorges, so most lakes are shallow. Shallow water warms quickly in summer and fills with reeds and nutrients from the forest, and many are slowly turning into bogs. In winter they freeze for months and their ice carries people and vehicles across."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lakes_of_Finland"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fi.snowmelt",
+      "countries": [
+        "FI"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "FI": {
+          "type": "place",
+          "lat": 64.5,
+          "lon": 26.0
+        }
+      },
+      "text": {
+        "en": "Months of snow melt together in spring and flood the flat north."
+      },
+      "label": {
+        "en": "SNOWMELT SURGE"
+      },
+      "body": {
+        "en": "Snow lies on the ground for half the year. When it melts in a few weeks, the water has nowhere quick to go on such flat land, so rivers rise sharply and spill across floodplains. Spring floods are the big event of the river year, while lakes act as buffers that spread the water out and release it slowly through summer."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Finland"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fi.taiga",
+      "countries": [
+        "FI"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "FI": {
+          "type": "place",
+          "lat": 64.0,
+          "lon": 27.5
+        }
+      },
+      "text": {
+        "en": "Cold winters and poor soil favour just a few tough conifers."
+      },
+      "label": {
+        "en": "WALL OF FOREST"
+      },
+      "body": {
+        "en": "Short summers, long frozen winters and acid soils leave few trees able to grow: mostly pine, spruce and birch. The cold slows decay, so fallen needles pile up and make the soil more acidic, which only these conifers tolerate. Forest covers around three quarters of the land, one of the highest shares in Europe, and wood from it feeds paper and timber industries."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Taiga",
+        "https://en.wikipedia.org/wiki/Boreal_forest"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fi.mires",
+      "countries": [
+        "FI"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "FI": {
+          "type": "place",
+          "lat": 64.5,
+          "lon": 28.0
+        }
+      },
+      "text": {
+        "en": "Flat land, cold and wet ground turn dead plants into thick peat."
+      },
+      "label": {
+        "en": "PEAT BOGS"
+      },
+      "body": {
+        "en": "Where water cannot drain, moss grows faster than it rots in the cold, and its remains build up as peat, a few millimetres a year. Bogs and fens cover roughly a third of the land. They store large amounts of carbon, and many have been drained for forestry or dug for fuel, releasing it again."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mire",
+        "https://en.wikipedia.org/wiki/Peat"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fi.lakeseal",
+      "countries": [
+        "FI"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "FI": {
+          "type": "place",
+          "lat": 61.4,
+          "lon": 28.0
+        }
+      },
+      "text": {
+        "en": "A seal lives only in one lake system, cut off from the sea by the rising land."
+      },
+      "label": {
+        "en": "STRANDED SEALS"
+      },
+      "body": {
+        "en": "After the ice age, a population of ringed seals was trapped when land rise sealed their lake off from the Baltic. They have lived in fresh water for thousands of years and are now a separate subspecies. Only a few hundred remain, and they depend on snow drifts on the lake ice to dig their birth lairs; mild winters threaten their pups."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Saimaa_ringed_seal"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fi.reindeer-lichen",
+      "countries": [
+        "FI"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "FI": {
+          "type": "place",
+          "lat": 68.5,
+          "lon": 26.0
+        }
+      },
+      "text": {
+        "en": "Slow-growing lichen carpets feed herds through the long winter."
+      },
+      "label": {
+        "en": "REINDEER FOOD"
+      },
+      "body": {
+        "en": "In the cold north, ground lichens grow only a few millimetres a year but cover open pine forest and fell tops. Reindeer dig down through the snow to reach them, and lichen keeps them alive when nothing else is green. Herds graze each area for a while and move on, because lichen takes decades to recover from heavy grazing."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cladonia_rangiferina",
+        "https://en.wikipedia.org/wiki/Reindeer"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.fi.lowdivide",
+      "countries": [
+        "FI"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "FI": {
+          "type": "place",
+          "lat": 68.9,
+          "lon": 27.9
+        }
+      },
+      "text": {
+        "en": "So little slope separates the rivers that most go south and a few go north."
+      },
+      "label": {
+        "en": "LOW DIVIDE"
+      },
+      "body": {
+        "en": "Across the flat north, only a slight rise splits the drainage. Most water runs south and west to the Baltic, but in the far north a large lake drains out through a river that flows north to the Arctic Ocean. The divide is so low that you could hardly find it on the ground, and it is one reason the lakes here are so closely linked."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lake_Inari",
+        "https://en.wikipedia.org/wiki/Paatsjoki"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}

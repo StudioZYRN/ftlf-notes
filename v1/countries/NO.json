@@ -1,0 +1,344 @@
+{
+  "version": 1,
+  "country": "NO",
+  "notes": [
+    {
+      "id": "outlines.no.worn-giants",
+      "countries": [
+        "NO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "NO": {
+          "type": "place",
+          "lat": 61.6,
+          "lon": 8.4
+        }
+      },
+      "text": {
+        "en": "These peaks are the stumps of a range once as tall as the Himalayas."
+      },
+      "label": {
+        "en": "WORN GIANTS"
+      },
+      "body": {
+        "en": "Around 400 million years ago, two continents collided and raised a huge mountain chain. Hundreds of millions of years of erosion wore it down to rounded stumps, and later uplift lifted the old surface high again. Ice then carved the sharpest peaks and deepest valleys into it, so the range is ancient in rock but young in shape."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Scandinavian_Mountains",
+        "https://en.wikipedia.org/wiki/Caledonian_orogeny"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.no.icecap",
+      "countries": [
+        "NO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "NO": {
+          "type": "place",
+          "lat": 61.7,
+          "lon": 6.9
+        }
+      },
+      "text": {
+        "en": "A plateau of ice sits on the mountaintops and sends tongues into the valleys."
+      },
+      "label": {
+        "en": "ICE CAP"
+      },
+      "body": {
+        "en": "Moist Atlantic air is forced upward by the mountains and falls as heavy snow on the high plateau. The snow compacts into an ice cap on the highest ground, and glacier tongues spill down valleys on every side. Its meltwater feeds waterfalls and lakes, and as the climate warms the tongues are withdrawing uphill."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Jostedalsbreen",
+        "https://en.wikipedia.org/wiki/Ice_cap"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.no.plateau",
+      "countries": [
+        "NO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "landforms",
+      "anchors": {
+        "NO": {
+          "type": "place",
+          "lat": 60.2,
+          "lon": 7.6
+        }
+      },
+      "text": {
+        "en": "A broad, windswept tableland sits where you would expect a peak."
+      },
+      "label": {
+        "en": "HIGH PLATEAU"
+      },
+      "body": {
+        "en": "This is the remnant of an old, flat landscape that was uplifted as a block and then scoured, not carved into peaks, by ice. It lies above the treeline, and covers thousands of square kilometres of lakes, bog and bare rock. Its edges fall away into deep valleys, so it is a rare, large flat area on a very steep coast."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hardangervidda",
+        "https://en.wikipedia.org/wiki/Plateau"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.no.fjords",
+      "countries": [
+        "NO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "NO": {
+          "type": "place",
+          "lat": 61.2,
+          "lon": 7.2
+        }
+      },
+      "text": {
+        "en": "Glaciers gouged deep valleys; when the ice melted the sea flooded them."
+      },
+      "label": {
+        "en": "DROWNED VALLEYS"
+      },
+      "body": {
+        "en": "Ice sheets carved steep-sided troughs far below sea level, in places more than a kilometre deep. As the ice melted, the ocean poured in, leaving long, narrow inlets with tall cliffs. Their shelter helped the first settlers and now supports fish farms and tourism, while the inland tips can lie 200 kilometres from the open sea."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Fjord",
+        "https://en.wikipedia.org/wiki/Sognefjord"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.no.sills",
+      "countries": [
+        "NO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "NO": {
+          "type": "place",
+          "lat": 60.2,
+          "lon": 6.5
+        }
+      },
+      "text": {
+        "en": "A shallow threshold at the mouth can lock water inside a deep fjord."
+      },
+      "label": {
+        "en": "STILL DEEP WATER"
+      },
+      "body": {
+        "en": "Where a glacier reached the sea it thinned, dumped rubble and cut less deeply, so many fjords have a shallow ridge, or sill, at their mouth. Water below the sill's height is cut off from the ocean outside and gets renewed only when dense water spills over occasionally. In between, the deep water can lose its oxygen."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aquatic_sill",
+        "https://en.wikipedia.org/wiki/Fjord"
+      ],
+      "review": "checked",
+      "version": 2
+    },
+    {
+      "id": "outlines.no.hanging-falls",
+      "countries": [
+        "NO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "NO": {
+          "type": "place",
+          "lat": 61.9,
+          "lon": 7.0
+        }
+      },
+      "text": {
+        "en": "Streams on high ledges drop straight into the fjords below."
+      },
+      "label": {
+        "en": "HANGING FALLS"
+      },
+      "body": {
+        "en": "Big glaciers cut deep main valleys while small side glaciers cut shallow ones. When the ice melted, the side valleys were left hanging high above the main one, and their streams now drop over the lip as waterfalls. Spring snowmelt makes them roar, and the mist and spray keep the cliff walls green and mossy."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hanging_valley",
+        "https://en.wikipedia.org/wiki/Waterfall"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.no.hydro",
+      "countries": [
+        "NO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "water",
+      "anchors": {
+        "NO": {
+          "type": "place",
+          "lat": 60.0,
+          "lon": 8.2
+        }
+      },
+      "text": {
+        "en": "Rain, mountains and steep drops supply nearly all of the power."
+      },
+      "label": {
+        "en": "STEEP WATER"
+      },
+      "body": {
+        "en": "Wet Atlantic winds dump rain and snow on the mountains, and rivers drop hundreds of metres to the sea within a short distance. Dams in high valleys store water and run turbines, so almost all electricity is from falling water. Cheap power drew metal smelting and other industries to the narrow coastal valleys."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hydroelectricity_in_Norway"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.no.rainshadow",
+      "countries": [
+        "NO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "NO": {
+          "type": "place",
+          "lat": 61.85,
+          "lon": 8.3
+        }
+      },
+      "text": {
+        "en": "The west coast drowns in rain while a valley just inland is nearly dry."
+      },
+      "label": {
+        "en": "RAIN WALL"
+      },
+      "body": {
+        "en": "Air from the Atlantic rises over the mountains, cools and drops several metres of rain a year on the western slopes. By the time it descends on the east side it has lost its moisture, and some inland valleys get less than 400 millimetres, close to semi-desert. A short drive crosses from lush moss forest to dry pine woods."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rain_shadow",
+        "https://en.wikipedia.org/wiki/Geography_of_Norway"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.no.warmcurrent",
+      "countries": [
+        "NO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "NO": {
+          "type": "place",
+          "lat": 68.9,
+          "lon": 19.0
+        }
+      },
+      "text": {
+        "en": "Pine and birch grow far above the Arctic Circle, where they should not."
+      },
+      "label": {
+        "en": "WARM-CURRENT FOREST"
+      },
+      "body": {
+        "en": "A branch of the Gulf Stream carries warm Atlantic water north, and westerly winds bring that warmth onto land. Winters stay far milder than at the same latitude in Canada or Siberia, so coasts stay ice-free and forests reach well past the Arctic Circle. The same warm current feeds the plankton that supports huge cod stocks."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gulf_Stream",
+        "https://en.wikipedia.org/wiki/North_Atlantic_Current"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.no.lemming",
+      "countries": [
+        "NO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "nature",
+      "anchors": {
+        "NO": {
+          "type": "place",
+          "lat": 60.2,
+          "lon": 7.8
+        }
+      },
+      "text": {
+        "en": "Small rodents surge every few years and set the whole food chain in motion."
+      },
+      "label": {
+        "en": "BOOM AND BUST"
+      },
+      "body": {
+        "en": "On the treeless plateau, lemming numbers explode every three to five years when food and snow cover are right, then crash. Predators follow the cycle: Arctic foxes, owls and skuas breed heavily in peak years and many go hungry in the troughs. Warmer winters with less steady snow are weakening these cycles."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Norway_lemming",
+        "https://en.wikipedia.org/wiki/Lemming"
+      ],
+      "review": "checked",
+      "version": 1
+    },
+    {
+      "id": "outlines.no.long-coast",
+      "countries": [
+        "NO"
+      ],
+      "mode": "outlines",
+      "tier": "reveal",
+      "category": "shape",
+      "anchors": {
+        "NO": {
+          "type": "whole"
+        }
+      },
+      "text": {
+        "en": "Fjords and islands stretch a modest coast into one of the world's longest."
+      },
+      "label": {
+        "en": "RAGGED EDGE"
+      },
+      "body": {
+        "en": "Every fjord, inlet and island adds to the shoreline, so a straight run of coast turns into a fractal edge many times longer once all the indentations are counted. The ice-carved valleys reach inland and a belt of rocky islands lies offshore. Most settlement and travel clung to this coast, with the mountains behind forming a barrier."
+      },
+      "sources": [
+        "https://en.wikipedia.org/wiki/Geography_of_Norway",
+        "https://en.wikipedia.org/wiki/Coastline_paradox"
+      ],
+      "review": "checked",
+      "version": 1
+    }
+  ]
+}
